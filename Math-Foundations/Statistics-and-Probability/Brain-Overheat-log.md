@@ -1,7 +1,7 @@
 # 🧠 Brain-Overheat Log (Difficulties & Breakthroughs)
 **Project:** Architectural Logic to Quantitative PhD Pipeline
 **Status:** High-Intensity Mental Restructuring
-
+**Timeline:** 1.11-1.20.2026
 ---
 
 ## 🛑 The "Static vs. Dynamic" Barrier
