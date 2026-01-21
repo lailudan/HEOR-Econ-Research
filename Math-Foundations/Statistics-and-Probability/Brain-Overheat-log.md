@@ -4,6 +4,16 @@
 ## 🛑 Two-way Table Blind Spot: Failed to distinguish between "Global Total" and "Conditional Group Total."
 * **Strategy**: Circle the denominator (the "of" part of the sentence) before looking at the numerator.
 
+  ### 🛑 1/21 Trap: The "Proportion vs. Absolute Count" Illusion
+> **Lesson**: A higher percentage does NOT mean a higher number of people.
+
+* **The Mistake**: Selecting an answer about "more people" (Absolute Count) based solely on a "Relative Frequency Table" (Proportion).
+* **Structural Logic**: 
+    * **Relative Frequency** (e.g., 0.15 vs 0.08) describes the **Shape** or density within a group.
+    * **Absolute Count** depends on the **Scale** (the total sample size $N$ of that group).
+* **The Golden Rule**: Unless the total $N$ for each group is provided, any conclusion claiming "more/fewer people" is logically invalid. 
+* **PhD Research Mantra**: In my future YOPD data analysis, I must distinguish between the *prevalence rate* (percentage) and the *patient population size* (absolute count) to avoid misleading policy conclusions.
+
 
 
 
