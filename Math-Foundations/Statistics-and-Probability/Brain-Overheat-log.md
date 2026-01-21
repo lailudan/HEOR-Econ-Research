@@ -1,4 +1,4 @@
-## Update Log 1.21.2026
+## Updated 1.21.2026
 
 
 ## 🛑 Two-way Table Blind Spot: Failed to distinguish between "Global Total" and "Conditional Group Total."
