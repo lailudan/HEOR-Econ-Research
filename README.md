@@ -19,4 +19,8 @@ In a world of noise, math provides the only certainty. I use GitHub to track the
     ├── Takahashi-Series/   # Deep dives into Dr. Shingo & Ana Maria Takahashi’s research
     └── Disability-Econ/    # Foundational papers on Disability Economics
 
-[![Notion](https://img.shields.io/badge/Notion-Academic%20Ventures-black?style=flat&logo=notion&logoColor=white)](https://www.notion.so/Public-Bio-Research-Interests-2ef629379e3780b28d08e752b2cdc114)
+<p align="left">
+  <a href="https://www.notion.so/Public-Bio-Research-Interests-2ef629379e3780b28d08e752b2cdc114">
+    <img src="https://img.shields.io/badge/Notion-Academic%20Ventures-black?style=for-the-badge&logo=notion&logoColor=white" />
+  </a>
+</p>
