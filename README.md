@@ -22,5 +22,5 @@ In a world of noise, math provides the only certainty. I use GitHub to track the
 ## Research Profile & Working Notes
 
 - **Public Research Profile (Notion)**  
-  [View research notes and background](https://www.notion.so/Public-Bio-Research-Interests-2ef629379e3780b28d08e752b2cdc114)
+  View research notes and background → https://www.notion.so/Public-Bio-Research-Interests-2ef629379e3780b28d08e752b2cdc114
 
