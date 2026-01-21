@@ -18,3 +18,5 @@ In a world of noise, math provides the only certainty. I use GitHub to track the
 └── /Literature-Review/     # [Context] Academic lineage & research gap analysis
     ├── Takahashi-Series/   # Deep dives into Dr. Shingo & Ana Maria Takahashi’s research
     └── Disability-Econ/    # Foundational papers on Disability Economics
+
+[🧠 View my Digital Research Brain (Notion)](https://www.notion.so/Public-Bio-Research-Interests-2ef629379e3780b28d08e752b2cdc114)
