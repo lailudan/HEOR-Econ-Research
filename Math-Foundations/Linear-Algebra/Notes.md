@@ -1,3 +1,63 @@
+# 📐 Linear Algebra: Deep-Dive Log
+
+**Project:** Linear Algebra Foundation for GSICS-Econometrics
+**Focus:** Linear Combinations and The Concept of "Span"
+**Date:** Jan 22, 2026 (Morning Session)
+**Framework:** Architectural Structure → Quantitative Modeling
+
+---
+
+## 🛠 Core Module: Vector Combinations & Span
+
+### 1. Linear Combinations: The "Grid" Logic
+* **Insight**: 任何向量都可以看作是基础向量（如 $i$ 和 $j$）的**线性缩放与相加**。
+* **The "Recipe"**: $\vec{w} = a\vec{v} + b\vec{u}$。
+    * $a, b$ 是标量（Scalars），代表你对每个方向投入的“权重”。
+    * 向量相加是“平移”，标量乘法是“伸缩”。
+* **Architectural Link**: 这就像是在建筑模数网格中，通过调整横梁（$i$）和纵轴（$j$）的数量来定位空间中的任何一个结构点。
+
+### 2. The Concept of "Span" (张成空间)
+* **Insight**: Span 就是你手里这组向量能“到达”的所有地盘的总和。
+* **Dimensional Breakthrough**:
+    * **Point**: 两个向量都是零向量（无处可去）。
+    * **Line (1D Span)**: 两个向量共线（Lined Up），无论你怎么组合，你都只能在一条直线上徘徊。这就是**线性相关（Linearly Dependent）**。
+    * **Plane (2D Span)**: 两个向量指向不同方向。它们的组合可以覆盖整个无限大的平面。这就是**线性无关（Linearly Independent）**。
+* **The "Kobe" Research Impact**: 在老师的计量模型中，如果选的两个自变量（如“教育年限”和“智商测试得分”）完全共线，Span 就会塌陷，模型将无法计算。
+
+---
+
+## 🧠 Brain-Overheat: Difficulties & Breakthroughs
+
+### 🛑 The "Redundancy" Paradox
+* **Struggle**: 为什么向量越多，Span 有时不增反减？
+* **Mental Block**: 习惯性认为 $1+1=2$，但在向量空间里，如果第三个向量落在前两个向量的 Span 里，它就是**冗余信息**。
+* **Breakthrough**: 意识到 **Basis（基）** 的重要性——我们追求的是用“最精简”的向量张成“最大”的空间。
+
+### 🛑 Semantic Shift: From "Drawing" to "Spanning"
+* **Shift**: 不再把向量看作是一根死掉的线，而是一组能够生成无限空间的**“生成元”**。
+* **Analogy**: 向量就像调色盘上的原色。红和蓝可以张成（Span）出所有的紫色系；但如果两个颜色都是红，你永远只能得到红。
+
+---
+
+## 📈 Commits & Progress Tracking
+
+| Commit Hash | Description | Status |
+| :--- | :--- | :--- |
+| `feat: linear-comb` | Mastered combining vectors using scalars | ✅ Done |
+| `feat: span-visual` | Visualized 1D vs 2D Span in coordinate planes | ✅ Done |
+| `fix: redundancy` | Identified linearly dependent vectors in practice | ✅ Done |
+
+---
+
+## 🚀 Upcoming Focus: Linear Transformations (线性变换)
+* [ ] 理解矩阵如何作为一种“函数”来移动整个 Span。
+* [ ] 探索空间压缩：当一个平面被压缩成一条线时发生了什么（Determinant = 0）。
+* [ ] 准备 5 月 11 日 GRE 数学部分的向量坐标系题目。
+
+---
+> **"The 1.5 hours of daily grinding is the sound of architectural intuition being re-coded into an econometric weapon."**
+
+
 # 📐 Linear Algebra: Deep-Dive Log (Updated 1.20.2026)
 
 **Project:** Linear Algebra Foundation for GSICS-Econometrics
