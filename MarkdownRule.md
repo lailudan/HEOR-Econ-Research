@@ -6,7 +6,7 @@
 *这是斜体* (用于备注或心情)
 ~~这是删除线~~ (用于记录被纠正的错误观念)
 
-> 这是引用块 (非常适合放你的 "Core Insight" 或导师语录)
+> 这是引用块 (非常适合"Core Insight" 或导师语录)
 
 --- (这是水平分割线，用于区分不同的知识模块)
 
@@ -41,11 +41,11 @@
 **Focus:** Linear Combinations & Span
 
 ## 🌟 Core Insight
-> [在此处填入今天关于“向量组合”最深刻的一句直觉，比如：向量是调色盘...]
+> [在此处填入今天关于“新的知识”最深刻的一句直觉，比如：向量是调色盘...]
 
 ---
 
-## 🏗️ Technical Breakdown
+## 🏗️ Technical Breakdown举例
 
 ### 1. Linear Combination (线性组合)
 - **Concept**: $\vec{w} = a\vec{v} + b\vec{u}$
