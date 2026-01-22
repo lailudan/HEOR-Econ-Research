@@ -60,7 +60,7 @@
 
 ## 🛑 Brain-Overheat: Today's "Aha!" Moment
 - **Difficulty**: [记录一个今天卡壳的小点]
-- **Breakthrough**: [记录如何想通的，或者我给你的哪个比喻帮到了你]
+- **Breakthrough**: [记录如何想通的，或者哪个比喻帮到了我]
 
 ---
 
