@@ -1,4 +1,4 @@
-## Updated 1/23 Statistics: The Row vs. Column Geometry
+## Updated 1.23.2026 Statistics: The Row vs. Column Geometry
 > **Core Struggle**: Feeling that Statistics is harder than Calculus because of semantic ambiguity.
 
 #### 1. The "Floor Plan" Mental Model
