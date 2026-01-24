@@ -3,6 +3,12 @@
 # Marginal and conditional distributions
 
 
+
+
+
+
+
+
 # Study Notes: Quantitative Logic Transition
 **Timeline:** Jan 11 - Jan 20, 2026  
 **Mission:** Bridging the gap between Architectural Static Equilibrium and Econometric Dynamic Evolution.
