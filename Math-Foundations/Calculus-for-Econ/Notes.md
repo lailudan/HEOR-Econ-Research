@@ -1,5 +1,5 @@
-**Updated:** Jan 24, 2026 
-### 🔍 Deep Dive: Unbounded vs. DNE
+# Updated:** Jan 24, 2026 
+## 🔍 Deep Dive: Unbounded vs. DNE
 - **DNE (General)**: The total failure of convergence. Left neighbor $\neq$ Right neighbor.
 - **Unbounded ($\infty$)**: A "disciplined" failure. Neighbors agree to explode together. 
 - **PhD Insight**: In Economic modeling, $\infty$ signals a "bubble" or "systemic divergence," while a general DNE signals a "structural jump" or "chaotic noise."
