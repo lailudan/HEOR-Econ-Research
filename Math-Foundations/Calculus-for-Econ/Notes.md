@@ -59,6 +59,20 @@
 * **Mathematical Confidence:** 确认了“求导（寻找斜率）”与“积分（寻找面积）”是互逆的操作。
 * **Next Step:** 准备进入 **Linear Algebra**，探索如何用矩阵一次性管理成千上万个这类“函数对”。
 
+## ⚖️ The Two Directions of Calculus
+> Mastering the "Slicing" and "Stitching" logic.
+
+1. **The Slicer (Differentiation)**:  
+   - $f \xrightarrow{\text{Slope}} s$  
+   - $s = \frac{df}{dt}$  
+   - *Logic:* How steep is the growth? (Finding the Pulse).
+
+2. **The Stitcher (Integration)**:  
+   - $s \xrightarrow{\text{Area}} f$  
+   - $f = \int s \, dt$  
+   - *Logic:* How much has accumulated? (Finding the Total).
+
+* **Final Verdict**: Calculus is a closed loop. Integration builds the mountain; Differentiation measures its slope.
 ---
 
 
