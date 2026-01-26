@@ -16,8 +16,8 @@ $$
 ## 🔢 矩阵乘积核心公式 (Matrix Multiplication Formula)
 
 ### 1. 标准代数展开 (2x2 示例)
-**核心准则：左行 (Horizontal) ❌ 右列 (Vertical)**
-<img width="2850" height="1510" alt="乘积公式" src="https://github.com/user-attachments/assets/c8f8f0e8-0af5-4bcc-81ad-245c125e11de" />
+
+<img width="567" height="234" alt="乘积公式2" src="https://github.com/user-attachments/assets/75142edc-0e27-4d59-8bcb-04dc4e0251f0" />
 
 
 ### 2. 通用求和定义 (General Definition)
