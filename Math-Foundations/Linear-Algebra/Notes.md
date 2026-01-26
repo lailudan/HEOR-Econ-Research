@@ -16,12 +16,11 @@ $$
 ## 🔢 矩阵乘积核心公式 (Matrix Multiplication Formula)
 
 ### 1. 标准代数展开 (2x2 示例)
-对于两个 $2 \times 2$ 矩阵的乘积，计算遵循“左行乘右列”的原则：
+**核心准则：左行 (Horizontal) ❌ 右列 (Vertical)**
 
 $$
-\begin{bmatrix} a & b \\ c & d \end{bmatrix} \begin{bmatrix} e & f \\ g & h \end{bmatrix} = \begin{bmatrix} (ae + bg) & (af + bh) \\ (ce + dg) & (cf + dh) \end{bmatrix}
+\begin{bmatrix} a & b \\ c & d \end{bmatrix} \begin{bmatrix} e & f \\ g & h \end{bmatrix} = \begin{bmatrix} (a \cdot e + b \cdot g) & (a \cdot f + b \cdot h) \\ (c \cdot e + d \cdot g) & (c \cdot f + d \cdot h) \end{bmatrix}
 $$
-
 ---
 
 ### 2. 通用求和定义 (General Definition)
