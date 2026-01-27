@@ -11,6 +11,10 @@
 * **Model Validation**: If assuming a policy has "zero effect" leads to predictions that contradict observed market reality, the policy MUST have an effect.
 
 
+#### 3. 归纳法 (Induction) - 22min **
+- **概念：** 建立一种“传递性”的真理。
+- **状态：** 算力占用 100%，暂时挂起（Suspend）。归纳法要求从“单点博弈”切换到“系统性递归”，大脑需要冷却。
+
 
 
 ### 🗓 1/25 Mathematics for Computer Science & Linear Algebra
