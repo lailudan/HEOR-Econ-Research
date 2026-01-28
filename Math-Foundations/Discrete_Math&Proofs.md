@@ -1,3 +1,16 @@
+### 🗓 1/28 Discrete Math: The "Fake Statue" Breakthrough
+> **Logic**: Mathematical Induction & Recursion.
+
+#### 1. The "Pseudo-Statue" Strategy (Ludan's Insight)
+* **Problem**: A $4 \times 4$ grid has only one real statue, but we need every $2 \times 2$ quadrant to have a "hole" to be solvable.
+* **Solution**: Place one L-shaped tile at the very center.
+* **The Magic**: The three corners of this center tile act as **"Artificial Statues"** for the other three quadrants.
+* **Result**: Now every quadrant has exactly one hole (either real or artificial). We can now tile the rest perfectly.
+
+#### 2. Mathematical takeaway
+* **Induction isn't magic**: It's about finding a way to make the "next step" ($N+1$) look exactly like the "previous step" ($N$) by clever structuring.
+
+
 ### 🗓 1/27 Discrete Math: The Art of Contradiction
 > **Source**: MIT 6.042J Lec 2 by Tom Leighton.
 
