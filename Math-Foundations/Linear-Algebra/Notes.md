@@ -40,6 +40,8 @@ $$c_1V_1 + c_2V_2 + \dots + c_nV_n = \vec{0}$$
     - **线性无关 (Independent)** = 每个人都独立 = 撑起最高维度的 Span。
 - **经济学应用**：在计量模型中，如果解释变量线性相关（多重共线性），矩阵将不可逆，模型会因“逻辑冗余”而无法计算。
 
+## eg.
+<img width="768" height="388" alt="a0f539cf8dce83adb2d01e3a914de3fe" src="https://github.com/user-attachments/assets/5ffbb559-4704-418b-b521-8bcaa66f4ada" />
 
 
 
