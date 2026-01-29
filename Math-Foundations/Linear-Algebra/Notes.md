@@ -100,6 +100,7 @@ $$c_1V_1 + c_2V_2 + \dots + c_nV_n = \vec{0}$$
 - **TA Note**: 
   - 板书里的 $a, b, c$ 是“终点目标”。
   - 90 度向量组是达到这个目标最快、最直接的路径。
+<img width="1524" height="572" alt="2187b75501eba1dfba86aa3d9b22fb93" src="https://github.com/user-attachments/assets/90da22cb-265d-40d7-a093-7fd7cf35e699" />
 
 > **TA Insight**: 
 > 线性无关是“不打架”，张成空间是“够得着”。
