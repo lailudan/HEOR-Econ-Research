@@ -79,7 +79,21 @@ $$c_1V_1 + c_2V_2 + \dots + c_nV_n = \vec{0}$$
 > - **线性相关**：$c$ 有无穷多种非零选择。
 > - **线性无关**：$c$ 被锁死在全员为 $0$ 的孤岛上。
 
+### 🚀 From Independence to Spanning
+- **Check for Independence (Set to $0$)**:
+    - Question: "Are you guys redundant?"
+    - Target: Only checking if the origin $\vec{0}$ has a unique trivial solution.
+- **Check for Spanning (Set to $a, b, c$)**:
+    - Question: "Can you reach EVERYWHERE?"
+    - Target: Checking if EVERY point $[a, b, c]$ in $\mathbb{R}^3$ can be reached.
+    - Logic: 如果方程组对任意 $a, b, c$ 都有解，则 $Span(S) = \mathbb{R}^3$。
+ <img width="1662" height="972" alt="052c2de4-b929-4af0-83fc-a9522cea87d4" src="https://github.com/user-attachments/assets/4b9115ed-b0bf-45b1-8314-cf427b9c4ddb" />
 
+  
+
+> **TA Insight**: 
+> 线性无关是“不打架”，张成空间是“够得着”。
+> 设为 $a, b, c$ 就是在测试这组向量的“全覆盖能力”。
 
 # 📐 Linear Algebra: Deep-Dive Log (Updated 1.26.2026)
 
