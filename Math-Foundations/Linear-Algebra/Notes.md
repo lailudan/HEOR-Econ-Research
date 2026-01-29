@@ -51,7 +51,16 @@ $$c_1V_1 + c_2V_2 + \dots + c_nV_n = \vec{0}$$
 <img width="768" height="388" alt="a0f539cf8dce83adb2d01e3a914de3fe" src="https://github.com/user-attachments/assets/5ffbb559-4704-418b-b521-8bcaa66f4ada" />
 
 
+### 🖼️ 视觉判定：什么时候会“塌陷”？
 
+| 维度 (Dimensions) | 线性相关 (Dependent) 的视觉表现 | 结果 |
+| :--- | :--- | :--- |
+| **2D (两个向量)** | 两个箭头在同一条直线上（共线 Line up） | Span 塌陷成一条线 |
+| **3D (三个向量)** | 三个箭头落在同一个平面上（共面 Coplanar） | Span 塌陷成一个面 |
+
+> **小结**： 
+> - 如果视觉上“重合”或“降维”了，代数上一定能写出 $c_1V_1 + c_2V_2 = 0$ 且 $c$ 不全为零的组合。
+> - 对学生说：如果你能一眼看出它们不共线，你其实已经心算了那个定理。
 
 
 
