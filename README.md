@@ -8,6 +8,10 @@ In a world of noise, math provides the only certainty. I use GitHub to track the
 │   ├── Statistics/         # Khan Academy notes & statistical inference exercises
 │   ├── Linear-Algebra/     # Spatial logic applied to matrix transformations
 │   └── Calculus-for-Econ/  # Optimization models for labor market constraints
+├── /Physics-Foundations/   # [Foundation] Mental Re-wiring Using AP/College Physics 1 to sharpen analytical modeling and structural thinking.
+│   ├── Kinematics & Dynamics:/         # Notes on motion (velocity, acceleration) and Newton’s Laws—modeling how "forces" change states.
+│   ├── Work, Energy & Momentum/     # Understanding conservation laws and system transfers (Work-Energy Theorem)
+│   └── Rotational & Harmonic Motion:/  # Analyzing torque, equilibrium, and periodic oscillations (bridging architectural stability with economic cycles).
 ├── /Logic-Models/          # [Architecture] Theoretical frameworks & causal logic
 │   ├── Case-Comparison/    # "Acute Injury (Fracture) vs. YOPD" - Comparative Logic
 │   └── Theoretical-Frames/ # Stigma, Human Capital Depreciation, and Policy impact
