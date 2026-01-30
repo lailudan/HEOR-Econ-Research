@@ -52,7 +52,16 @@
 * **Commander Insight**: 求导是“剥开”总量看节奏；积分是“缝合”节奏看总量。
 
 
+## 🧭 Space Coordinate Translation (Radians)
+- **$\pi$** = 180° (A Half Circle)
+- **$\pi/2$** = 90° (Top of the Wave)
+- **$2\pi$** = 360° (Full Cycle)
 
+| Phase | Radians | Height ($\sin$) | Slope ($\cos$) |
+| :--- | :--- | :--- | :--- |
+| Start | $0$ | $0$ | $1$ (Steepest) |
+| Peak | $\pi/2$ | $1$ | $0$ (Flat) |
+| Mid | $\pi$ | $0$ | $-1$ (Steep Down) |
 
 
 
