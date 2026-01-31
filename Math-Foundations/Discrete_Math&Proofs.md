@@ -1,5 +1,5 @@
 
-### 🗓 1/28 Discrete Math: 不变量原理 (Invariant) 与 强归纳法 (Strong Induction)
+### 🗓 1/31 Discrete Math: 不变量原理 (Invariant) 与 强归纳法 (Strong Induction)
 
 **课程状态：** 已完成 Lec 3 核心逻辑梳理  
 **核心关键词：** 状态机 (State Machines)、不变量 (Invariants)、强归纳 (Strong Induction)
