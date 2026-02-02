@@ -1,10 +1,48 @@
-### 🗓 2/2 Calculus: The Language of Derivatives
-* **Notation Wars**: 
-    - Lagrange ($f'$) -> Elegant & Quick.
-    - Leibniz ($dy/dx$) -> Descriptive & Powerful (Best for PhD modeling).
-    - Newton ($\dot{y}$) -> Physics & Time-based.
-* **Practice**: Mastered the identification of valid derivative notations.
-* **Insight**: Notation isn't just decoration; it defines the precision of your mathematical argument.
+# 🗓 2/2 微积分笔记：导数的记号 (Derivative Notations)
+
+> **核心逻辑**: 导数记号是表达“微分过程”的数学语言。三种主要记号代表了数学史上三大巨头的不同视角。
+
+---
+
+## 1. 三大流派对比表
+
+| 记号名称 | 表达方式 | 读法 | 适用语境 | 建筑师/经济学家直觉 |
+| :--- | :--- | :--- | :--- | :--- |
+| **Lagrange (拉格朗日)** | $f'(x)$ 或 $y'$ | f prime | 最常用，最简洁。 | 像是一个**缩写**，一眼看出这是“原版的变体”。 |
+| **Leibniz (莱布尼茨)** | $\frac{dy}{dx}$ 或 $\frac{d}{dx}f(x)$ | dy dx | 严谨、描述性强。 | 像是一张**详图**，明确标出谁随谁变。 |
+| **Newton (牛顿)** | $\dot{y}$ | y dot | 物理学、力学。 | 像是一个**时钟**，专指随时间的变化。 |
+
+---
+
+## 2. 深度拆解
+
+### 🟢 Lagrange's Notation (简洁派)
+- **写法**: $f'(x)$
+- **优势**: 在处理单变量函数时极快，不会让页面显得混乱。
+- **局限**: 无法明确自变量。如果公式里有 $a, b, c$ 等多个字母，不知道是对谁求导。
+
+### 🔵 Leibniz's Notation (严谨派)
+- **写法**: $\frac{d}{dx}f(x)$
+- **核心逻辑**: 
+    - $\frac{d}{dx}$ 是一个**算子 (Operator)**，像是一个加工机器，你把表达式放进去，它吐出导数。
+    - **Leibniz 为 PhD 建模而生**: 在复杂的经济模型中，你可以清晰地区分 $\frac{dy}{dt}$（随时间变化）和 $\frac{dy}{dp}$（随价格变化）。
+
+### 🟡 Newton's Notation (物理派)
+- **写法**: $\dot{y}$
+- **PhD 关联**: 在研究动态系统（如 YOPD 患者随时间变化的步态轨迹数据）时，这种记号非常直观。
+
+---
+
+## 3. 🛠 逻辑纠偏：正确表达识别
+
+在实际书写中，撇号（'）和算子（d/dx）的位置决定了逻辑是否通顺：
+
+* **✅ 正确示例**: 
+    * $g'(x)$
+    * $\frac{d}{dx}g(x)$
+    * $\frac{d}{dx}\sqrt{x}$
+* **❌ 错误示例**: 
+    * $\sqrt{x'}$ （撇号不能加在运算符号内部）
 
 
 
