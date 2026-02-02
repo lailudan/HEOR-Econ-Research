@@ -1,3 +1,14 @@
+### 🗓 2/2 Calculus: The Language of Derivatives
+* **Notation Wars**: 
+    - Lagrange ($f'$) -> Elegant & Quick.
+    - Leibniz ($dy/dx$) -> Descriptive & Powerful (Best for PhD modeling).
+    - Newton ($\dot{y}$) -> Physics & Time-based.
+* **Practice**: Mastered the identification of valid derivative notations.
+* **Insight**: Notation isn't just decoration; it defines the precision of your mathematical argument.
+
+
+
+
 # 🎓 Study Notes: The Big Picture of Derivatives
 **Date:** Jan 30, 2026  
 **Source:** MIT Gilbert Strang - "Big Picture: Derivatives"
