@@ -1,3 +1,29 @@
+### 02/04 Discrete Math ⚖️ Logic Comparison: OR vs. XOR
+
+| Operator | Symbol | Logical Meaning | Real-world Analogy |
+| :--- | :--- | :--- | :--- |
+| **Inclusive OR** | $p \vee q$ | At least one is true (Both OK) | Citizenship or Permanent Residency |
+| **Exclusive OR (XOR)** | $p \oplus q$ | Exactly one is true (Not both) | Coffee or Tea (Fixed Menu) |
+
+**Truth Table Verification:**
+| p | q | $p \vee q$ | $p \oplus q$ |
+|:-:|:-:|:---------:|:-----------:|
+| T | T | **T** | **F** (The Difference!) |
+| T | F | T | T |
+| F | T | T | T |
+| F | F | F | F |
+
+**Insight for Codebreaking:**
+In Cryptography (like Enigma), **XOR** is the king. Most encryption algorithms rely on XOR because it is its own inverse: if you XOR something twice with the same key, you get the original back.
+
+
+
+
+
+
+
+
+
 
 ### 🗓 1/31 Discrete Math: 不变量原理 (Invariant) 与 强归纳法 (Strong Induction)
 
