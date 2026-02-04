@@ -22,6 +22,8 @@ In Cryptography (like Enigma), **XOR** is the king. Most encryption algorithms r
 
 
 
+<img width="1314" height="1778" alt="f6a21f84-69c0-4628-a72a-613b0e634e42" src="https://github.com/user-attachments/assets/d081fa11-4068-4a1d-8799-93d87140ee33" />
+
 
 
 
