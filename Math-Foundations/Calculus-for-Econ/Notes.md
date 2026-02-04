@@ -1,3 +1,22 @@
+# 🗓 2/4 Calculus: The Epsilon-Delta Rigor
+> **Motto**: Moving from "Intuition" to "Formal Proof".
+
+### ⚖️ The Challenge-Response Game
+1. **The Challenge ($\epsilon$)**: How close do you want the output $f(x)$ to be to $L$?
+2. **The Response ($\delta$)**: How close must the input $x$ be to $c$ to guarantee that?
+
+### 🧩 Formal Definition
+$\forall \epsilon > 0, \exists \delta > 0$ such that:
+$0 < |x - c| < \delta \implies |f(x) - L| < \epsilon$
+
+### 🧠 Logic Check
+- $\epsilon$ is the vertical tolerance (Error in $y$).
+- $\delta$ is the horizontal tolerance (Control in $x$).
+- If for EVERY $\epsilon$ there's a $\delta$, the limit exists.
+
+
+
+
 # 🗓 2/2 微积分笔记：导数的记号 (Derivative Notations)
 
 > **核心逻辑**: 导数记号是表达“微分过程”的数学语言。三种主要记号代表了数学史上三大巨头的不同视角。
