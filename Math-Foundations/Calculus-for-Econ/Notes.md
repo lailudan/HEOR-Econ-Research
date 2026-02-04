@@ -16,6 +16,15 @@ $0 < |x - c| < \delta \implies |f(x) - L| < \epsilon$
 
 <img width="1924" height="1084" alt="7b3b61f2-115b-49f7-a9bc-ad8a01e5fdfd" src="https://github.com/user-attachments/assets/068be7f5-eb56-47fe-9a87-2df9fbde6414" />
 
+### Philosophy of Proof: Why Epsilon-Delta Matters?
+
+1. **Safety & Robustness**: Intuition fails in complex high-dimensional systems (e.g., Economic models). Proof guarantees stability.
+2. **Tolerance Engineering**: It defines the "allowable error." If I give you a tolerance $\epsilon$, can you guarantee a control $\delta$?
+3. **Legalization of Calculus**: It turned calculus from a "useful trick" into a "rigorous science" by providing a non-ambiguous definition of "approaching."
+
+> **Ludan's Insight**: In PhD research, a "feeling" isn't a finding. A "proof" is a finding.
+
+
 
 
 # 🗓 2/2 微积分笔记：导数的记号 (Derivative Notations)
