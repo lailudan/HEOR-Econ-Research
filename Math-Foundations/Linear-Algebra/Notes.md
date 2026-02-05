@@ -136,6 +136,18 @@ Logic Upgrade: From Area to Volume
 * **叉积 (Cross)**: 衡量“垂直度”或“面积”，结果是向量。
 * **法向量 (Normal)**: 是描述平面的“灵魂”，决定了平面的朝向。
 
+### The Soul of a Plane: Normal Vectors
+
+- **Analogy**: The "orientation" of a window = Its **Normal Vector** (90-degree arrow).
+- **Defining a Plane**:
+  1. Pick a point on the window ($P_0$).
+  2. Pick a normal vector ($\vec{n}$).
+  3. Logic: Every point $P$ on the window must satisfy: $\vec{n} \cdot \vec{P_0P} = 0$.
+  
+- **Equation Interpretation**: 
+  In $Ax + By + Cz = D$, the coefficients $(A, B, C)$ ARE the components of the Normal Vector.
+- **Why it matters**: To tilt a plane in data modeling, you simply "steer" its normal vector.
+
 
 
 
