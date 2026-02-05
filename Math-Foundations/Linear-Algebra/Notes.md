@@ -1,3 +1,40 @@
+# 🗓Linear Algebra: Geometry of Vectors (Updated 2.5.2026)
+> **Focus**: Dot Products, Cross Products & Planes.
+
+### 📐 1. Dot Product (点积)
+- **Insight**: It measures "Alignment". 
+- **Application**: Finding the angle between two vectors and projecting one onto another.
+- **Key Proof**: Cauchy-Schwarz Inequality (The foundation of many economic models).
+
+### 🌪 2. Cross Product (叉积)
+- **Insight**: Creates a vector "Perpendicular" to the plane formed by two vectors.
+- **Visual**: The "Right-hand rule".
+- **Goal**: Defining planes in $R^3$ using a single Normal Vector.
+
+### 🧠 PhD Strategy
+- Since this unit is video-only, focus on the **Visual Logic**. 
+- Ask: "How does a single normal vector define an entire subspace (plane)?"
+
+
+# Linear Algebra: The Master Inequalities
+
+### 1. Cauchy-Schwarz Inequality (柯西-施瓦茨不等式)
+- **Expression**: $|\vec{a} \cdot \vec{b}| \leq \|\vec{a}\| \|\vec{b}\|$
+- **Why it matters**: It proves that the "shadow" of a vector can never be longer than the vector itself. 
+- **Application**: The foundation for defining angles and correlations in high-dimensional spaces.
+
+### 2. Triangle Inequality (三角不等式)
+- **Expression**: $\|\vec{a} + \vec{b}\| \leq \|\vec{a}\| + \|\vec{b}\|$
+- **Intuition**: The shortest path between two points is a straight line.
+
+### 🧠 Ludan's Reflection
+- Video units are for "Understanding the DNA," while practice units are for "Building the Muscle." 
+- I need to hold these geometric images in my head before I go back to the matrices of Unit 4.
+
+
+
+
+
 # 🗓 Linear Algebra: Subspaces & Basis (Updated 2.3.2026)
 > **Focus**: The structural integrity of vector sets.
 
