@@ -27,6 +27,13 @@
   - Direction = A "Normal Vector" sticking straight up from the floor.
   - Result: A new vector in 3D.
 
+###  Logic: Why $R^3$ for Cross Products?
+- **Dot Product**: Dimension-agnostic. It stays within the subspace of its inputs. (2D in -> 1D number out).
+- **Cross Product**: Dimension-expansive. It REQUIRES a 3rd dimension to host the "Normal Vector."
+- **Visual**: 
+  - $R^2$ is a flat map. 
+  - Cross Product is the flagpole that points to the sky. 
+  - If there is no "sky" (no $z$-axis), the Cross Product has no place to exist.
 
 # Linear Algebra: The Master Inequalities
 
