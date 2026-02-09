@@ -47,8 +47,15 @@
 - **PhD Warning**: If $f$ is discontinuous at the relay point $L$, the "Chain" breaks. 
 - **Application**: Analyzing how microscopic volatility ($g$) propagates through a non-linear institutional framework ($f$).
 
+<img width="2122" height="1322" alt="98a9ddb3-add1-4732-8dca-177d5eb60e62" src="https://github.com/user-attachments/assets/edb33bdd-5ca3-4484-8afc-e3a06bde6a6b" />
 
-
+## 🔗 Composite Function Limits: The Relay Race
+- **Inner Function ($g$)**: Only provides the DESTINATION (the value $L$).
+- **Outer Function ($f$)**: Its behavior AT that destination $L$ decides everything.
+- **Existence Rule**:
+  - If $f$ is **Continuous** at $L$, the limit exists and equals $f(L)$.
+  - If $f$ is **Broken** at $L$, you must check the side-limits of the composition.
+- **Conclusion**: A broken function can still produce a valid composite limit if you land on its continuous segments!
 
 
 # 🗓 2/4 Calculus: The Epsilon-Delta Rigor
