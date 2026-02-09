@@ -8,6 +8,27 @@
   - 转移规则：注满 (Fill)、倒空 (Empty)、倾倒 (Pour)。
 - **结论：** 所有可达状态 $(x, y)$ 必须满足 $x, y$ 都是 $\gcd(a, b)$ 的倍数。
 
+### 🚫 Case Study: The Impossibility Proof (3G & 6G vs. 4G)
+
+**Theorem:** It is impossible to measure 4 gallons using only 3-gallon and 6-gallon jugs.
+
+**Proof by Divisibility:**
+1. Let the volumes of the jugs be $a=3$ and $b=6$.
+2. Any volume $V$ that can be measured must be a linear combination of $a$ and $b$: $V = sa + tb$, where $s, t \in \mathbb{Z}$.
+3. We know that $V$ must be a multiple of $\gcd(a, b)$.
+4. $\gcd(3, 6) = 3$.
+5. Therefore, any measurable volume $V$ must satisfy $V \equiv 0 \pmod 3$.
+6. Since $4 \equiv 1 \pmod 3$, 4 is not a multiple of 3 ($3 \nmid 4$).
+
+**Conclusion:** The state $V=4$ is outside the reachable state space of this system.
+
+---
+**PhD Note:** 在系统建模中，识别这种“结构性限制”可以节省大量无效计算。如果你知道目标的 GCD 最大公约数不对，你根本不需要去尝试任何路径。
+
+
+
+
+
 ### 2. 数论基本概念 (The Toolkit)
 - **整除 ($d \mid n$)：** 存在整数 $k$ 使得 $n = kd$。
 - **公约数：** 如果 $d \mid a$ 且 $d \mid b$，则 $d$ 是公约数。
