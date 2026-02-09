@@ -57,6 +57,17 @@
   - If $f$ is **Broken** at $L$, you must check the side-limits of the composition.
 - **Conclusion**: A broken function can still produce a valid composite limit if you land on its continuous segments!
 
+<img width="1636" height="1084" alt="33bbc37f-57ec-46fb-aae4-a33c106b4092" src="https://github.com/user-attachments/assets/d100c85d-50f0-4de9-994f-fe5fe6feebca" />
+
+## 🛑 DNE Quick Check for Composite Limits: $\lim f(g(x))$
+- **Step 1**: Check $\lim_{x \to a} g(x)$. If it doesn't exist $\implies$ **DNE**.
+- **Step 2**: If $g(x) \to L$, check if $f$ is continuous at $L$. 
+    - If **Yes** $\implies$ Result is $f(L)$.
+    - If **No** (it's a jump) $\implies$ **MUST** check direction ($L^+$ or $L^-$).
+- **Step 3**: Compare $f(L_{from\_left})$ and $f(L_{from\_right})$. 
+    - If mismatched $\implies$ **DNE**.
+
+
 
 # 🗓 2/4 Calculus: The Epsilon-Delta Rigor
 > **Motto**: Moving from "Intuition" to "Formal Proof".
