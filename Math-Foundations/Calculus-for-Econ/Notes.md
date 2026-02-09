@@ -1,3 +1,28 @@
+# 🗓 2/9 Math Refresher: The Lego Blocks of Calculus & Algebra
+> **Focus**: Linearity and Spatial Relationships.
+
+### 🧩 1. Limit Properties (The "Split" Rule)
+- $\lim(f \pm g) = L \pm M$
+- $\lim(f \cdot g) = L \cdot M$
+- **Rule of Thumb**: As long as they don't produce $\frac{0}{0}$ or $\infty$, you can treat limits like basic arithmetic.
+
+### 📐 2. Spatial Geometry (Vector Tools)
+- **Normal Vector**: The key to defining a plane ($Ax+By+Cz=D$).
+- **Distance to Plane**: Essentially the projection of a vector onto the Normal Vector.
+- **Connection**: To find the distance between two parallel planes, just pick a point on one and project it onto the normal of the other.
+
+### 🧠 Ludan's Strategy
+- In PhD-level Economics, we often use these properties to linearize complex non-linear models.
+
+
+
+
+
+
+
+
+
+
 # 🗓 2/4 Calculus: The Epsilon-Delta Rigor
 > **Motto**: Moving from "Intuition" to "Formal Proof".
 
