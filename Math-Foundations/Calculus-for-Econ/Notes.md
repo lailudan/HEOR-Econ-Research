@@ -16,8 +16,15 @@
 
 
 
+## 🧩 The Puzzle of Combined Limits
+- **Individual Failure**: A function $f(x)$ can have a "Broken" limit (DNE).
+- **Collective Success**: In $(f + g)$, as long as the SUM of left limits equals the SUM of right limits, the limit exists.
+- **Commander's Strategy**:
+    1. Separate the problem into Left and Right.
+    2. Solve $f_{left} + g_{left}$ and $f_{right} + g_{right}$.
+    3. Compare the totals.
 
-
+<img width="1958" height="1036" alt="cde43f58-8c98-43e7-919f-9b8bf58c9d4d" src="https://github.com/user-attachments/assets/ac95faba-c9be-4806-ab9a-2222b88ad6a2" />
 
 
 
