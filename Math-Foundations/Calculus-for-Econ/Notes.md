@@ -30,6 +30,15 @@
 
 
 
+## 🛠️ The "Offsetting" Rule for Broken Limits
+- **Case**: $f(x)$ and $g(x)$ both have jump discontinuities at $x=c$.
+- **Theorem**: $\lim(f+g) = \lim f + \lim g$.
+- **Execution Strategy**:
+    - **Step 1**: Calculate Side Limits separately ($L_{left}$ and $L_{right}$).
+    - **Step 2**: If the Sums match, the "Break" is healed.
+- **Why this matters**: In Economics PhD level modeling, we often sum up different volatile sectors to find a stable equilibrium.
+
+
 
 # 🗓 2/4 Calculus: The Epsilon-Delta Rigor
 > **Motto**: Moving from "Intuition" to "Formal Proof".
