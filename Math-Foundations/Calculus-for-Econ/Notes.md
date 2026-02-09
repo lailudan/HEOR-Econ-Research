@@ -68,7 +68,8 @@
     - If mismatched $\implies$ **DNE**.
 
 <img width="1686" height="1084" alt="d408d962-8144-4575-86f7-e335e9ef8515" src="https://github.com/user-attachments/assets/f872f457-684f-466b-b47f-1266d346eb43" />
-### Anwser is -2
+
+###  Answer is -2
 
 # 🗓 2/4 Calculus: The Epsilon-Delta Rigor
 > **Motto**: Moving from "Intuition" to "Formal Proof".
