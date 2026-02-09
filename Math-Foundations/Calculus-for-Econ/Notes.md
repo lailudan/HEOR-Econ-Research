@@ -38,6 +38,17 @@
     - **Step 2**: If the Sums match, the "Break" is healed.
 - **Why this matters**: In Economics PhD level modeling, we often sum up different volatile sectors to find a stable equilibrium.
 
+## 🧬 The "Peeling the Onion" Rule (Composite Limits)
+- **Case**: Solving $\lim f(g(x))$.
+- **Strategy**: Move the limit inside: $f(\lim g(x))$.
+- **Pre-flight Checklist**:
+    1. Does $\lim_{x \to a} g(x) = L$ exist?
+    2. Is $f(y)$ continuous at $y=L$?
+- **PhD Warning**: If $f$ is discontinuous at the relay point $L$, the "Chain" breaks. 
+- **Application**: Analyzing how microscopic volatility ($g$) propagates through a non-linear institutional framework ($f$).
+
+
+
 
 
 # 🗓 2/4 Calculus: The Epsilon-Delta Rigor
