@@ -1,3 +1,34 @@
+# AP Biology 生词表：真核细胞器 (Eukaryotic Organelles)
+
+> **视频来源：** Khan Academy - Organelles in eukaryotic cells
+> **研究关联：** 深入理解 YOPD/YOAD 的“细胞垃圾堆积”与“能量工厂倒闭”机制。
+
+## 1. 核心指挥与信息中心 (Information Central)
+| 单词 | 音标 | 定义 | HEOR/YOPD/YOAD 关联 |
+| :--- | :--- | :--- | :--- |
+| **Nuclear Membrane** | /ˈnjuːkliər/ | 核膜 | 包裹 DNA 的双层膜。设有 **Nuclear Pores (核孔)** [00:02:04] 用于信息进出。 |
+| **mRNA (messenger RNA)** | /ˌɛm ɑːr ɛn ˈeɪ/ | 信使 RNA | [00:03:09] 将 DNA 指令带出核孔。这是**基因疗法**和 **mRNA 疫苗**的成本评价核心。 |
+| **Transcription** | /trænˈskrɪpʃn/ | 转录 | DNA $\rightarrow$ mRNA 的过程。 |
+| **Translation** | /trænzˈleɪʃn/ | 翻译 | [00:03:40] mRNA $\rightarrow$ 蛋白质的过程。神经退行性病的“残次蛋白”就是在这里被造出来的。 |
+
+## 2. 生产与加工流水线 (Manufacturing Stack)
+| 单词 | 音标 | 定义 | HEOR/YOPD/YOAD 关联 |
+| :--- | :--- | :--- | :--- |
+| **Endoplasmic Reticulum (ER)** | /ˌɛndəˌplæzmɪk/ | 内质网 | [00:02:12] 巨大的膜系统。**Rough ER (粗面内质网)** 附着核糖体，负责蛋白合成。 |
+| **Smooth ER** | /smuːð/ | 滑面内质网 | [00:04:32] 无核糖体。负责脂质合成和解毒（Detoxification）。 |
+| **Golgi Body / Apparatus** | /ˈɡoʊldʒi/ | 高尔基体 | [00:04:44] **包装中心**。将蛋白装入 **Vesicle (囊泡)** 发送到细胞外。 |
+| **Protein Synthesis** | /ˈsɪnθəsɪs/ | 蛋白质合成 | 整个医药产业（尤其是生物制药）最核心的生物学基础。 |
+
+## 3. 动力与清理系统 (Power & Cleanup - YOPD 核心)
+| 单词 | 音标 | 定义 | HEOR/YOPD/YOAD 关联 |
+| :--- | :--- | :--- | :--- |
+| **Mitochondria** | /ˌmaɪtəˈkɒndriə/ | 线粒体 | **Powerhouse (动力工厂)** [00:05:32]。产生 **ATP**。 |
+| **Maternal Lineage** | /məˈtɜːrnl/ | 母系遗传 | [00:05:53] 线粒体 DNA 全部来自母亲。在研究 YOPD 的家族遗传史（Pedigree）时非常重要。 |
+| **Vacuole** | /ˈvækjuoʊl/ | 液泡 | [00:07:25] 存储中心。在植物中很大，在动物细胞中较小。 |
+| **
+
+
+
 # AP Biology & HEOR 研究核心词汇表 (Cell Unit)
 
 > **研究方向：** YOPD (早发型帕金森), YOAD (早发型阿尔兹海默症), HEOR (医药经济学)
