@@ -1,3 +1,79 @@
+# AP Biology 课程翻译：真核细胞概论 (Intro to Eukaryotic Cells) （Updated 02.10.2026）
+
+> **课程单元：** 单元 2 - 细胞结构与功能
+> **学习进度：** 第 1 课 - 细胞结构及其功能
+
+---
+
+## 1. 引言：从“一居室”到“豪华别墅” (Introduction)
+
+想象一下住在一间“一居室”的小木屋里是什么感觉？生活可能会非常简单：你在同一个房间里吃饭、睡觉、工作和放松。虽然空间有点挤，但打扫起来肯定飞快。
+
+**原核细胞 (Prokaryotic cells)**——比如细菌这类生物的简单细胞——有时就被比作这种“一居室小木屋”：它们没有内部膜结构，就像一个没有墙壁分隔的单间。
+
+如果我们把这个比喻延伸到**真核细胞 (Eukaryotic cells)**——即构成植物、真菌和动物的更复杂的细胞——你会发现它们在“房地产市场”中实现了一个巨大的跨越。
+
+
+
+[Image of comparison between prokaryotic and eukaryotic cells]
+
+
+就像一个大型家庭住宅被分隔成许多具有不同用途的房间（卧室、浴室、厨房、客厅等）一样，真核细胞也包含各种不同的**隔间 (Compartments)**，这些隔间具有专门的功能，并由层层生物膜整齐地相互隔开。这种组织方式让每个隔间都能维持自身的特定环境，从而完成各自的工作。
+
+### 关键案例：
+* **溶酶体 (Lysosomes)：** 充当细胞的“回收中心”，必须维持**酸性 pH 值**才能分解细胞废物。
+* **过氧化物酶体 (Peroxisomes)：** 进行氧化反应并产生过氧化氢（H2O2）。如果这些反应不被安全地储存在自己的“房间”里，就会损伤整个细胞。
+
+这种在单个细胞内维持不同环境的能力，使得真核细胞能够进行原核生物无法进行的复杂代谢反应。事实上，这也是真核细胞能比原核细胞大出许多倍的重要原因。
+
+---
+
+## 2. 原核细胞 vs 真核细胞 (Prokaryotic vs. Eukaryotic cells)
+
+真核细胞的关键特征是什么？与原核细胞不同，真核细胞拥有：
+
+1.  **膜结合细胞核 (Membrane-bound Nucleus)：** 一个由膜包围的中央腔室，储存着细胞的遗传物质。
+2.  **大量的膜结合细胞器 (Membrane-bound Organelles)：** 悬浮在细胞质基质（Cytosol）中、具有专门功能的隔间。“Organelle”意为“小器官”，反映了它们像人体的器官一样，是作为一个大型系统的一部分并发挥独特作用。
+3.  **多条线性染色体 (Multiple Linear Chromosomes)：** 区别于原核生物单一的环状染色体。
+
+真核细胞比原核生物复杂得多。它们塞满了各种亚细胞结构，在**能量平衡 (Energy balance)**、**代谢 (Metabolism)** 和 **基因表达 (Gene expression)** 中发挥着重要角色。
+
+---
+
+## 3. 细胞结构导览 (Tour Regions)
+
+你可以通过以下区域深入探索细胞：
+* **细胞膜与细胞质** (Plasma membrane and cytoplasm)
+* **细胞核与核糖体** (Nucleus and ribosomes)
+* **内膜系统** (Endomembrane system)
+* **线粒体与叶绿体** (Mitochondria and chloroplasts)
+* **细胞骨架** (Cytoskeleton)
+* **细胞外基质与细胞壁** (Extracellular matrix and cell wall)
+* **细胞连接** (Cell junctions)
+
+---
+
+## 4. 常见讨论区问答 (Selected Q&A)
+
+**Q: 为什么植物细胞通常是方的？**
+**A:** 因为它们有坚硬的**细胞壁 (Cell wall)**，这种结构强行塑造了它们的形状。相比之下，动物细胞没有细胞壁，所以形状更圆。
+
+**Q: 植物细胞为什么有更大的液泡 (Vacuole)？**
+**A:** 植物无法像动物一样移动去寻找水源或食物。巨大的液泡就像一个水塔，在干旱或饥荒时为植物提供储备。
+
+**Q: 什么是过氧化物酶体 (Peroxisome) 的功能？**
+**A:** 它的主要功能是分解长链脂肪酸并进行解毒。在这个过程中会产生过氧化氢 (H2O2)，它含有能将 H2O2 分解为水和氧气的酶，从而保护细胞。
+
+
+<img width="500" height="528" alt="f39337d3dbf31edf0e07300fd51ab2eb553e0705" src="https://github.com/user-attachments/assets/b09e48d9-69be-4f66-95e8-60efb1b23b94" />
+
+
+
+<img width="550" height="428" alt="efdeccc83cd2b30849b89fedd8993d783a1f635a" src="https://github.com/user-attachments/assets/ad2e3433-9ace-47f0-9b42-4027f6398538" />
+
+
+
+
 # AP Biology 生词表：真核细胞器 (Eukaryotic Organelles)
 
 > **视频来源：** Khan Academy - Organelles in eukaryotic cells
