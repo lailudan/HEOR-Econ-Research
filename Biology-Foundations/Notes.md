@@ -1,8 +1,5 @@
 # AP Biology 课程翻译：真核细胞概论 (Intro to Eukaryotic Cells) （Updated 02.10.2026）
 
-> **课程单元：** 单元 2 - 细胞结构与功能
-> **学习进度：** 第 1 课 - 细胞结构及其功能
-
 ---
 
 ## 1. 引言：从“一居室”到“豪华别墅” (Introduction)
