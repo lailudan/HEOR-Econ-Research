@@ -1,7 +1,6 @@
 ## Khan Academy 1. Defining the angle between vectors  (Updated 2.10.2026)
 
 
-
 ### 📐 复习: The Triangle Inequality (三角形不等式)
 
 - **The Goal**: 证明向量长度的组合规律 $\|\vec{x} + \vec{y}\| \leq \|\vec{x}\| + \|\vec{y}\|$。
@@ -10,16 +9,16 @@
     - 它是定义“夹角”和“距离”的数学前提。
 - **Visual logic**: 
     - 想象一个由向量 $\vec{a}, \vec{b}, \vec{a}-\vec{b}$ 构成的三角形。板书证明了任何一边的长度都小于等于另外两边长度之和。
+ 
+### ✈️ Defining a Plane in $\mathbb{R}^3$
 
-
-
-
-
-
-
-
-
-
+- **The Recipe**: One Point ($P_0$) + One Normal Vector ($\vec{n}$).
+- **The Secret Sauce**: Dot Product.
+- **Intuition**: 
+    - 平面上的所有向量都必须与法向量垂直。
+    - 因此：$\vec{n} \cdot \vec{v}_{plane} = 0$.
+- **PhD Connection**: 
+    - 在经济学多变量分析中，这种“法向量”代表了对系统的某种约束方向。
 
 
 
