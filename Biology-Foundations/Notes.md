@@ -64,6 +64,8 @@
 **Q: 什么是过氧化物酶体 (Peroxisome) 的功能？**
 **A:** 它的主要功能是分解长链脂肪酸并进行解毒。在这个过程中会产生过氧化氢 (H2O2)，它含有能将 H2O2 分解为水和氧气的酶，从而保护细胞。
 
+圆：动物细胞
+方：植物细胞
 
 <img width="500" height="528" alt="f39337d3dbf31edf0e07300fd51ab2eb553e0705" src="https://github.com/user-attachments/assets/b09e48d9-69be-4f66-95e8-60efb1b23b94" />
 
