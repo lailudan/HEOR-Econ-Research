@@ -24,7 +24,13 @@
   $$\vec{n} \cdot (P - P_0) = 0$$
 - **直觉理解**: 法向量与平面内任何位移向量都 **正交 (Orthogonal)**。
 
----
+### 💡 Notation Hack: Does Order Matter in Plane Equations?
+
+- **Fact**: $\vec{n} \cdot (P - P_0) = 0$ is the SAME as $\vec{n} \cdot (P_0 - P) = 0$.
+- **Reason**: 
+    - 点积为 0 只关心“垂直”，不关心向量在平面内是指向左还是指向右。
+    - 代数上，常数倍数（包括 -1）不改变等式等于 0 的本质。
+- **Standard Usage**: 惯例上常用 $(P - P_0)$，因为这符合“终点减起点”的向量定义直觉。
 
 ## 🌐 Geometry in $\mathbb{R}^3$: The Power of the Normal Vector
 
