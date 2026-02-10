@@ -10,25 +10,31 @@
 - **Visual logic**: 
     - 想象一个由向量 $\vec{a}, \vec{b}, \vec{a}-\vec{b}$ 构成的三角形。板书证明了任何一边的长度都小于等于另外两边长度之和。
  
-### ✈️ Defining a Plane in $\mathbb{R}^3$
+## ✈️ Defining a Plane in $\mathbb{R}^3$
 
-- **The Recipe**: One Point ($P_0$) + One Normal Vector ($\vec{n}$).
-- **The Secret Sauce**: Dot Product.
-- **Intuition**: 
-    - 平面上的所有向量都必须与法向量垂直。
-    - 因此：$\vec{n} \cdot \vec{v}_{plane} = 0$.
-- **PhD Connection**: 
-    - 在经济学多变量分析中，这种“法向量”代表了对系统的某种约束方向。
+### 1. The Recipe (核心要素)
+- **One Point ($P_0$):** 平面的锚点，确定平面在空间的位置。
+- **One Normal Vector ($\vec{n}$):** 平面的“定海神针”，决定平面的朝向。
 
-### 🌐 Geometry in R3: The Power of the Normal Vector
+### 2. The Secret Sauce (数学原理)
+利用 **点积 (Dot Product)** 的正交特性：
 
-- **Mental Model**: 法向量 = 平面的“定海神针”或“舵手”。
-- **Mathematical Rule**: 
-    - 任意平面点 $P$ 满足：$\vec{n} \cdot (P - P_0) = 0$。
-    - 这意味着法向量与平面内任何位移向量都**正交 (Orthogonal)**。
-- **Connection to PhD Research**: 
-    - 如果一个系统有 3 个变量，但受到 1 个法向量的“约束”，那么这个系统的生存空间就会被压缩成一个 **2D 平面**。
-    - 寻找法向量 = 寻找系统内部的不变量或限制条件。
+- **核心逻辑**: 平面上的任意点 $P$ 与锚点 $P_0$ 构成的向量 $\vec{P_0P}$ 必须与法向量 $\vec{n}$ 保持垂直。
+- **数学表达式**: 
+  $$\vec{n} \cdot (P - P_0) = 0$$
+- **直觉理解**: 法向量与平面内任何位移向量都 **正交 (Orthogonal)**。
+
+---
+
+## 🌐 Geometry in $\mathbb{R}^3$: The Power of the Normal Vector
+
+### 💡 Mental Model (直觉模型)
+- **法向量 = 平面的“舵手”**: 只要这根针的角度变了，整个平面（那张纸）都会随之旋转。
+- **降维打击**: 在 3D 空间中，一个法向量的约束就能将无限的可能性压缩成一个 **2D 平面**。
+
+### 🎓 PhD Connection: Economics & Research
+- **系统约束**: 在经济学多变量分析中，“法向量”代表了对系统的某种约束方向（如预算约束、资源限制）。
+- **寻找不变量**: 寻找法向量 = 寻找系统内部的 **限制条件** 或 **守恒定律**。
 
 
 
