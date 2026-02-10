@@ -20,6 +20,15 @@
 - **PhD Connection**: 
     - 在经济学多变量分析中，这种“法向量”代表了对系统的某种约束方向。
 
+### 🌐 Geometry in R3: The Power of the Normal Vector
+
+- **Mental Model**: 法向量 = 平面的“定海神针”或“舵手”。
+- **Mathematical Rule**: 
+    - 任意平面点 $P$ 满足：$\vec{n} \cdot (P - P_0) = 0$。
+    - 这意味着法向量与平面内任何位移向量都**正交 (Orthogonal)**。
+- **Connection to PhD Research**: 
+    - 如果一个系统有 3 个变量，但受到 1 个法向量的“约束”，那么这个系统的生存空间就会被压缩成一个 **2D 平面**。
+    - 寻找法向量 = 寻找系统内部的不变量或限制条件。
 
 
 
