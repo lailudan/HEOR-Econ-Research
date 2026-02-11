@@ -41,7 +41,13 @@
 
 
 
-
+## 🆔 Identity Check: What is ln?
+- **Full Name**: Natural Logarithm ($\ln$).
+- **Base**: $e$ ($\approx 2.718$).
+- **Relationship**: $\ln(x)$ is just a shorter way to write $\log_e(x)$.
+- **Key Equations**:
+  - $e^y = x \iff \ln(x) = y$
+  - If you see $\ln$, just think: "$e$ to what power gives me this number?"
 
 
 
