@@ -47,7 +47,14 @@
 - **Relationship**: $\ln(x)$ is just a shorter way to write $\log_e(x)$.
 - **Key Equations**:
   - $e^y = x \iff \ln(x) = y$
-  - If you see $\ln$, just think: "$e$ to what power gives me this number?"
+
+
+## 🕵️ The Case of the Missing 'e'
+- **Hidden e**: The base of $\ln$ is ALWAYS $e$. It's already omitted by definition.
+- **Visible e**: The $e$ inside the parentheses is the "Argument." It cannot be omitted because it's the value we are measuring.
+- **The Shortcut**: $\ln$ and $e^x$ are inverse functions. They cancel each other out.
+    - Example: $\ln(e^2) = 2$
+    - Logic: "What power of $e$ gives $e^2$?" Answer: 2.
 
 
 
