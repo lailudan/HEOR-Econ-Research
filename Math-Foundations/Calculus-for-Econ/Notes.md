@@ -9,6 +9,13 @@
 2. **The Natural Choice**: In Calculus, we almost exclusively use $\ln$ (Base $e$).
 3. **The Scaling Property**: Logs turn Multiplications into Additions—this is why they simplify huge complex models in Economics.
 
+## 📝 Vocabulary & Logic: Logarithms
+- **中文名**: 对数 (Logarithm).
+- **本质**: 指数运算的逆运算 (The inverse of exponentiation).
+- **求导关系**: 
+    - Function: $y = \ln(x)$
+    - Derivative: $y' = 1/x$
+- **Commander's Note**: Logarithms transform "Explosive Growth" into "Linear Scales." In Economics, we use logs to handle massive data ranges (like GDP or Inflation).
 
 
 # 🗓 2/9 Math Refresher: The Lego Blocks of Calculus & Algebra
