@@ -31,6 +31,21 @@
   - $\ln x$ (Base $e$): Calculus, growth models, PhD research.
 - **Rule of Thumb**: $\log_b(1) = 0$ (The baseline of all logs).
 
+## 🌿 The Magic of $e$ and $\ln$
+- **$e$ (The Constant)**: $\approx 2.718$. The limit of continuous growth.
+- **$\ln(x)$ (The Function)**: "Natural Log." It asks: "How long must I grow at the natural rate ($e$) to reach $x$?"
+- **Calculus Cheat Code**: 
+  - $\frac{d}{dx} e^x = e^x$ (The only function that is its own slope).
+  - $\ln(e) = 1$ (Growing at rate $e$ for 1 unit of time gives you $e$).
+- **PhD Application**: In HEOR, $e$ is used in survival analysis (Cox models) because life and death are continuous processes, not discrete steps.
+
+
+
+
+
+
+
+
 
 # 🗓 2/9 Math Refresher: The Lego Blocks of Calculus & Algebra
 > **Focus**: Linearity and Spatial Relationships.
