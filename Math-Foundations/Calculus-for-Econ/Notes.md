@@ -1,3 +1,16 @@
+# 🗓 2/11 Math Refresher:
+
+## 🪵 Intro to Logarithms: Finding the "How Long"
+- **Exponential**: $2^3 = 8$ (Known: Base & Time. Unknown: Total)
+- **Logarithmic**: $\log_2(8) = 3$ (Known: Base & Total. Unknown: Time/Power)
+
+### 🚀 Commander's Calculus Strategy:
+1. **Inverse Relationship**: Logarithm is the "Undo" button for Exponentials.
+2. **The Natural Choice**: In Calculus, we almost exclusively use $\ln$ (Base $e$).
+3. **The Scaling Property**: Logs turn Multiplications into Additions—this is why they simplify huge complex models in Economics.
+
+
+
 # 🗓 2/9 Math Refresher: The Lego Blocks of Calculus & Algebra
 > **Focus**: Linearity and Spatial Relationships.
 
