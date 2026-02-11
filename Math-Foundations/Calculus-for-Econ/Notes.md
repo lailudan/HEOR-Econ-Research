@@ -23,6 +23,14 @@
 3. **Integral (积分)**: Sums up the small parts (Area).
 - **Core Secret**: Differentiation and Integration are "Undo" buttons for each other.
 
+## 🪵 Logarithms: The "Power" Finder
+- **Logic**: It isolates the exponent. 
+- **The Phrase**: "Base to what power equals the Argument?"
+- **Special Logs**:
+  - $\log x$ (Base 10): Financial scales, sound.
+  - $\ln x$ (Base $e$): Calculus, growth models, PhD research.
+- **Rule of Thumb**: $\log_b(1) = 0$ (The baseline of all logs).
+
 
 # 🗓 2/9 Math Refresher: The Lego Blocks of Calculus & Algebra
 > **Focus**: Linearity and Spatial Relationships.
