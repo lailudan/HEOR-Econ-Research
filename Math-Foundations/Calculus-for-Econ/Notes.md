@@ -17,6 +17,12 @@
     - Derivative: $y' = 1/x$
 - **Commander's Note**: Logarithms transform "Explosive Growth" into "Linear Scales." In Economics, we use logs to handle massive data ranges (like GDP or Inflation).
 
+## 🛡️ Math Defense: The Big Three
+1. **Log**: Rescales the world (Turns Multiplication into Addition).
+2. **Derivative (微分)**: Zooms in on change (Slope).
+3. **Integral (积分)**: Sums up the small parts (Area).
+- **Core Secret**: Differentiation and Integration are "Undo" buttons for each other.
+
 
 # 🗓 2/9 Math Refresher: The Lego Blocks of Calculus & Algebra
 > **Focus**: Linearity and Spatial Relationships.
