@@ -4,6 +4,16 @@
 - **Exponential**: $2^3 = 8$ (Known: Base & Time. Unknown: Total)
 - **Logarithmic**: $\log_2(8) = 3$ (Known: Base & Total. Unknown: Time/Power)
 
+## ⚡ Intuition: Fractional Logarithms
+- **Case**: $\log_4 8 = 1.5$
+- **The Secret**: When Base and Argument share a root (like 2).
+- **The Mental Shortcut**: 
+    - 4 to what power is 8? 
+    - $\sqrt{4} = 2$ (that's 0.5 power)
+    - $2^3 = 8$
+    - Combine: $(\sqrt{4})^3 = 4^{3/2} = 4^{1.5}$
+- **Takeaway**: Logs aren't always integers; they represent the precise "power ratio" between numbers.
+
 ### 🚀 Commander's Calculus Strategy:
 1. **Inverse Relationship**: Logarithm is the "Undo" button for Exponentials.
 2. **The Natural Choice**: In Calculus, we almost exclusively use $\ln$ (Base $e$).
