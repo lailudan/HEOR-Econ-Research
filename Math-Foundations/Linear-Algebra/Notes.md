@@ -53,12 +53,7 @@
 
 
 
-# 晨练 2：消元法的矩阵语言 (Matrix Elimination)
-
-> **Date:** 2026-02-12
-> **Source:** MIT 18.06 Lecture 2 (Gilbert Strang) - [Video Link](https://www.youtube.com/watch?v=QVKj3LADCnA) (Focus: 23:00+)
-> **Status:** #Learning #LinearAlgebra #HEOR_Prep
-> **Tags:** Matrix Multiplication, Elementary Matrices, Inverse, Permutation
+# 消元法的矩阵语言 (Matrix Elimination)
 
 ---
 
