@@ -139,7 +139,8 @@ $$
 <img width="826" height="248" alt="2e6688e7-a614-4cc2-81ab-7a899af1c52d" src="https://github.com/user-attachments/assets/58335b33-9932-4510-aaaf-bb8bb529b3e6" />
 
 
-这为下一课的 **LU 分解** ($A = LU$) 埋下了伏笔：$L$ 其实就是这些逆矩阵的乘积。
+这为下一课的 **LU 分解** ($A = LU$) 埋下了伏笔：<img width="516" height="224" alt="8469d391-c3d9-4eca-8e59-7cb1132432d6" src="https://github.com/user-attachments/assets/4c5fb50c-fc6d-4530-961b-87438eba57d2" />
+其实就是这些逆矩阵的乘积。
 
 ---
 
