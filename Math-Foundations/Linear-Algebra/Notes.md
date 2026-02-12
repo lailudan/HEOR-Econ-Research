@@ -118,15 +118,14 @@ $$
 ## 4. 矩阵代数规则 (Matrix Algebra Rules)
 
 ### 结合律 (Associative Law) - 有效
-$$
-(E_{32} E_{21}) A = E_{32} (E_{21} A)
-$$
+<img width="530" height="100" alt="5e2e682c-bae9-427e-a3cd-06dc793cbf87" src="https://github.com/user-attachments/assets/76c81994-8e27-43e5-a0a9-ec2e53b53ba3" />
+
 这意味着我们可以先将所有消元步骤的矩阵乘在一起，得到一个总的变换矩阵 $E$，然后一次性作用于 $A$。
 
 ### 交换律 (Commutative Law) - **无效**
-$$
-AB \neq BA
-$$
+
+<img width="296" height="128" alt="e146b189-28f9-4c34-a3f0-b1a160325cdc" src="https://github.com/user-attachments/assets/38828671-ca96-4985-8f22-2083f31506d2" />
+
 **意义**：消元的顺序不能乱。先消第 1 列，再消第 2 列，顺序不仅影响计算过程，也决定了最终矩阵的形态。
 
 ---
@@ -135,8 +134,10 @@ $$
 
 如果我们用矩阵 $E$ 把 $A$ 变成了 $U$（上三角矩阵），如何变回来？我们需要“撤销”这个操作。
 
-* **消元步骤**：$R_2 - 3R_1$ （对应的矩阵元素是 -3）
-* **逆操作**：$R_2 + 3R_1$ （对应的矩阵元素是 +3）
+* **消元步骤**：<img width="196" height="88" alt="3a35628c-88c3-4b7e-954d-599e97cdd74d" src="https://github.com/user-attachments/assets/be159477-5e27-41e3-8550-9c2b95736473" />
+（对应的矩阵元素是 -3）
+* **逆操作**：<img width="272" height="132" alt="ebef6833-5414-4660-88bd-af7a21352378" src="https://github.com/user-attachments/assets/34d7bd21-5acc-4db6-b80b-dc948fedfb59" />
+ （对应的矩阵元素是 +3）
 
 $$
 E_{21} = \begin{bmatrix} 1 & 0 & 0 \\ -3 & 1 & 0 \\ 0 & 0 & 1 \end{bmatrix}
