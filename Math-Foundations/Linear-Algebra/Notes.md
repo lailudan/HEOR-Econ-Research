@@ -21,13 +21,15 @@
   - $x$: The Vector of unknowns (The "Target").
   - $b$: The right-hand side (The "Output").
 
-- **The Strategy**:
-  1. Transform $Ax = b$ into $Ux = c$ via **Elimination**.
-  2. $U$ is upper triangular, making it easy to solve.
-  3. Solve for $x$ starting from the bottom (Back Substitution).
 
+### 🎯 Solving the System: $Ax = b$
 
-
+- **Goal**: Find vector $x$ that satisfies the system.
+- **The Process**:
+    1. **Augment**: Create $[A | b]$ to keep operations synced.
+    2. **Eliminate**: Transform $A \to U$ (Upper Triangular).
+    3. **Solve**: Use Back Substitution on $Ux = c$.
+- **Pivot Rule**: A pivot cannot be zero. If it is, swap rows!
 
 
 
