@@ -31,6 +31,15 @@
     3. **Solve**: Use Back Substitution on $Ux = c$.
 - **Pivot Rule**: A pivot cannot be zero. If it is, swap rows!
 
+### 💎 主元确定法则 (Pivot Rules)
+
+- **位置**: 理想情况下位于主对角线 ($A_{11}, A_{22}, \dots, A_{nn}$)。
+- **特性**: 
+  - 主元必须是 **非零数**。
+  - 它是消元过程中的“基准”，用来消灭同列下方的所有元素。
+- **意外处理**:
+  - 遇到 0 怎么办？ $\implies$ **Row Exchange** (行交换)。
+  - 如果下方全是 0 怎么办？ $\implies$ 消元彻底失败，矩阵不可逆。
 
 
 
