@@ -93,11 +93,8 @@ $$
 
 
 ### 验证
-$$
-E_{21} A = \begin{bmatrix} 1 & 0 & 0 \\ -3 & 1 & 0 \\ 0 & 0 & 1 \end{bmatrix}
-\begin{bmatrix} \text{row } 1 \\ \text{row } 2 \\ \text{row } 3 \end{bmatrix}
-= \begin{bmatrix} \text{row } 1 \\ \text{row } 2 - 3(\text{row } 1) \\ \text{row } 3 \end{bmatrix}
-$$
+<img width="1022" height="258" alt="c04eb64b-e099-4124-8c70-cbe591cfed9a" src="https://github.com/user-attachments/assets/fa2f21d6-3d0a-4510-91f7-616597140c5b" />
+
 
 > **HEOR 笔记**：在处理面板数据（Panel Data）时，这种操作类似于差分（Differencing）处理以消除固定效应。
 
