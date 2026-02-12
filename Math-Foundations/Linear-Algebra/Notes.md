@@ -88,8 +88,9 @@ $$
 
 ### 构造方法
 从单位矩阵 $I$ 出发，对 $I$ 做同样的操作。
-$$I = \begin{bmatrix} 1 & 0 & 0 \\ 0 & 1 & 0 \\ 0 & 0 & 1 \end{bmatrix} 
-\xrightarrow{R_2 - 3R_1} E_{21} = \begin{bmatrix} 1 & 0 & 0 \\ \mathbf{-3} & 1 & 0 \\ 0 & 0 & 1 \end{bmatrix}$$
+
+<img width="924" height="220" alt="5ab43ccb-6f3c-40a0-a686-5fa75b7431af" src="https://github.com/user-attachments/assets/555397cd-b962-4f13-b14c-b74466b0c5de" />
+
 
 ### 验证
 $$
