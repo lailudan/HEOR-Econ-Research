@@ -205,7 +205,6 @@ $$x = -2, \quad y = 4, \quad z = 3$$
 
 
 gemini更新：
-
 # 🧮 高斯消元法实战拆解 (Step-by-Step Guide)
 
 ## 1. 初始状态 (The Setup)
@@ -220,8 +219,8 @@ gemini更新：
 $$
 \left[
 \begin{array}{ccc|c}
-5 & -2 & 6 & 0 \\\\
-1 & -1 & 3 & 3 \\\\
+5 & -2 & 6 & 0 \cr
+1 & -1 & 3 & 3 \cr
 -4 & 2 & -1 & 13
 \end{array}
 \right]
@@ -239,8 +238,8 @@ $$
 $$
 \left[
 \begin{array}{ccc|c}
-\mathbf{1} & -1 & 3 & 3 \\\\
-5 & -2 & 6 & 0 \\\\
+\mathbf{1} & -1 & 3 & 3 \cr
+5 & -2 & 6 & 0 \cr
 -4 & 2 & -1 & 13
 \end{array}
 \right]
@@ -265,8 +264,8 @@ $$
 $$
 \left[
 \begin{array}{ccc|c}
-1 & -1 & 3 & 3 \\\\
-\mathbf{0} & \mathbf{3} & \mathbf{-9} & \mathbf{-15} \\\\
+1 & -1 & 3 & 3 \cr
+\mathbf{0} & \mathbf{3} & \mathbf{-9} & \mathbf{-15} \cr
 -4 & 2 & -1 & 13
 \end{array}
 \right]
@@ -286,8 +285,8 @@ $$
 $$
 \left[
 \begin{array}{ccc|c}
-1 & -1 & 3 & 3 \\\\
-0 & 3 & -9 & -15 \\\\
+1 & -1 & 3 & 3 \cr
+0 & 3 & -9 & -15 \cr
 \mathbf{0} & \mathbf{-2} & \mathbf{11} & \mathbf{25}
 \end{array}
 \right]
@@ -311,8 +310,8 @@ $$
 $$
 \left[
 \begin{array}{ccc|c}
-1 & -1 & 3 & 3 \\\\
-0 & \mathbf{1} & \mathbf{-3} & \mathbf{-5} \\\\
+1 & -1 & 3 & 3 \cr
+0 & \mathbf{1} & \mathbf{-3} & \mathbf{-5} \cr
 0 & -2 & 11 & 25
 \end{array}
 \right]
@@ -335,8 +334,8 @@ $$
 $$
 \left[
 \begin{array}{ccc|c}
-1 & -1 & 3 & 3 \\\\
-0 & 1 & -3 & -5 \\\\
+1 & -1 & 3 & 3 \cr
+0 & 1 & -3 & -5 \cr
 0 & 0 & \mathbf{5} & \mathbf{15}
 \end{array}
 \right]
@@ -365,10 +364,6 @@ $$x + 5 = 3 \implies \mathbf{x = -2}$$
 
 ## 🎯 最终答案
 $$x = -2, \quad y = 4, \quad z = 3$$
-
-
-
-
 
 
 ## Khan Academy 1. Defining the angle between vectors  (Updated 2.10.2026)
