@@ -14,7 +14,17 @@
 - **Efficiency**: This is how algorithms actually solve systems with thousands of variables.
 - **Invertibility**: If a pivot remains zero even after row exchanges, the model is "Singular"—meaning your data points are linearly dependent [00:14:04].
 
+### 🎯 The Fundamental Goal: Solving $Ax = b$
 
+- **Structure**:
+  - $A$: The Matrix of coefficients (The "System").
+  - $x$: The Vector of unknowns (The "Target").
+  - $b$: The right-hand side (The "Output").
+
+- **The Strategy**:
+  1. Transform $Ax = b$ into $Ux = c$ via **Elimination**.
+  2. $U$ is upper triangular, making it easy to solve.
+  3. Solve for $x$ starting from the bottom (Back Substitution).
 
 
 
