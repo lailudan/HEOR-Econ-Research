@@ -166,11 +166,8 @@ $$
     * 位置 $(2,1)$ 的元素是 $\mathbf{+3}$。
 
 ### 核心公式
-$$
-E = \begin{bmatrix} 1 & 0 & 0 \\ \mathbf{-3} & 1 & 0 \\ 0 & 0 & 1 \end{bmatrix}
-\quad \xrightarrow{\text{Inverse}} \quad
-L = E^{-1} = \begin{bmatrix} 1 & 0 & 0 \\ \mathbf{3} & 1 & 0 \\ 0 & 0 & 1 \end{bmatrix}
-$$
+<img width="876" height="194" alt="814df290-54e9-4918-b911-11a2e84e7acf" src="https://github.com/user-attachments/assets/b4e4a35c-4ec9-466c-99a9-b4aa92c36fa9" />
+
 
 > **Note**: $L$ 代表 **Lower** Triangular Matrix（下三角矩阵）。所有的“乘数”（Multipliers，比如这里的 3）都完美地储存在 $L$ 的下三角区域中。
 
