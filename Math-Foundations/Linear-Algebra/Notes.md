@@ -136,11 +136,8 @@ $$
 * **逆操作**：<img width="272" height="132" alt="ebef6833-5414-4660-88bd-af7a21352378" src="https://github.com/user-attachments/assets/34d7bd21-5acc-4db6-b80b-dc948fedfb59" />
  （对应的矩阵元素是 +3）
 
-$$
-E_{21} = \begin{bmatrix} 1 & 0 & 0 \\ -3 & 1 & 0 \\ 0 & 0 & 1 \end{bmatrix}
-\implies
-E_{21}^{-1} = \begin{bmatrix} 1 & 0 & 0 \\ \mathbf{+3} & 1 & 0 \\ 0 & 0 & 1 \end{bmatrix}
-$$
+<img width="826" height="248" alt="2e6688e7-a614-4cc2-81ab-7a899af1c52d" src="https://github.com/user-attachments/assets/58335b33-9932-4510-aaaf-bb8bb529b3e6" />
+
 
 这为下一课的 **LU 分解** ($A = LU$) 埋下了伏笔：$L$ 其实就是这些逆矩阵的乘积。
 
