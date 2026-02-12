@@ -1,3 +1,28 @@
+# 🗓 2/12 MIT 18.06 Lecture 2 Linear Algebra: Matrix Elimination
+> **Source**: MIT 18.06 Lecture 2 (Gilbert Strang).
+
+### 📐 1. The Strategy: A → U
+- **Forward Elimination**: Zero out numbers below pivots to create an **Upper Triangular Matrix (U)**.
+- **Back Substitution**: Solving equations in reverse order once the matrix is triangular.
+
+### 🏗 2. Row Operations as Matrices
+- To subtract $3 \times \text{Row 1}$ from $\text{Row 2}$, use the Elementary Matrix $E_{21}$.
+- **Key Property**: $Ax = B$ becomes $Ux = C$ through a series of left-multiplications.
+- **Rule**: $E_{32}(E_{21}A) = U$. Note that order matters! ($AB \neq BA$).
+
+### 🧠 PhD Insight (HEOR/Modeling):
+- **Efficiency**: This is how algorithms actually solve systems with thousands of variables.
+- **Invertibility**: If a pivot remains zero even after row exchanges, the model is "Singular"—meaning your data points are linearly dependent [00:14:04].
+
+
+
+
+
+
+
+
+
+
 ## Khan Academy 1. Defining the angle between vectors  (Updated 2.10.2026)
 
 
