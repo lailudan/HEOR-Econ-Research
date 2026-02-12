@@ -107,9 +107,8 @@ $$
 当主元位置（Pivot Position）出现 0 时，我们需要交换行。
 
 * **构造**：交换单位矩阵 $I$ 的对应行。例如交换第 1 行和第 2 行：
-    $$
-    P_{12} = \begin{bmatrix} 0 & 1 & 0 \\ 1 & 0 & 0 \\ 0 & 0 & 1 \end{bmatrix}
-    $$
+    <img width="342" height="208" alt="2b4f054c-bc87-4377-b508-b4a5c1ae95d9" src="https://github.com/user-attachments/assets/f8facbba-2d20-4f16-a30a-23d93a33a848" />
+
 * **左乘 vs 右乘 (关键区分)**：
     * $PA$ (左乘)：交换 $A$ 的**行** (Exchange Rows)。
     * $AP$ (右乘)：交换 $A$ 的**列** (Exchange Columns)。
