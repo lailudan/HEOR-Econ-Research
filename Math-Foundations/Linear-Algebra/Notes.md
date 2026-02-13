@@ -14,7 +14,22 @@
 - If $\det = 0$, the model is locally "unstable" or "redundant."
 
 
+# Determinant: The "Peeling" Method
+> **Goal**: Breaking a 3D volume into 2D pieces.
+<img width="2606" height="1640" alt="行列式计算公式" src="https://github.com/user-attachments/assets/3d178be6-cc3e-4c5b-8e94-f9ff54e8ed08" />
 
+### 🧩 1. The Strategy (Cofactor Expansion)
+- Pick a row (usually the top one).
+- Multiply each element by the "Sub-volume" left behind.
+- **The Secret Sauce**: Remember the sign checkerboard!
+  [ +  -  + ]
+  [ -  +  - ]
+  [ +  -  + ]
+
+### 🧠 Ludan's Insight (Structural Logic)
+- This is just **Recursion (递归)**. 
+- High-dimensional problems are just "Russian Nesting Dolls" of smaller problems.
+- If a row has Zeros ($0$), pick that row! It makes the math disappear.
 
 
 
