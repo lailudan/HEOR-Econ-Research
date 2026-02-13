@@ -1,3 +1,24 @@
+# 🗓 2/13 Linear Algebra: Determinants
+> **Core Concept**: The "Scaling Factor" of a transformation.
+
+### 📐 1. Geometric Meaning
+- The Determinant measures the **signed volume** changed by the matrix.
+- If $\det(A) = 0$, the space has collapsed (e.g., 3D volume becomes a 2D plane).
+
+### 🏗 2. Why it matters for Invertibility
+- A matrix is invertible **if and only if** its determinant is NOT zero.
+- It’s the ultimate test for "Matrix Health."
+
+### 🧠 PhD Reflection (Modeling)
+- In Economics, the determinant of a Jacobian matrix tells us if a system of equations has a unique solution at a specific point. 
+- If $\det = 0$, the model is locally "unstable" or "redundant."
+
+
+
+
+
+
+
 # 🗓 2/12 MIT 18.06 Lecture 2 Linear Algebra: Matrix Elimination
 > **Source**: MIT 18.06 Lecture 2 (Gilbert Strang).
 
