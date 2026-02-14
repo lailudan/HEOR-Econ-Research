@@ -1,3 +1,30 @@
+# 🗓 2/14 Valentine's Math: $e$ and Continuous Growth
+> **Concept**: The mathematical constant $e$ as the limit of compound interest.
+
+## 📝 Vocabulary & Logic: Logarithms
+- **中文名**: 对数 (Logarithm).
+- **本质**: 指数运算的逆运算 (The inverse of exponentiation).
+- **求导关系**: 
+    - Function: $y = \ln(x)$
+    - Derivative: $y' = 1/x$
+- **Commander's Note**: Logarithms transform "Explosive Growth" into "Linear Scales." In Economics, we use logs to handle massive data ranges (like GDP or Inflation).
+### 💰 1. The Financial Logic
+- **Simple**: $1 \to 2$
+- **Compound**: $1 \to 2.25 \to 2.61...$
+- **Continuous**: $1 \times e^{rt}$. Even with infinite compounding, you hit the "e-wall".
+
+### 📐 2. The Formula
+- $e = \lim_{n \to \infty} (1 + \frac{1}{n})^n \approx 2.718$
+- **Derivative Property**: The only function where the rate of growth IS the value itself ($d/dx[e^x] = e^x$).
+
+### 🧠 PhD Reflection (HEOR)
+- Most biological and economic processes don't wait until the end of the year to grow; they grow **continuously**. 
+- $e$ is the "standard ruler" for anything that grows relative to its own size.
+
+
+
+
+
 # 🗓 2/11 Math Refresher:
 
 ## 🪵 Intro to Logarithms: Finding the "How Long"
@@ -19,13 +46,9 @@
 2. **The Natural Choice**: In Calculus, we almost exclusively use $\ln$ (Base $e$).
 3. **The Scaling Property**: Logs turn Multiplications into Additions—this is why they simplify huge complex models in Economics.
 
-## 📝 Vocabulary & Logic: Logarithms
-- **中文名**: 对数 (Logarithm).
-- **本质**: 指数运算的逆运算 (The inverse of exponentiation).
-- **求导关系**: 
-    - Function: $y = \ln(x)$
-    - Derivative: $y' = 1/x$
-- **Commander's Note**: Logarithms transform "Explosive Growth" into "Linear Scales." In Economics, we use logs to handle massive data ranges (like GDP or Inflation).
+
+
+
 
 ## 🛡️ Math Defense: The Big Three
 1. **Log**: Rescales the world (Turns Multiplication into Addition).
