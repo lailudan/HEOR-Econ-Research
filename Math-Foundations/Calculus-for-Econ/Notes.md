@@ -38,7 +38,10 @@
 - $\log_{10}$: Measuring magnitudes (like Richter scale for earthquakes).
 - $\ln$: Measuring **Growth Time** (The "natural" clock of interest and decay).
 
-
+## 🛠️ Logarithm Error Correction
+- **Rule 1 (Roots)**: If $Base > Argument$, look for fractional powers (e.g., $\sqrt{x} = x^{0.5}$).
+- **Rule 2 (Inverses)**: $1/x$ always implies a NEGATIVE exponent. 
+- **Rule 3 (The Eraser)**: $e^{\ln(x)} = x$ and $\ln(e^x) = x$. They cancel each other out perfectly.
 
 
 # 🗓 2/11 Math Refresher:
