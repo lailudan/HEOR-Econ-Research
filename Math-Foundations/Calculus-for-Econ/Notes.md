@@ -23,7 +23,7 @@
 - Most biological and economic processes don't wait until the end of the year to grow; they grow **continuously**. 
 - $e$ is the "standard ruler" for anything that grows relative to its own size.
 
-> **Core Concept**: $e$ is the "Fixed Point" of Calculus.
+### **Core Concept**: $e$ is the "Fixed Point" of Calculus.
 
 ### 🌟 1. The Derivative Property
 - $f(x) = e^x \implies f'(x) = e^x$.
