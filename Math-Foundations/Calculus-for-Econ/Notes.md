@@ -12,6 +12,8 @@
 - **Simple**: $1 \to 2$
 - **Compound**: $1 \to 2.25 \to 2.61...$
 - **Continuous**: $1 \times e^{rt}$. Even with infinite compounding, you hit the "e-wall".
+- <img width="2092" height="1044" alt="e62a3482-23aa-4443-8781-58d2ea09ebf1" src="https://github.com/user-attachments/assets/d6486abb-1681-4495-aa71-261df3ff0ac1" />
+
 
 ### 📐 2. The Formula
 - $e = \lim_{n \to \infty} (1 + \frac{1}{n})^n \approx 2.718$
