@@ -23,6 +23,20 @@
 - Most biological and economic processes don't wait until the end of the year to grow; they grow **continuously**. 
 - $e$ is the "standard ruler" for anything that grows relative to its own size.
 
+> **Core Concept**: $e$ is the "Fixed Point" of Calculus.
+
+### 🌟 1. The Derivative Property
+- $f(x) = e^x \implies f'(x) = e^x$.
+- It is the ONLY base where the rate of change matches the value itself.
+
+### 📈 2. Real-World Modeling
+- **Discrete Growth**: $2^n, 10^n$ (Step-by-step).
+- **Natural Growth**: $e^{rt}$ (Continuous).
+- **PhD Insight**: In HEOR, we use $e$ because biology doesn't have "steps"; it has flows.
+
+### 🧠 Log vs Ln
+- $\log_{10}$: Measuring magnitudes (like Richter scale for earthquakes).
+- $\ln$: Measuring **Growth Time** (The "natural" clock of interest and decay).
 
 
 
