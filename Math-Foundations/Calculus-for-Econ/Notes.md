@@ -26,8 +26,12 @@
 3. **Elasticity**: Measuring "Percentage Change" (The 1% logic).
 4. **Time**: Yes, solving for "how long until we double?" ($\ln 2 / r$).
 
-
-
+## 🛡️ Log Property Guardrails
+- **Must-Have**: The same base $b$.
+- **Formal Terms**: 
+    - Expand: For Differentiation (Calculus).
+    - Condense: For Solving Equations (Algebra).
+- **Core Strategy**: Handle the "Coefficient" (Power Rule) first when condensing.
 
 # 🗓 2/14 Valentine's Math: $e$ and Continuous Growth
 > **Concept**: The mathematical constant $e$ as the limit of compound interest.
