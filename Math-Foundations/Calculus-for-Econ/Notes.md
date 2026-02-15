@@ -14,6 +14,17 @@
 - **Key Realization**: Log properties are not just algebra; they are a pre-processing step for Calculus.
 - **Goal**: Always simplify BEFORE calculating slopes.
 
+## 💱 Change of Base: The Translator
+- **Formula**: $\log_B A = \log_C A / \log_C B$.
+- **Logic**: "High stays High, Low goes Low."
+- **Why**: Standardize everything to $\ln$ or $\log_{10}$ for calculation.
+
+
+## 🧠 Logic of Log Models
+1. **Linearization**: Turning "Explosions" ($e^x$) into "Lines" ($x$).
+2. **Compression**: Handling data from 1 to 1,000,000 without losing the small stuff.
+3. **Elasticity**: Measuring "Percentage Change" (The 1% logic).
+4. **Time**: Yes, solving for "how long until we double?" ($\ln 2 / r$).
 
 
 
