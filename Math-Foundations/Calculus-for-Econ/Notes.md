@@ -8,7 +8,11 @@
 - **Commander's Strategy**: Always simplify a formula using these rules BEFORE taking the derivative.
 
 
-
+## 🛠️ The "Deconstruction" Power
+- **Original**: $\ln(e^x / x^2)$ (Looks scary, hard to differentiate).
+- **Expanded**: $x - 2 \ln x$ (Linear, easy to differentiate).
+- **Key Realization**: Log properties are not just algebra; they are a pre-processing step for Calculus.
+- **Goal**: Always simplify BEFORE calculating slopes.
 
 
 
