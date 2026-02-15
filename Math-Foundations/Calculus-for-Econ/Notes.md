@@ -1,3 +1,19 @@
+
+# 🗓 2/15 🔧 Log Property Toolbox
+
+## 
+- **Product**: $\log(xy) = \log x + \log y$ (Multiplication $\to$ Addition)
+- **Quotient**: $\log(x/y) = \log x - \log y$ (Division $\to$ Subtraction)
+- **Power**: $\log(x^p) = p \log x$ (The "Demotion" of Exponents)
+- **Commander's Strategy**: Always simplify a formula using these rules BEFORE taking the derivative.
+
+
+
+
+
+
+
+
 # 🗓 2/14 Valentine's Math: $e$ and Continuous Growth
 > **Concept**: The mathematical constant $e$ as the limit of compound interest.
 
