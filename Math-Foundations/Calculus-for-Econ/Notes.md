@@ -1,4 +1,4 @@
-# 🗓 2/15学习日志：对数性质的证明 (Justifying Logarithm Properties)
+# 🗓 2/16 学习日志：对数性质的证明 (Justifying Logarithm Properties)
 
 在学习对数运算时，理解其背后的证明逻辑比死记硬背公式更重要。以下是三个核心对数性质的证明过程。
 
