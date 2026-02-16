@@ -1,3 +1,63 @@
+# 🗓 2/15学习日志：对数性质的证明 (Justifying Logarithm Properties)
+
+在学习对数运算时，理解其背后的证明逻辑比死记硬背公式更重要。以下是三个核心对数性质的证明过程。
+
+## 核心前提
+在证明开始前，需明确对数与指数的互逆关系：
+$$\log_b(b^c) = c$$
+这意味着底数为 $b$ 的对数会抵消底数为 $b$ 的幂运算。
+
+---
+
+## 1. 积定则 (Product Rule)
+**公式：** $\log_b(MN) = \log_b(M) + \log_b(N)$
+
+### 证明过程：
+令 $M = b^x$ 且 $N = b^y$，根据定义可知 $\log_b(M) = x$ 且 $\log_b(N) = y$。
+
+1. **代换**：$\log_b(MN) = \log_b(b^x \cdot b^y)$
+2. **指数性质**：$= \log_b(b^{x+y})$
+3. **抵消性质**：$= x + y$
+4. **代换回原式**：$= \log_b(M) + \log_b(N)$
+
+---
+
+## 2. 商定则 (Quotient Rule)
+**公式：** $\log_b\left(\frac{M}{N}\right) = \log_b(M) - \log_b(N)$
+
+### 证明过程：
+同样令 $M = b^x$ 且 $N = b^y$，则 $\log_b(M) = x$ 且 $\log_b(N) = y$。
+
+1. **代换**：$\log_b\left(\frac{M}{N}\right) = \log_b\left(\frac{b^x}{b^y}\right)$
+2. **指数性质**：$= \log_b(b^{x-y})$
+3. **抵消性质**：$= x - y$
+4. **代换回原式**：$= \log_b(M) - \log_b(N)$
+
+---
+
+## 3. 幂定则 (Power Rule)
+**公式：** $\log_b(M^p) = p \log_b(M)$
+
+### 证明方法 A：利用指数性质
+令 $M = b^x$，则 $\log_b(M) = x$。
+
+1. **代换**：$\log_b(M^p) = \log_b((b^x)^p)$
+2. **指数性质**：$= \log_b(b^{xp})$
+3. **抵消性质**：$= xp$
+4. **代换回原式**：$= \log_b(M) \cdot p = p \log_b(M)$
+
+### 证明方法 B：利用积定则（直观理解）
+将 $M^p$ 看作 $p$ 个 $M$ 相乘：
+$$\log_b(M^p) = \log_b(M \cdot M \cdot \dots \cdot M)$$
+根据**积定则**，它可以展开为 $p$ 个对数相加：
+$$= \log_b(M) + \log_b(M) + \dots + \log_b(M)$$
+根据乘法是重复加法的定义：
+$$= p \cdot \log_b(M)$$
+
+---
+> **结论**：通过将对数问题转化为指数问题，我们可以清晰地看到对数的加减运算本质上是指数的加减。
+
+
 
 # 🗓 2/15 🔧 Log Property Toolbox
 
