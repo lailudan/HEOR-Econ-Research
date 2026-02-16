@@ -19,6 +19,7 @@ $$\log_b(b^c) = c$$
 2. **指数性质**：$= \log_b(b^{x+y})$
 3. **抵消性质**：$= x + y$
 4. **代换回原式**：$= \log_b(M) + \log_b(N)$
+<img width="1106" height="880" alt="21af5a83-5a76-4550-984c-6fa09a4b8ed1" src="https://github.com/user-attachments/assets/7aed0f99-878a-4443-a14e-8b5acb67db03" />
 
 ---
 
@@ -32,6 +33,7 @@ $$\log_b(b^c) = c$$
 2. **指数性质**：$= \log_b(b^{x-y})$
 3. **抵消性质**：$= x - y$
 4. **代换回原式**：$= \log_b(M) - \log_b(N)$
+<img width="1030" height="914" alt="4ea07254-403f-42e6-a825-25c74a8e8104" src="https://github.com/user-attachments/assets/7a136d66-c724-429e-b633-532c4e505fa5" />
 
 ---
 
@@ -45,6 +47,7 @@ $$\log_b(b^c) = c$$
 2. **指数性质**：$= \log_b(b^{xp})$
 3. **抵消性质**：$= xp$
 4. **代换回原式**：$= \log_b(M) \cdot p = p \log_b(M)$
+<img width="1042" height="880" alt="6524a047-8519-4bfd-bb6c-4c0a61c0638a" src="https://github.com/user-attachments/assets/4babeb7b-9ebc-436b-85e4-68bc98ad9d8d" />
 
 ### 证明方法 B：利用积定则（直观理解）
 将 $M^p$ 看作 $p$ 个 $M$ 相乘：
