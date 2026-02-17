@@ -150,8 +150,170 @@ $$
 拉格朗日恒等式通过代数手段，完美地证明了**叉积的模长就是由这两个向量组成的平行四边形的面积**。
 
 
+# 两个视频重点整理：点积 vs 叉积（公式 + 例题）
 
+> 适用：线性代数/向量基础、后续理解“投影/正交/最小二乘”很关键。  
+> 记号：向量 \(\mathbf{a}=(a_1,a_2,a_3)\), \(\mathbf{b}=(b_1,b_2,b_3)\)，夹角为 \(\theta\)。
 
+---
+
+## 1. Dot Product（点积 / 内积）
+
+### 1.1 核心公式
+
+**代数（坐标）定义：**
+
+\[
+\mathbf{a}\cdot \mathbf{b}=a_1b_1+a_2b_2+a_3b_3
+\]
+
+**几何公式：**
+
+\[
+\mathbf{a}\cdot \mathbf{b}=|\mathbf{a}|\,|\mathbf{b}|\cos\theta
+\]
+
+**向量长度：**
+
+\[
+|\mathbf{a}|=\sqrt{a_1^2+a_2^2+a_3^2}
+\]
+
+---
+
+### 1.2 重点理解（几何直觉）
+
+- 点积衡量两个向量“同向程度”（与 \(\cos\theta\) 相关）。
+- 判别：
+  - \(\mathbf{a}\cdot\mathbf{b}>0\) ：夹角 < 90°
+  - \(\mathbf{a}\cdot\mathbf{b}=0\) ：正交（垂直）
+  - \(\mathbf{a}\cdot\mathbf{b}<0\) ：夹角 > 90°
+
+**投影关系（非常重要）：**
+
+- 标量投影：
+\[
+\text{comp}_{\mathbf{b}}(\mathbf{a})=
+\frac{\mathbf{a}\cdot\mathbf{b}}{|\mathbf{b}|}
+\]
+
+- 向量投影：
+\[
+\text{proj}_{\mathbf{b}}(\mathbf{a})=
+\frac{\mathbf{a}\cdot\mathbf{b}}{|\mathbf{b}|^2}\mathbf{b}
+\]
+
+> 计量/回归里：投影 + 正交 是最小二乘的几何核心。
+
+---
+
+### 1.3 例题（完整计算）
+
+给定：
+
+\[
+\mathbf{a}=(1,2,3),\quad 
+\mathbf{b}=(4,-1,2)
+\]
+
+**(1) 点积：**
+
+\[
+\mathbf{a}\cdot\mathbf{b}
+=1\cdot4+2\cdot(-1)+3\cdot2
+=4-2+6
+=8
+\]
+
+**(2) 长度：**
+
+\[
+|\mathbf{a}|=\sqrt{14}
+\]
+
+\[
+|\mathbf{b}|=\sqrt{21}
+\]
+
+**(3) 求 \(\cos\theta\)：**
+
+\[
+\cos\theta=
+\frac{8}{\sqrt{14}\sqrt{21}}
+=
+\frac{8}{\sqrt{294}}
+\]
+
+---
+
+## 2. Cross Product（叉积）
+
+> 叉积只存在于三维空间。结果是一个垂直于两个向量的向量。
+
+### 2.1 核心公式
+
+\[
+\mathbf{a}\times\mathbf{b}=
+(a_2b_3-a_3b_2,\;
+a_3b_1-a_1b_3,\;
+a_1b_2-a_2b_1)
+\]
+
+---
+
+### 2.2 几何意义
+
+\[
+|\mathbf{a}\times\mathbf{b}|
+=
+|\mathbf{a}||\mathbf{b}|\sin\theta
+\]
+
+它表示：
+
+- 平行四边形面积
+- 方向垂直于 a 和 b
+
+---
+
+### 2.3 例题
+
+\[
+\mathbf{a}=(1,2,3),\quad 
+\mathbf{b}=(4,-1,2)
+\]
+
+\[
+\mathbf{a}\times\mathbf{b}
+=
+(7,10,-9)
+\]
+
+大小：
+
+\[
+|\mathbf{a}\times\mathbf{b}|
+=
+\sqrt{230}
+\]
+
+---
+
+## 3. Dot vs Cross 对照表
+
+| 项目 | 点积 | 叉积 |
+|------|------|------|
+| 结果 | 标量 | 向量 |
+| 三角函数 | cosθ | sinθ |
+| 几何意义 | 投影 | 面积 |
+| 为0时 | 正交 | 平行 |
+
+---
+
+## 4. 学习路线提示
+
+- 点积 → 投影 → 正交 → 最小二乘
+- 叉积 → 面积 → 法向量 → 物理/几何
 
 
 
