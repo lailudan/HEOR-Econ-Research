@@ -96,7 +96,7 @@ $$||\mathbf{a} \times \mathbf{b}||^2 = ||\mathbf{a}||^2 ||\mathbf{b}||^2 - (\mat
 
 我们通过对比等式左右两边的坐标展开来证明。
 <img width="1046" height="1476" alt="64b1f517-4e71-42d0-80a7-fc8b874a0af3" src="https://github.com/user-attachments/assets/15cc5624-9f4b-4eed-8a48-301dba32a2e3" />
-
+<!-- 我想隐藏的话 
 设 $\mathbf{a} = (a_1, a_2, a_3)$，$\mathbf{b} = (b_1, b_2, b_3)$。
 
 ### A. 展开左边：$||\mathbf{a} \times \mathbf{b}||^2$
@@ -123,7 +123,7 @@ $$
 RHS = (a_1^2b_2^2 + a_1^2b_3^2 + a_2^2b_1^2 + a_2^2b_3^2 + a_3^2b_1^2 + a_3^2b_2^2) - (2a_1b_1a_2b_2 + 2a_1b_1a_3b_3 + 2a_2b_2a_3b_3)
 $$
 
-**结论**：对比 LHS 和 RHS，每一项都一一对应。**拉格朗日恒等式成立。**
+**结论**：对比 LHS 和 RHS，每一项都一一对应。**拉格朗日恒等式成立。** -->
 
 ---
 
