@@ -1,6 +1,5 @@
 # 🗓 2/17 Linear Algebra: The Cross Product
 
-
 > **Source:** Linear Algebra Course - Cross Product Introduction
 > **Status:** #Learning #LinearAlgebra #Geometry
 > **Tags:** Cross Product, Orthogonality, Normal Vector, Determinant
