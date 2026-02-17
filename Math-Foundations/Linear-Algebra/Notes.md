@@ -123,7 +123,9 @@ $$
 RHS = (a_1^2b_2^2 + a_1^2b_3^2 + a_2^2b_1^2 + a_2^2b_3^2 + a_3^2b_1^2 + a_3^2b_2^2) - (2a_1b_1a_2b_2 + 2a_1b_1a_3b_3 + 2a_2b_2a_3b_3)
 $$
 
-**结论**：对比 LHS 和 RHS，每一项都一一对应。**拉格朗日恒等式成立。** -->
+**结论**：对比 LHS 和 RHS，每一项都一一对应。**拉格朗日恒等式成立。** 
+
+-->
 
 ---
 
@@ -140,7 +142,8 @@ $$
 3. **利用三角恒等式**：$1 - \cos^2 \theta = \sin^2 \theta$
    $||\mathbf{a} \times \mathbf{b}||^2 = ||\mathbf{a}||^2 ||\mathbf{b}||^2 \sin^2 \theta$
 4. **开方**：
-   $||\mathbf{a} \times \mathbf{b}|| = ||\mathbf{a}|| ||\mathbf{b}|| \sin \theta$ -->
+   $||\mathbf{a} \times \mathbf{b}|| = ||\mathbf{a}|| ||\mathbf{b}|| \sin \theta$ 
+-->
 
 ---
 ## 4. 总结
