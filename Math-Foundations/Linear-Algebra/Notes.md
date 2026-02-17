@@ -167,11 +167,19 @@ $$
 | **符号表示** | $\vec{a} \cdot \vec{b}$ | $\vec{a} \times \vec{b}$ |
 
 ### 坐标计算公式
+<img width="516" height="184" alt="4142ae72-0e29-422d-b12b-9502456f3cd6" src="https://github.com/user-attachments/assets/a7b8edaa-fa87-4128-b844-0135f51c8cbc" />
+
+则
+
+<img width="408" height="234" alt="3fc312b8-cec2-429b-bebe-c17963516852" src="https://github.com/user-attachments/assets/f7b270d3-f8ed-474c-898d-f5de72c66a41" />
+
+
+<!-- 
 设 $\vec{a} = \begin{bmatrix} a_1 \\ a_2 \\ a_3 \end{bmatrix}$，$\vec{b} = \begin{bmatrix} b_1 \\ b_2 \\ b_3 \end{bmatrix}$，则：
 
 $$\vec{a} \times \vec{b} = \begin{bmatrix} a_2b_3 - a_3b_2 \\ a_3b_1 - a_1b_3 \\ a_1b_2 - a_2b_1 \end{bmatrix}$$
+-->
 
----
 
 ## 2. 数学证明：叉积模长与 $\sin \theta$ 的关系
 **核心目标**：证明 $||\mathbf{a} \times \mathbf{b}|| = ||\mathbf{a}|| ||\mathbf{b}|| \sin \theta$。
