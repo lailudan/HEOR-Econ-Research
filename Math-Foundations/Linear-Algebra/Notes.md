@@ -132,6 +132,7 @@ $$
 有了恒等式，推导 $\sin \theta$ 就顺理成章了：
 <img width="980" height="776" alt="01f48ddc-6a8a-4684-8326-e71914f2c090" src="https://github.com/user-attachments/assets/ddcba79a-f515-43dd-94a9-0ebb010fed7e" />
 
+<!-- 我想隐藏的话
 1. **已知点积定义**：$(\mathbf{a} \cdot \mathbf{b}) = ||\mathbf{a}|| ||\mathbf{b}|| \cos \theta$
 2. **代入恒等式**：
    $||\mathbf{a} \times \mathbf{b}||^2 = ||\mathbf{a}||^2 ||\mathbf{b}||^2 - (||\mathbf{a}|| ||\mathbf{b}|| \cos \theta)^2$
@@ -139,7 +140,7 @@ $$
 3. **利用三角恒等式**：$1 - \cos^2 \theta = \sin^2 \theta$
    $||\mathbf{a} \times \mathbf{b}||^2 = ||\mathbf{a}||^2 ||\mathbf{b}||^2 \sin^2 \theta$
 4. **开方**：
-   $||\mathbf{a} \times \mathbf{b}|| = ||\mathbf{a}|| ||\mathbf{b}|| \sin \theta$
+   $||\mathbf{a} \times \mathbf{b}|| = ||\mathbf{a}|| ||\mathbf{b}|| \sin \theta$ -->
 
 ---
 ## 4. 总结
