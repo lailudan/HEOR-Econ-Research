@@ -45,9 +45,8 @@
 
 不要死记硬背那个 $a_2b_3 - a_3b_2$ 的公式，使用 $3 \times 3$ 行列式来推导：
 
-$$
-\mathbf{a} \times \mathbf{b} = \det \begin{bmatrix} \mathbf{i} & \mathbf{j} & \mathbf{k} \\ a_1 & a_2 & a_3 \\ b_1 & b_2 & b_3 \end{bmatrix}
-$$
+<img width="360" height="210" alt="b2187229-77bb-46db-8f55-555416785cd8" src="https://github.com/user-attachments/assets/8b2f1c3c-f6bf-44ee-a600-a4f40e81ff68" />
+
 
 * **$\mathbf{i}$ 分量**：盖住第 1 列 $\rightarrow (a_2b_3 - a_3b_2)$
 * **$\mathbf{j}$ 分量**：盖住第 2 列 **(记得加负号!)** $\rightarrow -(a_1b_3 - a_3b_1)$
