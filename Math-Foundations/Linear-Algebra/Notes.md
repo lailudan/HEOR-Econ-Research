@@ -95,6 +95,7 @@ $$||\mathbf{a} \times \mathbf{b}||^2 = ||\mathbf{a}||^2 ||\mathbf{b}||^2 - (\mat
 ## 2. 证明过程 (代数展开法)
 
 我们通过对比等式左右两边的坐标展开来证明。
+<img width="1046" height="1476" alt="64b1f517-4e71-42d0-80a7-fc8b874a0af3" src="https://github.com/user-attachments/assets/15cc5624-9f4b-4eed-8a48-301dba32a2e3" />
 
 设 $\mathbf{a} = (a_1, a_2, a_3)$，$\mathbf{b} = (b_1, b_2, b_3)$。
 
@@ -129,6 +130,7 @@ $$
 ## 3. 推导几何意义
 
 有了恒等式，推导 $\sin \theta$ 就顺理成章了：
+<img width="980" height="776" alt="01f48ddc-6a8a-4684-8326-e71914f2c090" src="https://github.com/user-attachments/assets/ddcba79a-f515-43dd-94a9-0ebb010fed7e" />
 
 1. **已知点积定义**：$(\mathbf{a} \cdot \mathbf{b}) = ||\mathbf{a}|| ||\mathbf{b}|| \cos \theta$
 2. **代入恒等式**：
