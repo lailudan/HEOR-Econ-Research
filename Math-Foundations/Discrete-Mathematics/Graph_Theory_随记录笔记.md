@@ -59,7 +59,9 @@
 
 ### 1. 从树到网的演变 (De-treeification)
 - **初始态**：Spanning Tree (生成树)。结构精简，$E = V - 1$，利于控制。
-- **饱和态**：Dense Graph (稠密图)。$E \gg V$，导致信息溢出与处理瘫痪。
+- **饱和态**：Dense Graph (稠密图)。
+- $E \gg V$
+- ，导致信息溢出与处理瘫痪。
 
 ### 2. 奇数环的防御价值 (The Power of Odd Cycles)
 - **原理**：奇数环（如三角形）打破了“监视者 vs 被监视者”的二分法（Bipartite property）。
