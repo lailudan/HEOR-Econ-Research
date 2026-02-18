@@ -52,7 +52,7 @@ $$\sum_{v \in V} \text{deg}(v) = 2|E|$$
 
 ## 🏛️ 第三部分：形式化证明 (Formal Proofs)
 
-### 证明：$d+1$ 着色定理的归纳法推导
+### Prove: $d+1$ , 着色定理的归纳法推导
 **Proof by Induction on $n$:**
 1.  **Base Case ($n=1$):** 只有一个点，<!-- TODO: 公式渲染异常，疑似 $\text{deg}(v)=0$ 不支持 --> <img width="192" height="68" alt="25ed2a20-807e-4bcd-aa2b-3a77692411cd" src="https://github.com/user-attachments/assets/fc57f1ae-9a2a-4773-a310-28258188ce78" />
 ，可以用 $0+1=1$ 种颜色，成立。
