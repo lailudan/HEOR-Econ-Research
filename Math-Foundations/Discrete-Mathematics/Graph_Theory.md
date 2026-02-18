@@ -51,7 +51,7 @@ $$\sum_{v \in V} \text{deg}(v) = 2|E|$$
 ### ⚠️ 易混淆点：General Coloring vs. Four Color Theorem
 
 - **General Graph (Lec 6):** - 关注 $d+1$。只要你的度数足够高，颜色可以无限增加。
-  - 例子：一个 5 个点且两两相连的图（$K_5$），最大度数 $d=4$，需要 5 种颜色。
+  - 例子：一个 5 个点且两两相连的图，（$K_5$），最大度数 $d=4$，需要 5 种颜色。
   
 - **Planar Graph (Four Color Theorem):**
   - 关注“平面性”。上述的 $K_5$ 在平面上是画不出来的（边一定会交叉）。
