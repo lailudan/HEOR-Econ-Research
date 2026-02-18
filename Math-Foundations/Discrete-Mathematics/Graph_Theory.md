@@ -47,7 +47,8 @@ $$\sum_{v \in V} \text{deg}(v) = 2|E|$$
 
 ### 证明：$d+1$ 着色定理的归纳法推导
 **Proof by Induction on $n$:**
-1.  **Base Case ($n=1$):** 只有一个点，$\text{deg}(v)=0$，可以用 $0+1=1$ 种颜色，成立。
+1.  **Base Case ($n=1$):** 只有一个点，$\text{deg}(v)=0$ <img width="192" height="68" alt="25ed2a20-807e-4bcd-aa2b-3a77692411cd" src="https://github.com/user-attachments/assets/fc57f1ae-9a2a-4773-a310-28258188ce78" />
+，可以用 $0+1=1$ 种颜色，成立。
 2.  **Inductive Step:**
     - 假设结论对 $n$ 个节点的图成立。
     - 考虑 $n+1$ 个节点的图，移除一个点 $v$。
