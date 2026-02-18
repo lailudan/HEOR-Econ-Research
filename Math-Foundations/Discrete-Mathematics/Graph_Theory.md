@@ -80,8 +80,8 @@ $$\sum_{v \in V} \text{deg}(v) = 2|E|$$
     - 剩余子图已按假设完成着色。
     - 将 $v$ 放回 $v$ 最多有 $d$ 个邻居，在 $d+1$ 种可选颜色中，**至少存在一种颜色**未被邻居占用。
     - $\therefore$ 结论对 $n+1$ 成立。
+<img width="1432" height="906" alt="681127f7-641f-4253-afa2-a78f55965e24" src="https://github.com/user-attachments/assets/f48b14bd-87d7-4bb0-bf4e-48952fdb6882" />
 
----
 
 ## 🧬 第四部分：跨学科建模思维 (Case Studies)
 
