@@ -21,14 +21,6 @@ $$\vec{n} \cdot (P - P_0) = 0$$
 - **点积 (Dot Product)**：投影、相似度、垂直判定、$\cos$。
 - **叉积 (Cross Product)**：法向量生成、面积计算、$\sin$。
 
----
-*Ludan's Linear Algebra Notes | 2026*
-
-# 🗓️ 线性代数自救手册：三维空间的距离判定
-
-> **学习重点**：理解“距离”在向量空间中如何通过“投影”来实现。
-
----
 
 ## 点到平面的最短距离 (Point-to-Plane Distance)
 
