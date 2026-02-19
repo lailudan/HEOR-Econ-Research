@@ -1,4 +1,4 @@
-# 🗓 2026-02-08 Physics: Ideal Gas Law (PV=nRT)
+# 🗓 2026-02-08 Physics: Ideal Gas Law (PV=nRT) （正序笔记）
 > **Insight**: Using "Ideal" models to approximate "Real" complexity.
 
 ### 🌡 1. The Core Equation
