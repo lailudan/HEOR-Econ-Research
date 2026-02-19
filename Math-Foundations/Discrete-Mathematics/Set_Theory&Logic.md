@@ -1,5 +1,5 @@
 
-### 02/04 Discrete Math ⚖️ Logic Comparison: OR vs. XOR
+### 02/04 Discrete Math ⚖️ Logic Comparison: OR vs. XOR （正序笔记）
 
 | Operator | Symbol | Logical Meaning | Real-world Analogy |
 | :--- | :--- | :--- | :--- |
