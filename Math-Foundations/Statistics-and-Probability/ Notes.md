@@ -1,4 +1,4 @@
-# Updated 1/24/2026
+# Updated 1/24/2026 （正序笔记）
 
 # Marginal and conditional distributions
 
