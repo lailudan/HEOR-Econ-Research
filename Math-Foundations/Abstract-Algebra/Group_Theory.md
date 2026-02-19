@@ -1,4 +1,4 @@
-# Group Theory (群论) 学习笔记 2026-02-16
+# Group Theory (群论) 学习笔记 2026-02-16 （正序笔记）
 
 **Source Material:**
 1. [What is Group Theory? (Ep. 1)](https://youtu.be/KufsL2VgELo)
