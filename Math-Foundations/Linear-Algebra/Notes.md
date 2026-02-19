@@ -123,16 +123,14 @@ $$\mathbf{a} \times (\mathbf{b} \times \mathbf{c}) = \mathbf{b}(\mathbf{a} \cdot
 
 <img width="360" height="210" alt="b2187229-77bb-46db-8f55-555416785cd8" src="https://github.com/user-attachments/assets/8b2f1c3c-f6bf-44ee-a600-a4f40e81ff68" />
 
-另一种写法
-
-<img width="1222" height="248" alt="21539be8-db3a-4996-bf58-6154adb04d16" src="https://github.com/user-attachments/assets/f5266b75-c498-4216-8422-7ef129b757fc" />
-
-
 * **$\mathbf{i}$ 分量**：盖住第 1 列 $\rightarrow (a_2b_3 - a_3b_2)$
 * **$\mathbf{j}$ 分量**：盖住第 2 列 **(记得加负号!)** $\rightarrow -(a_1b_3 - a_3b_1)$
 * **$\mathbf{k}$ 分量**：盖住第 3 列 $\rightarrow (a_1b_2 - a_2b_1)$
 
----
+
+另一种写法
+
+<img width="1222" height="248" alt="21539be8-db3a-4996-bf58-6154adb04d16" src="https://github.com/user-attachments/assets/f5266b75-c498-4216-8422-7ef129b757fc" />
 
 ## 4. HEOR 与科研中的应用
 **(Connection to Research)**
