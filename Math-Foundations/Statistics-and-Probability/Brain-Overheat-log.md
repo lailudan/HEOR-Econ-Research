@@ -1,3 +1,41 @@
+# **Timeline:** 1.11-1.20.2026 （正序笔记）
+
+🧠 Brain-Overheat Log (Difficulties & Breakthroughs)
+**Project:** Architectural Logic to Quantitative PhD Pipeline
+**Status:** High-Intensity Mental Restructuring
+
+---
+
+## 🛑 The "Static vs. Dynamic" Barrier
+* **The Struggle**: Moving from the architectural "Fixed Beam" mindset ($y = kx + b$) to the "Dynamic Flow" of parametric equations ($\vec{x} = \vec{a} + t\vec{v}$).
+* **Mental Block**: Initially viewing a vector as a static arrow rather than a **movement command**.
+* **Breakthrough**: Realizing that the vector $\vec{a}$'s "head" is merely the starting camp, and $t$ is the "throttle" pushing the point along the guide rail.
+
+
+
+## Updated 1.21.2026 
+
+
+## 🛑 Two-way Table Blind Spot: Failed to distinguish between "Global Total" and "Conditional Group Total."
+* **Strategy**: Circle the denominator (the "of" part of the sentence) before looking at the numerator.
+
+### 🛑 1/21 Trap: The "Proportion vs. Absolute Count" Illusion
+> **Lesson**: A higher percentage does NOT mean a higher number of people.
+
+* **The Mistake**: Selecting an answer about "more people" (Absolute Count) based solely on a "Relative Frequency Table" (Proportion).
+* **Structural Logic**: 
+    * **Relative Frequency** (e.g., 0.15 vs 0.08) describes the **Shape** or density within a group.
+    * **Absolute Count** depends on the **Scale** (the total sample size $N$ of that group).
+* **The Golden Rule**: Unless the total $N$ for each group is provided, any conclusion claiming "more/fewer people" is logically invalid. 
+* **PhD Research Mantra**: In my future YOPD data analysis, I must distinguish between the *prevalence rate* (percentage) and the *patient population size* (absolute count) to avoid misleading policy conclusions.
+
+
+
+
+
+
+
+
 ## Updated 1.23.2026 Statistics: The Row vs. Column Geometry
 > **Core Struggle**: Feeling that Statistics is harder than Calculus because of semantic ambiguity.
 
@@ -21,42 +59,6 @@ The most common mistake is picking the wrong "100%".
 * **Observation**: You don't need absolute counts to find an association.
 * **Logic**: If the percentage changes significantly when moving from one group to another (e.g., Minimal vs. Extreme computer users), an **Association** exists.
 * **Warning**: A higher percentage does NOT guarantee a higher number of people unless the group sizes are known.
-
-
-
-
-## Updated 1.21.2026
-
-
-## 🛑 Two-way Table Blind Spot: Failed to distinguish between "Global Total" and "Conditional Group Total."
-* **Strategy**: Circle the denominator (the "of" part of the sentence) before looking at the numerator.
-
-### 🛑 1/21 Trap: The "Proportion vs. Absolute Count" Illusion
-> **Lesson**: A higher percentage does NOT mean a higher number of people.
-
-* **The Mistake**: Selecting an answer about "more people" (Absolute Count) based solely on a "Relative Frequency Table" (Proportion).
-* **Structural Logic**: 
-    * **Relative Frequency** (e.g., 0.15 vs 0.08) describes the **Shape** or density within a group.
-    * **Absolute Count** depends on the **Scale** (the total sample size $N$ of that group).
-* **The Golden Rule**: Unless the total $N$ for each group is provided, any conclusion claiming "more/fewer people" is logically invalid. 
-* **PhD Research Mantra**: In my future YOPD data analysis, I must distinguish between the *prevalence rate* (percentage) and the *patient population size* (absolute count) to avoid misleading policy conclusions.
-
-
-
-
-
-# 🧠 Brain-Overheat Log (Difficulties & Breakthroughs)
-**Project:** Architectural Logic to Quantitative PhD Pipeline
-**Status:** High-Intensity Mental Restructuring
-**Timeline:** 1.11-1.20.2026
----
-
-## 🛑 The "Static vs. Dynamic" Barrier
-* **The Struggle**: Moving from the architectural "Fixed Beam" mindset ($y = kx + b$) to the "Dynamic Flow" of parametric equations ($\vec{x} = \vec{a} + t\vec{v}$).
-* **Mental Block**: Initially viewing a vector as a static arrow rather than a **movement command**.
-* **Breakthrough**: Realizing that the vector $\vec{a}$'s "head" is merely the starting camp, and $t$ is the "throttle" pushing the point along the guide rail.
-
-
 
 ---
 
