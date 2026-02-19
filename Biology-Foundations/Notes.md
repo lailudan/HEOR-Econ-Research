@@ -1,4 +1,4 @@
-# AP Biology 课程翻译：真核细胞概论 (Intro to Eukaryotic Cells) （Updated 02.10.2026）
+# AP Biology 课程翻译：真核细胞概论 (Intro to Eukaryotic Cells) （Updated 02.10.2026）（正序笔记）
 
 ---
 
