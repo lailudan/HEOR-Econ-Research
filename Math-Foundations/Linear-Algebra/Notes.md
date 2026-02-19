@@ -51,7 +51,8 @@ $$\mathbf{a} \times (\mathbf{b} \times \mathbf{c}) = \mathbf{b}(\mathbf{a} \cdot
 
 ### 📍 2. 变量拆解（政策空间分解）
 在处理 **HEOR 成本-效应结构** 时，若 $\mathbf{b}$ 和 $\mathbf{c}$ 代表两类基准政策效应：
-* **公式意义**：$\mathbf{b}(\mathbf{a} \cdot \mathbf{c}) - \mathbf{c}(\mathbf{a} \cdot \mathbf{b})$ 提供了一种自动化的拆解机制。
+* **公式意义**：<!-- $\mathbf{b}(\mathbf{a} \cdot \mathbf{c}) - \mathbf{c}(\mathbf{a} \cdot \mathbf{b})$ --> <img width="410" height="98" alt="ee1ce306-4e1b-4185-a135-6840018dd43e" src="https://github.com/user-attachments/assets/d974b146-45a6-40f9-8e52-8840d852504f" />
+提供了一种自动化的拆解机制。
 * **应用场景**：它将复杂的综合效应变量 $\mathbf{a}$ 表达为基准变量 $\mathbf{b}$ 与 $\mathbf{c}$ 的线性组合，这在**多变量因果建模**中是空间分解的基础。
 
 ---
