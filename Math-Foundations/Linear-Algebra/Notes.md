@@ -68,11 +68,10 @@ $$\vec{n} \cdot (P - P_0) = 0$$
 * **残差项的本质**：在多元回归中，观测点到拟合超平面的“垂直距离”就是残差（Residual）。
 * **正交投影**：当你最小化这个距离 $d$ 时，你实际上是在做 **最小二乘法 (OLS)**，让误差向量与预测平面正交。
 
+<img width="1340" height="212" alt="4e5b5af4-9294-450b-8f5f-f74a8f7c78cf" src="https://github.com/user-attachments/assets/e6a210ff-8076-41ec-93df-d19123643202" />
 
-Ax+By+Cz+D=0,平面的身份证,满足它，点就在面上
-点积等于 0,绝对垂直,两样东西完全不相关
-D1​−D2​,层高差,两个平行面之间的距离，A B C 等比例
-分母的那个根号,尺子的刻度,把抽象数字变回物理长度的“翻译官”
+<img width="1120" height="300" alt="4d23c223-76f6-47fd-8db6-f4f6d63e95ce" src="https://github.com/user-attachments/assets/d9dae828-30f7-4a28-8230-4db77264204a" />
+
 ---
 *Ludan's Linear Algebra Notes | 2026-02-19*
 
