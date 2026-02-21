@@ -25,10 +25,23 @@ Through a recent "Compare Notes" session with Dr. Menghan Shen, I've refined the
 ---
 
 ### 3. Topography of Data: "Standard Map" vs. "High-Res LiDAR"
-In the context of architectural site analysis, a flat 2D map can hide crucial terrain details that determine whether a structure will stand. Data has a similar "hidden topography".
+In architecture, a 2D map can hide terrain details that determine structural integrity. Data has a similar "hidden topography".
 
-Traditional Tools are like Standard Site Prototyping: They apply a single, uniform "master plan" to every plot of land (patient). They assume the terrain is level, focusing only on the average elevation.
+* **Traditional Tools** are like **Standard Site Prototyping**: They apply a uniform "master plan" to every plot (patient), assuming a level terrain (average elevation).
+* **ML Tools** are like **High-Resolution LiDAR Scanning**: They "scan" the landscape to reveal hidden ridges and micro-climates (patient sub-groups) where treatment efficacy peaks or valleys unexpectedly. 
 
-ML Tools are like High-Resolution LiDAR Scanning: They "scan" the data landscape to reveal the hidden ridges, ravines, and micro-climates that a flat map misses.
 
-In HEOR terms: ML identifies the specific "micro-terrains" (patient sub-groups) where a drug’s efficacy might peak or valley unexpectedly, which is critical for Young-Onset Parkinson's Disease (YOPD) research where patient heterogeneity is the rule, not the exception.
+
+---
+
+### 4. Synergy: Causal Machine Learning (Causal ML)
+The future is **Hybridization**:
+1.  **Economics as the Skeleton**: Defines the causal graph and identifies confounding biases.
+2.  **ML as the Muscle**: Uses computational power (e.g., **Double Machine Learning**) to strip away noise and precisely lock onto the sub-groups that benefit most.
+
+---
+
+### 5. Reflection: Math as Spatial Projection
+Linear Algebra is not about being a calculator; it is about mastering **Spatial Projection**.
+* **Regression** finds a flat plane of best fit.
+* **ML** performs a high-dimensional warping of space to find where the "special cases" are hidden.
