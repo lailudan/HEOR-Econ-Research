@@ -6,7 +6,7 @@ I aim to use econometric tools to uncover the "hidden heterogeneity" within medi
 ---
 
 ### 1. The Paradigm Shift: Policy Research vs. HEOR
-Through a recent "Compare Notes" session with Dr. Mandy Shen, I've refined the distinction between these two sister fields:
+Through a recent "Compare Notes" session with Dr. Menghan Shen, I've refined the distinction between these two sister fields:
 
 * **Policy Research**: Primarily focuses on the **Average Treatment Effect (ATE)**. It asks: "Is this policy effective for the general population?" The logic is rooted in **macro-level equity**.
 * **HEOR**: Primarily focuses on the **Conditional Average Treatment Effect (CATE)** or **Heterogeneity of Treatment Effect (HTE)**. It asks: "Does this specific drug provide a significant cost-effectiveness ratio for a sub-group, such as YOPD patients under 45 with specific genetic markers?". The logic is rooted in **micro-level value** and **Precision Medicine**.
