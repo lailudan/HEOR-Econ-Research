@@ -1,6 +1,6 @@
 
 
-# Study Notes: The Structuralist Reconstruction of Calculus
+# Study Notes: The Structuralist Reconstruction of Calculus （正序笔记）
 **Timeline:** Jan 20, 2026  
 **Theme:** Deconstructing "Analytical" Rote Learning through Systemic Modeling  
 **Target:** Kobe University PhD Pipeline (GSICS-Economics)
@@ -74,61 +74,6 @@ Higher-order derivatives serve as "Pre-alarm" systems for researchers.
 
 
 ---
-# Updated: Jan 28, 2026
-# 🔍 Study Notes: The Logic of One-Sided Limits
-<img width="1086" height="1114" alt="Weixin Image_20260128153446_183_11" src="https://github.com/user-attachments/assets/620222b2-70ea-4a04-876a-e0561f8545c6" />
-
-
-**Context:** 理解为什么在“跳跃点”，单侧极限可以存在而整体极限不存在。
-
-## 🕵️ The "Paparazzi" Rule of Limits
-> Limits are like paparazzi: they only care about who you're hanging out with (neighbors), not who you actually are (the point).
-
-- **Ignore the Point**: The actual value $f(c)$ (solid dot) is IRRELEVANT to the limit.
-- **Focus on the Trend**: Look at the "Super Neighbors" (infinitesimally close).
-- **Jump Discontinuity**: 
-    - Left neighbors say "We are going to 5".
-    - Right neighbors say "We are going to 1".
-    - Result: Individual side limits exist, but they don't agree.
-
-## 1. 核心定义：单侧极限 (One-Sided Limits)
-> **Structural Insight:** 只要单方面有明确的目标，极限就是“存在的”。
-
-在你的示例图中，函数在 $x=2$ 处裂开了。数学家使用特殊的符号来描述这种“单向奔赴”：
-
-* **左极限 (Left-hand Limit):** $\lim_{x \to 2^-} f(x) = 5$
-    - **逻辑：** 只看 $x=2$ 左边的邻居。当 $x$ 从 $1.9, 1.99 \dots$ 靠近时，高度趋向于 **5**。
-* **右极限 (Right-hand Limit):** $\lim_{x \to 2^+} f(x) = 1$
-    - **逻辑：** 只看 $x=2$ 右边的邻居。当 $x$ 从 $2.1, 2.01 \dots$ 靠近时，高度趋向于 **1**。
-
-
-
----
-
-## 2. 为什么“整体极限”会不存在 (DNE)？
-整体极限 $\lim_{x \to 2} f(x)$ 要求左右邻居达成“共识”。
-
-* **判定法则：** 只有当 **左极限 = 右极限** 时，整体极限才存在。
-* **本例结论：** 因为 $5 \neq 1$，所以左右邻居在这里“闹掰了”。
-* **术语：** 这种情况称为 **跳跃间断 (Jump Discontinuity)**。
-
----
-
-## 3. 跨学科直觉：经济学中的“冲击 (Shock)”
-在即将研究的 **GSICS-Economics (神户大学)** 领域中，这种图非常有用：
-
-* **政策突变：** 假设 $x=2$ 是政策颁布的时刻。
-* **左极限：** 政策前市场的预期（趋向 5）。
-* **右极限：** 政策后市场的瞬间反应（跳到了 1）。
-* **结论：** 这种“不连续性”描述了系统在极端扰动下的瞬态行为，而不是错误。
-
-### 🧠 The "Neighbor Consensus" Rule
-- **Single-Side**: Neighbors on ONE side have a clear destination $\to$ **Limit Exists**.
-- **Double-Side**: Neighbors from BOTH sides must meet at the same point $\to$ **Limit Exists**.
-- **The Gap**: If Left $\neq$ Right, the system is "Broken" at that point (DNE).
-
-
-
 
 
 
@@ -221,6 +166,67 @@ Higher-order derivatives serve as "Pre-alarm" systems for researchers.
     - **Logic**: Stitching the Rhythm (Area) to find the Total.
 
 **Insight**: My "Structuralist" brain excels here because I see the system's balance. I don't calculate points; I manage flows.
+
+
+# Updated: Jan 28, 2026
+# 🔍 Study Notes: The Logic of One-Sided Limits
+<img width="1086" height="1114" alt="Weixin Image_20260128153446_183_11" src="https://github.com/user-attachments/assets/620222b2-70ea-4a04-876a-e0561f8545c6" />
+
+
+**Context:** 理解为什么在“跳跃点”，单侧极限可以存在而整体极限不存在。
+
+## 🕵️ The "Paparazzi" Rule of Limits
+> Limits are like paparazzi: they only care about who you're hanging out with (neighbors), not who you actually are (the point).
+
+- **Ignore the Point**: The actual value $f(c)$ (solid dot) is IRRELEVANT to the limit.
+- **Focus on the Trend**: Look at the "Super Neighbors" (infinitesimally close).
+- **Jump Discontinuity**: 
+    - Left neighbors say "We are going to 5".
+    - Right neighbors say "We are going to 1".
+    - Result: Individual side limits exist, but they don't agree.
+
+## 1. 核心定义：单侧极限 (One-Sided Limits)
+> **Structural Insight:** 只要单方面有明确的目标，极限就是“存在的”。
+
+在你的示例图中，函数在 $x=2$ 处裂开了。数学家使用特殊的符号来描述这种“单向奔赴”：
+
+* **左极限 (Left-hand Limit):** $\lim_{x \to 2^-} f(x) = 5$
+    - **逻辑：** 只看 $x=2$ 左边的邻居。当 $x$ 从 $1.9, 1.99 \dots$ 靠近时，高度趋向于 **5**。
+* **右极限 (Right-hand Limit):** $\lim_{x \to 2^+} f(x) = 1$
+    - **逻辑：** 只看 $x=2$ 右边的邻居。当 $x$ 从 $2.1, 2.01 \dots$ 靠近时，高度趋向于 **1**。
+
+
+
+---
+
+## 2. 为什么“整体极限”会不存在 (DNE)？
+整体极限 $\lim_{x \to 2} f(x)$ 要求左右邻居达成“共识”。
+
+* **判定法则：** 只有当 **左极限 = 右极限** 时，整体极限才存在。
+* **本例结论：** 因为 $5 \neq 1$，所以左右邻居在这里“闹掰了”。
+* **术语：** 这种情况称为 **跳跃间断 (Jump Discontinuity)**。
+
+---
+
+## 3. 跨学科直觉：经济学中的“冲击 (Shock)”
+在即将研究的 **GSICS-Economics (神户大学)** 领域中，这种图非常有用：
+
+* **政策突变：** 假设 $x=2$ 是政策颁布的时刻。
+* **左极限：** 政策前市场的预期（趋向 5）。
+* **右极限：** 政策后市场的瞬间反应（跳到了 1）。
+* **结论：** 这种“不连续性”描述了系统在极端扰动下的瞬态行为，而不是错误。
+
+### 🧠 The "Neighbor Consensus" Rule
+- **Single-Side**: Neighbors on ONE side have a clear destination $\to$ **Limit Exists**.
+- **Double-Side**: Neighbors from BOTH sides must meet at the same point $\to$ **Limit Exists**.
+- **The Gap**: If Left $\neq$ Right, the system is "Broken" at that point (DNE).
+
+
+
+
+
+
+
 
 
 
