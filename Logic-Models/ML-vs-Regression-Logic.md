@@ -22,7 +22,8 @@ Through a recent "Compare Notes" session with Dr. Menghan Shen, I've refined the
 | **Objective** | Finding the "Average" and its statistical significance. | Finding "Specialness" and the **Unknown Unknowns**. |
 | **Limitation** | Highly dependent on the researcher’s existing biases and assumptions. | Can fall into the trap of "Correlation" without a solid causal framework. |
 
----
+---![unnamed](https://github.com/user-attachments/assets/54a534c4-6eef-4bdb-a05d-47a75afe5648)
+
 
 ### 3. Topography of Data: "Standard Map" vs. "High-Res LiDAR"
 In architecture, a 2D map can hide terrain details that determine structural integrity. Data has a similar "hidden topography".
