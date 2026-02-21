@@ -66,3 +66,18 @@
 
 ## 🛠️ Lessons for Kobe University (GSICS) or other resources
 - 在高桥老师的模型里，变量的 **Span** 决定了模型的 [填入一个词，比如：维度/解释力]。
+
+
+
+一些markdown文件语法
+
+<!-- TODO: 公式渲染异常，疑似 \begin{align} 不支持 -->
+
+<!--
+$$
+\begin{align}
+Y &= X\beta + \varepsilon \\
+E[\varepsilon|X] &= 0
+\end{align}
+$$
+-->
