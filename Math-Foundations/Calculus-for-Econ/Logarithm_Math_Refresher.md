@@ -297,11 +297,13 @@ $$\log_5 100 = \frac{\log_{10} 100}{\log_{10} 5} = \frac{2}{\log_{10} 5} \approx
 这是解决复杂对数乘法问题的神技。当你看到底数和参数“交叉”出现时，可以将其视为分式的约分。
 
 **案例：** 计算 $\log(6) \cdot \log_6(a)$
+<!-- 
 - 根据换底公式，$\log_6(a) = \frac{\log a}{\log 6}$
 - 代入原式：$\log(6) \cdot \frac{\log a}{\log 6} = \log a$
 - **心得**：对数相乘时，如果前一个的“参数”等于后一个的“底数”，它们在逻辑上可以“抵消”。
+-->
+<img width="1442" height="320" alt="afff5c8d-e385-4297-94a0-6472d0b7037d" src="https://github.com/user-attachments/assets/4ac25a45-61a6-40bf-aed9-7cfb97456616" />
 
----
 
 ### 3️⃣ 实战技巧：计算器使用
 大多数计算器只有 $\log_{10}$ (简写为 $\log$) 和 $\log_e$ (简写为 $\ln$)。
