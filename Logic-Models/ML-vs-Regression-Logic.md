@@ -24,7 +24,11 @@ Through a recent "Compare Notes" session with Dr. Mandy Shen, I've refined the d
 
 ---
 
-### 3. The "Ajin" Metaphor & Hidden Variables
-In the world of big data, AI does not inherently know who the "Ajin" (those with hidden, supernatural-like physiological traits) are. 
-* **Traditional Tools** are like **Standard Blueprints**: They attempt to apply the same structural formulas to every plot of land (patient).
-* **ML Tools** are
+### 3. Topography of Data: "Standard Map" vs. "High-Res LiDAR"
+In the context of architectural site analysis, a flat 2D map can hide crucial terrain details that determine whether a structure will stand. Data has a similar "hidden topography".
+
+Traditional Tools are like Standard Site Prototyping: They apply a single, uniform "master plan" to every plot of land (patient). They assume the terrain is level, focusing only on the average elevation.
+
+ML Tools are like High-Resolution LiDAR Scanning: They "scan" the data landscape to reveal the hidden ridges, ravines, and micro-climates that a flat map misses.
+
+In HEOR terms: ML identifies the specific "micro-terrains" (patient sub-groups) where a drug’s efficacy might peak or valley unexpectedly, which is critical for Young-Onset Parkinson's Disease (YOPD) research where patient heterogeneity is the rule, not the exception.
