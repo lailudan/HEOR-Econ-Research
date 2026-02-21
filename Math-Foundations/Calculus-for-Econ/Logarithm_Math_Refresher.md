@@ -249,7 +249,7 @@ $$\lim_{x \to 1} \frac{x}{\ln(x)} = \frac{\lim_{x \to 1} x}{\lim_{x \to 1} \ln(x
 
 
 
-## 🗓 2/21 对数逻辑与函数运算的边界
+# 🗓 2/21 对数逻辑与函数运算的边界
 **Date:** 2026-02-21
 
 ---
@@ -258,6 +258,11 @@ $$\lim_{x \to 1} \frac{x}{\ln(x)} = \frac{\lim_{x \to 1} x}{\lim_{x \to 1} \ln(x
 
 ### 📌 公式
 $$\log_a b = \frac{\log_x b}{\log_x a}$$
+
+换底公式证明
+
+<img width="1090" height="616" alt="2e432904-882b-4912-acee-53eec0e34201" src="https://github.com/user-attachments/assets/3cac19e8-1690-449a-a6c7-b54420c4d210" />
+
 
 ### 1️⃣ 核心证明逻辑
 为了证明这个公式，我们需要在两个不同底数（$a$ 与 $x$）之间建立逻辑桥梁。
