@@ -304,5 +304,4 @@ $$\sum_{v \in V} \text{deg}(v) = 2|E|$$
 
 ---
 > **"Stability doesn't mean everyone is happy; it just means no one can do better by cheating the system."**
--
 > **"主动方就是那个“敢于发起最优挑战”的人。我敢于坦露我的欲望，并为此支付代价。而数学通过“最优性”奖赏了这种坦诚。"**
