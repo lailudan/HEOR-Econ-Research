@@ -529,6 +529,7 @@ $$\lim_{x \to -1} \frac{x+1}{\sqrt{x+5}-2} = \frac{-1+1}{\sqrt{-1+5}-2} = \frac{
 
 **结论：** 该极限值为 **4**。
 
+<img width="2064" height="1030" alt="cf43b2ca-488f-4321-80d7-129bd3dab5d1" src="https://github.com/user-attachments/assets/7a0b5f42-f932-49d8-8a86-5176c029bacc" />
 
 
 ---
@@ -538,7 +539,9 @@ $$\lim_{x \to -1} \frac{x+1}{\sqrt{x+5}-2} = \frac{-1+1}{\sqrt{-1+5}-2} = \frac{
 针对之前的计算偏差，在此记录严谨的计算路径：
 
 1. **公式转换**：
-   - $ 2\cdot \frac{\ln(1/52)}{\ln(3)}$
+   <!--  $ 2\cdot \frac{\ln(1/52)}{\ln(3)}$ -->
+     <img width="396" height="188" alt="ebc58e31-eacf-49b1-9fee-9cea2dcf22bb" src="https://github.com/user-attachments/assets/fdf99c57-c5e9-4802-9d4c-3cd40afc2f5d" />
+
 3. **分步计算**：
    - $\ln(1/52) \approx -3.951$
    - $\ln(3) \approx 1.099$
