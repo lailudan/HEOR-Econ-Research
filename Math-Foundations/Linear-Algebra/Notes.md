@@ -1,6 +1,6 @@
 
 
-# 📐 Linear Algebra: Deep-Dive Log (Updated 1.20.2026)
+# 📐 Linear Algebra: Deep-Dive Log (Updated 1.20.2026) (正序笔记)
 
 **Project:** Linear Algebra Foundation for GSICS-Econometrics
 **Focus:** Vector Spaces, Parametric Equations, and Normalization
