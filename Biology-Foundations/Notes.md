@@ -104,7 +104,7 @@
 
 
 
-# AP Biology & HEOR 研究核心词汇表 (Cell Unit)
+# AP Biology & HEOR 研究核心词汇表 (Cell Unit) 
 
 > **研究方向：** YOPD (早发型帕金森), YOAD (早发型阿尔兹海默症), HEOR (医药经济学)
 > **学习目标：** 掌握临床病理机制描述，为博一流行病学与生统课程打基础。
@@ -152,4 +152,52 @@
 * **Hypo-**: 低 (e.g., Hypotonic 低渗)
 
 ---
-*Generated for PhD study preparation - GSICS-Economics, Kobe University.*
+
+
+
+
+# AP Biology 学习指南：内质网与高尔基体 (ER & Golgi Bodies) （Updated 02.24.2026）
+
+> **视频标题解析：**
+> * **Endoplasmic Reticulum (ER)**: 内质网（细胞内加工厂）
+> * **Golgi bodies**: 高尔基体（细胞物流中心/快递分拣站）
+
+## 1. 核心流程：从图纸到出口 (The Workflow)
+
+视频展示了蛋白质生产的“出口导向型”流程：
+1.  **Transcription (转录)** [00:00:09]：在 **Nucleus (细胞核)** 中，DNA 变成 mRNA（出口图纸）。
+2.  **Nuclear Pores (核孔)** [00:02:20]：mRNA 通过核孔“隧道”离开细胞核。
+3.  **Rough ER (粗面内质网)** [00:06:14]：上面贴满了 **Ribosomes (核糖体)**。蛋白质在这里被合成，并直接进入 ER 内部的 **Lumen (管腔)**。
+4.  **Vesicle (囊泡)** [00:10:04]：蛋白质被包在一个小膜泡里，像个快递盒子，从 ER “断裂”出来。
+5.  **Golgi Apparatus (高尔基体)** [00:10:20]：快递盒子到达这里进行“成熟化加工”和“分拣”。
+6.  **Exocytosis (胞吐)** [00:11:30]：最终包裹送到细胞膜，蛋白质被释放到细胞外，或嵌入细胞膜。
+
+---
+
+## 2. 关键生词黑话 (Vocabulary Breakdown)
+
+| 单词 | 形象类比 | 研究关联 (YOPD/YOAD) |
+| :--- | :--- | :--- |
+| **Bipid Layer** | **双层脂质膜** | 细胞膜的基本结构。帕金森研究中经常探讨膜的流动性。 |
+| **Hydrophilic** | **亲水的** | 膜的外层，喜欢水。 |
+| **Hydrophobic** | **疏水的** | 膜的内层，怕水。决定了哪些药能穿过脑屏障。 |
+| **Lumen** | **管腔 (内部空间)** | 蛋白质折叠的实际场所。如果管腔环境出错，蛋白就会乱折叠。 |
+| **Vesicle** | **囊泡 (小气泡)** | **核心词！** 多巴胺就是装在囊泡里的。YOPD 往往是囊泡运输出了问题。 |
+| **Cyto-sol vs -plasm** | **基质 vs 细胞质** | Cytosol 只是液体；Cytoplasm 是液体加所有零件。 |
+
+---
+
+## 3. 为什么 YOPD/YOAD 研究者要看这个？
+
+* **蛋白质分拣错误：** 如果 **Golgi bodies**（高尔基体）罢工，神经元产生的关键蛋白就无法到达突触。
+* **内质网应激 (ER Stress)：** 如果 **Rough ER** 堆积了太多折叠错误的蛋白（如 α-突触核蛋白），细胞会感到“压力山大”并启动自杀程序。
+* **囊泡运输：** 帕金森病的一个治疗方向就是如何让这些 **Vesicle (囊泡)** 更顺畅地把多巴胺运送到细胞膜边缘放电。
+
+---
+
+## 4. 讨论：为什么叫“粗面” (Rough)？
+因为显微镜下，内质网上密密麻麻贴着的 **Ribosomes (核糖体)** 看起来就像磨砂表面一样，所以叫 Rough ER。
+
+---
+*Created for Ludan Lai's PhD Repository.*
+*Focus: The "Logistics" of Neurodegenerative Diseases.*
