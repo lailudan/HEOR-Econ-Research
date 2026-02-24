@@ -159,6 +159,7 @@
 # AP Biology 学习指南：内质网与高尔基体 (ER & Golgi Bodies) （Updated 02.24.2026）
 
 > **视频标题解析：**
+> * Endoplasmic reticulum and Golgi bodies | Biology | Khan Academy
 > * **Endoplasmic Reticulum (ER)**: 内质网（细胞内加工厂）
 > * **Golgi bodies**: 高尔基体（细胞物流中心/快递分拣站）
 
