@@ -143,7 +143,10 @@ Logic transformed into hardware architecture.
 - **补集定义**: $\complement_U A = \{x \mid x \in U \text{ 且 } x \notin A\}$
 - **直观理解**: “非 A”的所有区域。
 
-[Image of Venn diagrams showing Set Union, Intersection, and Complement operations]
+<img width="1542" height="850" alt="534b4f98e06f604f27fdfb793f14fdbe" src="https://github.com/user-attachments/assets/73a2bd68-f26f-4d67-9cf3-597895e9f5b3" />
+<img width="1544" height="852" alt="e5facaeb336169f01ecd82ff16264325" src="https://github.com/user-attachments/assets/6fd81cf4-8f9f-4a37-b20d-baf2ba5e1a77" />
+<img width="1540" height="844" alt="a111feffdeff5baff4f5b8554eed7a84" src="https://github.com/user-attachments/assets/8691dbbb-d0f7-4483-b44f-016e4225213b" />
+
 
 ---
 
