@@ -92,4 +92,75 @@ Logic transformed into hardware architecture.
 <img width="1314" height="1778" alt="f6a21f84-69c0-4628-a72a-613b0e634e42" src="https://github.com/user-attachments/assets/d081fa11-4068-4a1d-8799-93d87140ee33" />
 
 
+# 🗓️ 集合论核心笔记：关系、运算与逻辑子空间 updated 2026-02-26
 
+
+## 一、 集合间的基本关系 (Relationships)
+
+### 1. 子集 (Subset)
+- **定义**: 如果集合 $A$ 的任意一个元素都是集合 $B$ 的元素，则称 $A$ 是 $B$ 的**子集**。
+- **符号**: $A \subseteq B$（读作“A包含于B”或“B包含A”）。
+- **性质**:
+    - **自反性**: $A \subseteq A$。
+    - **传递性**: 若 $A \subseteq B$ 且 $B \subseteq C$，则 $A \subseteq C$。
+    - **空集特性**: $\varnothing \subseteq A$（空集是任何集合的子集）。
+
+### 2. 真子集 (Proper Subset)
+- **定义**: 如果 $A \subseteq B$，但存在元素 $x \in B$ 且 $x \notin A$，则称 $A$ 是 $B$ 的**真子集**。
+- **符号**: $A \subsetneq B$。
+- **性质**: $\varnothing$ 是任何非空集合的真子集。
+
+### 3. 集合相等 (Equality)
+- **定义**: $A \subseteq B$ 且 $B \subseteq A \iff A = B$。
+
+---
+
+## 二、 集合的计数规律 (Combinatorics)
+
+对于含有 $n$ 个元素的有限集 $A$：
+
+| 集合类型 | 计算公式 | 备注 |
+| :--- | :--- | :--- |
+| **子集总数** | $2^n$ | 包含空集和自身 |
+| **真子集数** | $2^n - 1$ | 除去自身 |
+| **非空子集数** | $2^n - 1$ | 除去空集 |
+| **非空真子集数** | $2^n - 2$ | 除去空集和自身 |
+
+---
+
+## 三、 集合的基本运算 (Operations)
+
+### 1. 交集 (Intersection)
+- **定义**: $A \cap B = \{x \mid x \in A \text{ 且 } x \in B\}$
+- **直观理解**: 两个圈重叠的部分。
+
+### 2. 并集 (Union)
+- **定义**: $A \cup B = \{x \mid x \in A \text{ 或 } x \in B\}$
+- **直观理解**: 两个圈合并后的所有领土。
+
+### 3. 补集 (Complement)
+- **全集 ($U$)**: 包含研究所涉及的所有元素的集合。
+- **补集定义**: $\complement_U A = \{x \mid x \in U \text{ 且 } x \notin A\}$
+- **直观理解**: “非 A”的所有区域。
+
+[Image of Venn diagrams showing Set Union, Intersection, and Complement operations]
+
+---
+
+## 四、 核心逻辑定律：德·摩根定律 (De Morgan's Laws)
+
+在处理复杂的否定逻辑（如 HEOR 模型中的排除标准）时极其重要：
+
+1. **“交的补等于补的并”**: $\complement_U(A \cap B) = (\complement_U A) \cup (\complement_U B)$
+2. **“并的补等于补的交”**: $\complement_U(A \cup B) = (\complement_U A) \cap (\complement_U B)$
+
+---
+
+## 🧠 PhD 建模思维连接 (Ludan's Research Insight)
+
+1. **从集合到子空间 (Subspace)**: 
+   线性代数中的“子空间”其实就是一个特殊的集合。它不仅要求元素属于大集合，还要求对加法和数乘保持“封闭”。
+2. **条件概率的基石**: 
+   概率 $P(A|B)$ 的本质就是在 $B$ 这个子集（集合）的范围内，考察 $A \cap B$ 所占的比例。
+3. **数据筛选逻辑**: 
+   在 SQL 或 Python 数据处理中，`AND` 对应 $\cap$，`OR` 对应 $\cup$，`NOT` 对应 $\complement$。
