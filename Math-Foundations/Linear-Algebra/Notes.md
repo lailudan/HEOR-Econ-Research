@@ -1361,8 +1361,11 @@ $$\vec{n} \cdot (P - P_0) = 0$$
 > **Note**：线性代数的 1/3 进度标志着从"只会计算"向"看透空间结构"的跨越。RREF（行变换）是抓捕零空间中向量的终极工具。
 
 
+## 在这一阶段引入转置 (Transpose)
 
+简单来说，转置就是把一个矩阵**“翻个面”**：原来的行变成列，原来的列变成行。
 
+<img width="1170" height="1304" alt="e7a230c8-3cd0-48cd-a160-98c2efdfa785" src="https://github.com/user-attachments/assets/d121fe93-a1a2-41ba-ab19-65377c6462de" />
 
 
 
