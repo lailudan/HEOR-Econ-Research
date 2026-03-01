@@ -4,3 +4,5 @@
 
 例题里 AI 写成 I乘以A的逆元 左右换一下通过消元法求得A的逆元
 <img width="1096" height="516" alt="2599d20b-76bf-4d33-88e0-5edc56c2ca09" src="https://github.com/user-attachments/assets/451e009a-a481-47b2-a63a-8a47689ab09f" />
+
+<img width="1090" height="1424" alt="1b71b5b1-ad7b-4a60-9865-ce1d09f25748" src="https://github.com/user-attachments/assets/9e22326d-a588-49d1-83e0-c27d8437a3de" />
