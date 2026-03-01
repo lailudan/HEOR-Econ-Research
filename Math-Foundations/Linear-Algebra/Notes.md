@@ -1599,6 +1599,8 @@ $$A^{-1} = \frac{1}{\det A} \begin{bmatrix} d & -b \\ -c & a \end{bmatrix}$$
 
 <img width="466" height="150" alt="58d30fa2-7f24-4990-89a8-25aeeb2ba6f8" src="https://github.com/user-attachments/assets/082023e6-5434-4564-9a46-dc7bf4b0e5c9" />
 
+<img width="1072" height="570" alt="d19c6be0-a801-4ae1-ae79-a8696cc7bc15" src="https://github.com/user-attachments/assets/2b3e420d-8a8d-4e5b-8447-1ec7f68e3441" />
+
 这个公式居然和刚才的消元过程**完全一致**？
 
 那个一旦理解，你对逆矩阵就**彻底通了**。
