@@ -77,6 +77,7 @@
 
 
 
+<img width="1170" height="2532" alt="b42b857c-456f-49fc-95fa-916d72355d3e" src="https://github.com/user-attachments/assets/06c443ad-17e3-4f05-8d83-2a92773edb79" />
 
 
 ## 🕊️ 案例：北京雨燕的迁徙与动态图论 2.28.26 伊朗战争有感
