@@ -77,7 +77,13 @@
 
 
 
-<img width="1170" height="2532" alt="b42b857c-456f-49fc-95fa-916d72355d3e" src="https://github.com/user-attachments/assets/06c443ad-17e3-4f05-8d83-2a92773edb79" />
+<br>
+<br>
+
+
+<img width="1342" height="354" alt="918a9ff1-5f4c-42aa-9fd3-e8767a12b0ed" src="https://github.com/user-attachments/assets/fc1aa30c-d096-4856-a34f-cf05a92d4142" />
+
+<img width="1392" height="540" alt="bf939595-0845-4d40-b596-d06dd3d81fa8" src="https://github.com/user-attachments/assets/e887358b-01b6-44ae-9603-45094bcb803c" />
 
 
 ## 🕊️ 案例：北京雨燕的迁徙与动态图论 2.28.26 伊朗战争有感
