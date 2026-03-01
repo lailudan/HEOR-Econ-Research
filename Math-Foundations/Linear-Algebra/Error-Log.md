@@ -169,6 +169,8 @@ $$[1,3] \cdot \begin{bmatrix}2 \\ 1\end{bmatrix} = 1\times2 + 3\times1 = 5$$
 
 $$C = \begin{bmatrix} 2 & 5 \\ 1 & 5 \end{bmatrix}$$
 
+<img width="316" height="188" alt="58403639-415b-40d2-9ae7-a2c0eb643b91" src="https://github.com/user-attachments/assets/31b77468-ec48-475d-8365-b26b2829b9e9" />
+
 ---
 
 ## 三、真正的核心结论
