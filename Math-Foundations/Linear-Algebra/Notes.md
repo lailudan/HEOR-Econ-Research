@@ -1606,5 +1606,9 @@ $$A^{-1} = \frac{1}{\det A} \begin{bmatrix} d & -b \\ -c & a \end{bmatrix}$$
 
 <img width="1024" height="328" alt="f74f9da5-7f70-46b8-af63-4d1d03933c8e" src="https://github.com/user-attachments/assets/6d6338e4-2836-4b29-b541-05b33625cfca" />
 
+### Why Ax = 0 (for x ≠ 0) kills Invertibility:
 
+1. **Algebraic Conflict**: If $A^{-1}$ exists, $A^{-1}Ax = 0$ forces $x = 0$. Finding a non-zero $x$ proves $A^{-1}$ is impossible.
+2. **Loss of Information**: When $A$ maps a non-zero vector to zero, it "erases" its position. You cannot reconstruct the input from a zero output.
+3. **Dimensional Collapse**: This implies the matrix is "Singular" (Determinant = 0), representing a total collapse of at least one spatial dimension.
 
