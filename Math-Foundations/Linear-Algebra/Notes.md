@@ -1591,11 +1591,13 @@ $$A \text{ 作用在 } I \text{ 上}$$
 
 ---
 
-## 下一步：更炸裂的理解
+## 下一步：
 
 为什么
 
 $$A^{-1} = \frac{1}{\det A} \begin{bmatrix} d & -b \\ -c & a \end{bmatrix}$$
+
+<img width="466" height="150" alt="58d30fa2-7f24-4990-89a8-25aeeb2ba6f8" src="https://github.com/user-attachments/assets/082023e6-5434-4564-9a46-dc7bf4b0e5c9" />
 
 这个公式居然和刚才的消元过程**完全一致**？
 
