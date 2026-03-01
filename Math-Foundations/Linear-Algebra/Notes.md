@@ -1604,6 +1604,7 @@ $$A^{-1} = \frac{1}{\det A} \begin{bmatrix} d & -b \\ -c & a \end{bmatrix}$$
 <img width="1294" height="1420" alt="9ab5f429-e2e5-427c-b479-9c0649d3906b" src="https://github.com/user-attachments/assets/c9ea8bf9-69e0-4b8f-b422-5727df6aa64c" />
 
 
+<img width="1024" height="328" alt="f74f9da5-7f70-46b8-af63-4d1d03933c8e" src="https://github.com/user-attachments/assets/6d6338e4-2836-4b29-b541-05b33625cfca" />
 
 
 
