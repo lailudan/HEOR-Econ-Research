@@ -1,69 +1,69 @@
-# 📘 2×2 矩阵逆公式的证明与行列式讨论
+# 📘 Proof of 2×2 Matrix Inverse Formula and Determinant Analysis
 
-## 一、命题
-设矩阵：
+## I. Proposition
+Let matrix $A$ be defined as:
 $$A = \begin{bmatrix} a & b \\ c & d \end{bmatrix}$$
 
-若行列式 $\det A = ad - bc \neq 0$，则其逆矩阵为：
+If the determinant $\det A = ad - bc \neq 0$, then the inverse matrix $A^{-1}$ is given by:
 $$A^{-1} = \frac{1}{ad - bc} \begin{bmatrix} d & -b \\ -c & a \end{bmatrix}$$
 
 ---
 
-## 二、证明（直接构造法）
-我们构造一个伴随矩阵 $B = \begin{bmatrix} d & -b \\ -c & a \end{bmatrix}$，并计算 $AB$ 的结果。
+## II. Proof (Direct Construction Method)
+We construct an adjugate matrix $B = \begin{bmatrix} d & -b \\ -c & a \end{bmatrix}$ and calculate the product $AB$.
 
-### Step 1：矩阵乘法
+### Step 1: Matrix Multiplication
 $$AB = \begin{bmatrix} a & b \\ c & d \end{bmatrix} \begin{bmatrix} d & -b \\ -c & a \end{bmatrix}$$
 
-逐项计算结果矩阵的各个位置：
-* **左上角**：$ad + b(-c) = ad - bc$
-* **右上角**：$a(-b) + ba = -ab + ab = 0$
-* **左下角**：$cd + d(-c) = cd - dc = 0$
-* **右下角**：$c(-b) + da = -cb + ad = ad - bc$
+Calculating each entry of the resulting matrix:
+* **Top-Left**: $ad + b(-c) = ad - bc$
+* **Top-Right**: $a(-b) + ba = -ab + ab = 0$
+* **Bottom-Left**: $cd + d(-c) = cd - dc = 0$
+* **Bottom-Right**: $c(-b) + da = -cb + ad = ad - bc$
 
-### Step 2：整理结果
+### Step 2: Simplifying the Result
 $$AB = \begin{bmatrix} ad-bc & 0 \\ 0 & ad-bc \end{bmatrix} = (ad - bc) \begin{bmatrix} 1 & 0 \\ 0 & 1 \end{bmatrix} = (\det A) I$$
 
-### Step 3：得到逆矩阵
-如果 $\det A \neq 0$，则等式两边同时除以 $\det A$：
+### Step 3: Deriving the Inverse
+If $\det A \neq 0$, we can divide both sides by the scalar $\det A$:
 $$A \left( \frac{1}{\det A} B \right) = I$$
 
-由此可得：
+Therefore:
 $$A^{-1} = \frac{1}{\det A} \begin{bmatrix} d & -b \\ -c & a \end{bmatrix}$$
-**证毕。**
+**Q.E.D.**
 
 ---
 
-## 三、行列式的不同情况分析
+## III. Analysis of Determinant Cases
 
-### 情况 1：$\det A \neq 0$
-**矩阵可逆**。因为 $AB = (\det A)I$，只要缩放因子不为 0，就可以通过缩放回到单位矩阵。
+### Case 1: $\det A \neq 0$
+**Matrix is Invertible**. Since $AB = (\det A)I$, as long as the scaling factor is non-zero, we can "rescale" the transformation back to the Identity Matrix.
 
-### 情况 2：$\det A = 0$
-此时 $AB = \mathbf{0}$。无法通过缩放得到单位矩阵，因此 **$A$ 不可逆**。
+### Case 2: $\det A = 0$
+In this case, $AB = \mathbf{0}$. It is impossible to rescale the matrix back to $I$. Therefore, **$A$ is Singular (Non-invertible)**.
 
-**几何解释**：
-* $\det A$ 表示面积缩放因子。
-* 若 $\det A = 0$，面积被压缩为 0，平面被压扁成一条线或一个点。
-* **信息丢失**：塌陷后的维度无法恢复原始状态。
+**Geometric Interpretation**:
+* $\det A$ represents the area scaling factor.
+* If $\det A = 0$, the area is compressed to zero. The 2D plane is "squashed" into a 1D line or a 0D point.
+* **Information Loss**: Once dimensions collapse, the original input cannot be recovered.
 
 
 
-### 情况 3：$\det A < 0$
-**矩阵仍然可逆**。面积放大 $|\det A|$ 倍，但同时发生了**方向翻转**（类似于镜像反射）。
+### Case 3: $\det A < 0$
+**Matrix remains Invertible**. The area is scaled by a factor of $|\det A|$, but the **orientation is flipped** (similar to a mirror reflection).
 
 ---
 
-## 四、结构性理解
-对于 $2 \times 2$ 矩阵，逆矩阵的本质结构是：
+## IV. Structural Intuition
+For a $2 \times 2$ matrix, the inverse is essentially:
 $$A^{-1} = \frac{\text{adj}(A)}{\det A}$$
 
-其中伴随矩阵为 $\text{adj}(A) = \begin{bmatrix} d & -b \\ -c & a \end{bmatrix}$，它满足核心关系：
+Where the adjugate matrix $\text{adj}(A) = \begin{bmatrix} d & -b \\ -c & a \end{bmatrix}$ provides the **direction correction**, satisfying the core identity:
 $$A \cdot \text{adj}(A) = (\det A)I$$
 
 ---
 
-## 五、核心总结
-1.  **行列式**是面积缩放因子。
-2.  **行列式为 0** $\iff$ 矩阵不可逆（空间坍缩）。
-3.  **逆矩阵** = 方向修正（伴随矩阵）+ 尺度修正（行列式倒数）。
+## V. Key Takeaways
+1.  **Determinant** is the spatial scaling factor.
+2.  **$\det A = 0$** $\iff$ Singular matrix (Spatial collapse).
+3.  **Inverse Matrix** = Directional Correction (Adjugate) + Scale Correction (Inverse Determinant).
