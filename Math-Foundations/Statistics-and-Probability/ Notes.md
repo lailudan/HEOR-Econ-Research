@@ -1,4 +1,4 @@
-## 🗓 1/24 Khan Academy Statistics and probability Unit 1: Deciphering the "Two Faces" of Distribution# Updated 1/24/2026 （正序笔记）
+## 🗓 1/24 Khan Academy Statistics and Probability Unit 1: Deciphering the "Two Faces" of Distribution# Updated 1/24/2026 （正序笔记）
 
 # Marginal and conditional distributions
 
@@ -53,7 +53,7 @@
 ---
 
 ## 3. Linear Algebra: Parametric Vector Thinking
-> **Core Insight:** A vector equation is a dynamic "action command" consisting of Position + Offset.
+**Core Insight:** A vector equation is a dynamic "action command" that consists of Position + Offset.
 
 * **The Anchor ($\vec{a}$)**: The position vector—the "structural foundation."
 * **The Direction ($\vec{b} - \vec{a}$)**: The guide rail for the line's orientation.
