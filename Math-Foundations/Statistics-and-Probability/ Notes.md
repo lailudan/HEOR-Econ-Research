@@ -1,4 +1,4 @@
-# Updated 1/24/2026 （正序笔记）
+## 🗓 1/24 Khan Academy Statistics and probability Unit 1: Deciphering the "Two Faces" of Distribution# Updated 1/24/2026 （正序笔记）
 
 # Marginal and conditional distributions
 
