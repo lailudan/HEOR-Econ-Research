@@ -1614,82 +1614,70 @@ $$A^{-1} = \frac{1}{\det A} \begin{bmatrix} d & -b \\ -c & a \end{bmatrix}$$
 
 
 
+# 📝 线性代数练习笔记：计算 3x4 矩阵的零空间 (Null Space)
 
-
-
-
-# 📝 Linear Algebra Practice: Calculating the Null Space of a 3x4 Matrix
-https://www.youtube.com/watch?v=qvyboGryeA8&t=6s
-**Date**: 2026-03-03
-**Goal**: Find the Null Space of matrix $A$, which means solving for all vectors $\mathbf{x}$ such that $A\mathbf{x} = \mathbf{0}$.
+**日期**: 2026-03-03
+**视频来源**: [Khan Academy - Null space 2: Calculating the null space of a matrix](https://www.youtube.com/watch?v=qvyboGryeA8)
+**目标**: 找到矩阵 $A$ 的零空间，即求解所有满足 $A\mathbf{x} = \mathbf{0}$ 的向量 $\mathbf{x}$。
 
 ---
 
-## 1. The Initial Matrix $A$
+## 1. 初始矩阵 $A$
 
-We start with a $3 \times 4$ matrix (meaning 3 constraints, 4 variables):
+我们从一个 $3 \times 4$ 的矩阵开始（代表 3 个约束条件，4 个未知数）：
 
 $$A = \begin{bmatrix} 1 & 1 & 1 & 1 \\ 1 & 2 & 3 & 4 \\ 4 & 3 & 2 & 1 \end{bmatrix}$$
 
 ---
 
-## 2. Row Reduction to RREF (The "Squash" Process)
+## 2. 转化为最简行阶梯形 (RREF)
 
-To find the null space, we perform row operations to reach the **Reduced Row Echelon Form (RREF)**.
+为了找到零空间，我们通过行运算（消元法）将矩阵转化为 **RREF** 形式。
 
+### 第一步：将第一列除主元外化为 0
+* $R_2 - R_1 \to R_2$：第二行变为 $[0, 1, 2, 3]$
+* $R_3 - 4R_1 \to R_3$：第三行变为 $[0, -1, -2, -3]$
 
+### 第二步：将第二列除主元外化为 0
+* $R_3 + R_2 \to R_3$：第三行变为 $[0, 0, 0, 0]$ (**注意：一行消失了！说明存在冗余信息。**)
+* $R_1 - R_2 \to R_1$：第一行变为 $[1, 0, -1, -2]$
 
-### Step 1: Zero out the first column
-* $R_2 - R_1 \to R_2$: Row 2 becomes $[0, 1, 2, 3]$
-* $R_3 - 4R_1 \to R_3$: Row 3 becomes $[0, -1, -2, -3]$
-
-### Step 2: Zero out the second column
-* $R_3 + R_2 \to R_3$: Row 3 becomes $[0, 0, 0, 0]$ (**Notice: One row collapsed! Information is redundant.**)
-* $R_1 - R_2 \to R_1$: Row 1 becomes $[1, 0, -1, -2]$
-
-### Final RREF Matrix:
+### 最终的 RREF 矩阵：
 $$\text{rref}(A) = \begin{bmatrix} 1 & 0 & -1 & -2 \\ 0 & 1 & 2 & 3 \\ 0 & 0 & 0 & 0 \end{bmatrix}$$
 
 ---
 
-## 3. Identify Pivot and Free Variables
+## 3. 确定主元变量与自由变量
 
-
-
-* **Pivots (Leading 1s)**: Located in Column 1 and Column 2.
-    * Variables $x_1, x_2$ are **Pivot Variables**.
-* **Free Variables**: Columns 3 and 4 have no pivots.
-    * Variables $x_3, x_4$ are **Free Variables**. We can assign them any values (e.g., $s$ and $t$).
+* **主元 (Pivots)**：位于第 1 列和第 2 列的领先 1。
+    * 变量 $x_1, x_2$ 是 **主元变量 (Pivot Variables)**。
+* **自由变量 (Free Variables)**：第 3 列和第 4 列没有主元。
+    * 变量 $x_3, x_4$ 是 **自由变量**。我们可以给它们分配任意值（如 $s$ 和 $t$）。
 
 ---
 
-## 4. Solve for the Solution Set
+## 4. 求解方程组
 
-From RREF, we write the equations:
+根据 RREF 矩阵，我们可以写出新的方程：
 1. $x_1 - x_3 - 2x_4 = 0 \implies x_1 = x_3 + 2x_4$
 2. $x_2 + 2x_3 + 3x_4 = 0 \implies x_2 = -2x_3 - 3x_4$
 
-The solution vector $\mathbf{x}$ looks like this:
+解向量 $\mathbf{x}$ 的构造如下：
 $$\mathbf{x} = \begin{bmatrix} x_1 \\ x_2 \\ x_3 \\ x_4 \end{bmatrix} = \begin{bmatrix} x_3 + 2x_4 \\ -2x_3 - 3x_4 \\ x_3 \\ x_4 \end{bmatrix}$$
 
 ---
 
-## 5. Result: The Basis of the Null Space
+## 5. 最终结果：零空间的基 (Basis)
 
-We decompose the vector by the free variables $x_3$ and $x_4$:
+我们将解向量按照自由变量 $x_3$ 和 $x_4$ 进行拆解：
 $$\mathbf{x} = x_3 \begin{bmatrix} 1 \\ -2 \\ 1 \\ 0 \end{bmatrix} + x_4 \begin{bmatrix} 2 \\ -3 \\ 0 \\ 1 \end{bmatrix}$$
 
-**Final Null Space definition**:
+**零空间的定义**：
 $$N(A) = \text{span} \left\{ \begin{bmatrix} 1 \\ -2 \\ 1 \\ 0 \end{bmatrix}, \begin{bmatrix} 2 \\ -3 \\ 0 \\ 1 \end{bmatrix} \right\}$$
 
 ---
 
-## 💡 Economic Intuition (HEOR Context)
+## 💡 经济学直觉 (HEOR 背景)
 
-In a dataset with 3 observations and 4 parameters (over-parameterized), the Null Space represents the **"Slack"** in your model.
-* The two basis vectors we found represent directions in which you can change your input parameters **without changing the outcome** ($Ax=0$).
-* If this were a regression, it would signal **perfect multicollinearity**—your data doesn't have enough unique information to pin down all 4 parameters uniquely.
-
-
-
-
+在拥有 3 个观测值但有 4 个参数的数据集中（参数过载），零空间代表了模型的**“冗余度”**：
+* 我们找到的这两个基向量代表了输入参数可以改变的**方向**，
