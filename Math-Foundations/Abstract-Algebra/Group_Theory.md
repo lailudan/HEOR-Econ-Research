@@ -68,6 +68,8 @@ $$|H| \text{ divides } |G|$$
 * **威力**: 可以将未解决的问题从一个群转移到另一个已知的同构群中解决，再映射回来。
 * **经典案例**:
     * $\mathbb{Z}_{11}^*$ (模11乘法群) $\cong \mathbb{Z}_{10}$ (模10加法群)。
+<img width="614" height="80" alt="3ae34ffa-295c-4570-9dbb-283b58e96623" src="https://github.com/user-attachments/assets/2f980a1b-778d-4f18-ac08-1a643c1ea8d7" />
+
     * 利用此性质，证明了在 $\mathbb{Z}_p^*$ 中，平方数（Quadratic Residues）恰好占一半，这被应用于密码学和公平抛硬币协议。
 
 ### 3.3 自同构 (Automorphism) —— "Symmetry"
