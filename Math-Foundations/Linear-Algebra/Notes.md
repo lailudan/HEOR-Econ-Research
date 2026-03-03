@@ -1685,3 +1685,4 @@ $$N(A) = \text{span} \left\{ \begin{bmatrix} 1 \\ -2 \\ 1 \\ 0 \end{bmatrix}, \b
 
 <img width="1326" height="808" alt="b3435555-1b34-42b3-9174-526a36dce42f" src="https://github.com/user-attachments/assets/4b596382-8a34-4879-bae6-e2e5c1287644" />
 
+<img width="2088" height="1076" alt="520c37e93b76fc5104cbcc6f4bbfbc01" src="https://github.com/user-attachments/assets/e772d277-3bf0-435d-b4fe-9b25c9c67ff0" />
