@@ -1612,3 +1612,84 @@ $$A^{-1} = \frac{1}{\det A} \begin{bmatrix} d & -b \\ -c & a \end{bmatrix}$$
 2. **Loss of Information**: When $A$ maps a non-zero vector to zero, it "erases" its position. You cannot reconstruct the input from a zero output.
 3. **Dimensional Collapse**: This implies the matrix is "Singular" (Determinant = 0), representing a total collapse of at least one spatial dimension.
 
+
+
+
+
+
+
+# 📝 Linear Algebra Practice: Calculating the Null Space of a 3x4 Matrix
+https://www.youtube.com/watch?v=qvyboGryeA8&t=6s
+**Date**: 2026-03-03
+**Goal**: Find the Null Space of matrix $A$, which means solving for all vectors $\mathbf{x}$ such that $A\mathbf{x} = \mathbf{0}$.
+
+---
+
+## 1. The Initial Matrix $A$
+
+We start with a $3 \times 4$ matrix (meaning 3 constraints, 4 variables):
+
+$$A = \begin{bmatrix} 1 & 1 & 1 & 1 \\ 1 & 2 & 3 & 4 \\ 4 & 3 & 2 & 1 \end{bmatrix}$$
+
+---
+
+## 2. Row Reduction to RREF (The "Squash" Process)
+
+To find the null space, we perform row operations to reach the **Reduced Row Echelon Form (RREF)**.
+
+
+
+### Step 1: Zero out the first column
+* $R_2 - R_1 \to R_2$: Row 2 becomes $[0, 1, 2, 3]$
+* $R_3 - 4R_1 \to R_3$: Row 3 becomes $[0, -1, -2, -3]$
+
+### Step 2: Zero out the second column
+* $R_3 + R_2 \to R_3$: Row 3 becomes $[0, 0, 0, 0]$ (**Notice: One row collapsed! Information is redundant.**)
+* $R_1 - R_2 \to R_1$: Row 1 becomes $[1, 0, -1, -2]$
+
+### Final RREF Matrix:
+$$\text{rref}(A) = \begin{bmatrix} 1 & 0 & -1 & -2 \\ 0 & 1 & 2 & 3 \\ 0 & 0 & 0 & 0 \end{bmatrix}$$
+
+---
+
+## 3. Identify Pivot and Free Variables
+
+
+
+* **Pivots (Leading 1s)**: Located in Column 1 and Column 2.
+    * Variables $x_1, x_2$ are **Pivot Variables**.
+* **Free Variables**: Columns 3 and 4 have no pivots.
+    * Variables $x_3, x_4$ are **Free Variables**. We can assign them any values (e.g., $s$ and $t$).
+
+---
+
+## 4. Solve for the Solution Set
+
+From RREF, we write the equations:
+1. $x_1 - x_3 - 2x_4 = 0 \implies x_1 = x_3 + 2x_4$
+2. $x_2 + 2x_3 + 3x_4 = 0 \implies x_2 = -2x_3 - 3x_4$
+
+The solution vector $\mathbf{x}$ looks like this:
+$$\mathbf{x} = \begin{bmatrix} x_1 \\ x_2 \\ x_3 \\ x_4 \end{bmatrix} = \begin{bmatrix} x_3 + 2x_4 \\ -2x_3 - 3x_4 \\ x_3 \\ x_4 \end{bmatrix}$$
+
+---
+
+## 5. Result: The Basis of the Null Space
+
+We decompose the vector by the free variables $x_3$ and $x_4$:
+$$\mathbf{x} = x_3 \begin{bmatrix} 1 \\ -2 \\ 1 \\ 0 \end{bmatrix} + x_4 \begin{bmatrix} 2 \\ -3 \\ 0 \\ 1 \end{bmatrix}$$
+
+**Final Null Space definition**:
+$$N(A) = \text{span} \left\{ \begin{bmatrix} 1 \\ -2 \\ 1 \\ 0 \end{bmatrix}, \begin{bmatrix} 2 \\ -3 \\ 0 \\ 1 \end{bmatrix} \right\}$$
+
+---
+
+## 💡 Economic Intuition (HEOR Context)
+
+In a dataset with 3 observations and 4 parameters (over-parameterized), the Null Space represents the **"Slack"** in your model.
+* The two basis vectors we found represent directions in which you can change your input parameters **without changing the outcome** ($Ax=0$).
+* If this were a regression, it would signal **perfect multicollinearity**—your data doesn't have enough unique information to pin down all 4 parameters uniquely.
+
+
+
+
