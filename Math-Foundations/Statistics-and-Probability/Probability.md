@@ -22,9 +22,9 @@
 ### 🧩 1. The Math
 - **Total Outcomes**: $2^n = 2^3 = 8$.
 - ### 📐 The Formula:
-- ###  $\binom{n}{k} = \frac{n!}{k!(n-k)!}$
+- ### C = $\binom{n}{k} = \frac{n!}{k!(n-k)!}$
 - **Successful Outcomes**: $\binom{3}{2} = 3$ (HHT, HTH, THH).
-- **Probability**: $3/8 = 0.375$.
+- **Probability**: $3/8 = 0.375$. (c/p)
 
 ### 🧠 Ludan's Insight (Structural Logic)
 - This is a **Binomial Distribution (二项分布)** in its simplest form.
