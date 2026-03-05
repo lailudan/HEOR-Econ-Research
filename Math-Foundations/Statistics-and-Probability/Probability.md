@@ -30,3 +30,4 @@
 - This is a **Binomial Distribution (二项分布)** in its simplest form.
 - In HEOR, this is like calculating the probability that 2 out of 3 patients react positively to a treatment, given a 50/50 chance.
 - **The "Exactly" Trap**: If the question was "At least 2 heads", we would need to add the HHH case ($3/8 + 1/8 = 4/8$).
+- $C(3, 2)$ 竟然等于 $C(3, 1)$。直觉上：选出 2 个正面的方法数，等同于选出 1 个反面的方法数。 这种对称性在复杂模型里能帮你省掉一半的计算。
