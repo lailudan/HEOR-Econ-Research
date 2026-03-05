@@ -21,6 +21,8 @@
 
 ### 🧩 1. The Math
 - **Total Outcomes**: $2^n = 2^3 = 8$.
+- ### 📐 The Formula:
+- ###  $\binom{n}{k} = \frac{n!}{k!(n-k)!}$
 - **Successful Outcomes**: $\binom{3}{2} = 3$ (HHT, HTH, THH).
 - **Probability**: $3/8 = 0.375$.
 
