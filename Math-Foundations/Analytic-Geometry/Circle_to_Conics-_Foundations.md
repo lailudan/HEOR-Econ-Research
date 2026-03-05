@@ -60,6 +60,10 @@ $$\left(\frac{x}{a}\right)^2 + \left(\frac{y}{b}\right)^2 = 1$$
 > 在计量经济学中，多元正态分布的等高线就是一个个椭圆。理解了 $x^2/a^2 + y^2/b^2 = 1$，就理解了变量之间的相关性形状。
 
 
+
+<br>
+<br>
+
 # 玩具里的数学： Spirograph (内旋轮线) 方程拆解
 
 当你陪孩子玩万花尺（Spirograph）时，笔尖勾勒出的优美曲线在数学上被称为 **内旋轮线 (Hypotrochoid)**。
@@ -110,7 +114,7 @@ $$d \cos(\dots) \quad \text{与} \quad d \sin(\dots)$$
 ---
 
 > **陪娃笔记**：
-> 下次和 Dylan 玩的时候，试着固定齿轮（$R$ 和 $r$ 不变），只更换不同的笔孔（改变 $d$）。你会亲眼看到方程里那个“自转振幅”是如何改变图案离心率的。
+> 试着固定齿轮（$R$ 和 $r$ 不变），只更换不同的笔孔（改变 $d$）。你会亲眼看到方程里那个“自转振幅”是如何改变图案离心率的。
 
 
 ![A-hypotrochoid-with-parameters-d-r-8-and-R-4-is-a-cardioid-The-circle-with-the_W640](https://github.com/user-attachments/assets/fd2d09b5-da45-4764-ba4f-cce6ebf781bd)
