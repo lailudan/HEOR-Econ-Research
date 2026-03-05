@@ -24,10 +24,21 @@
 - ### 📐 The Formula:
 - ### C = $\binom{n}{k} = \frac{n!}{k!(n-k)!}$
 - **Successful Outcomes**: $\binom{3}{2} = 3$ (HHT, HTH, THH).
-- **Probability**: $3/8 = 0.375$. (c/p)
+- **Probability**: $3/8 = 0.375$. (combination/outcome)
 
 ### 🧠 Ludan's Insight (Structural Logic)
 - This is a **Binomial Distribution (二项分布)** in its simplest form.
 - In HEOR, this is like calculating the probability that 2 out of 3 patients react positively to a treatment, given a 50/50 chance.
 - **The "Exactly" Trap**: If the question was "At least 2 heads", we would need to add the HHH case ($3/8 + 1/8 = 4/8$).
 - $C(3, 2)$ 竟然等于 $C(3, 1)$。直觉上：选出 2 个正面的方法数，等同于选出 1 个反面的方法数。 这种对称性在复杂模型里能帮你省掉一半的计算。
+
+# Combinatorics: Calculating C(5, 3)
+- **Problem**: How many ways to choose 3 items from 5?
+- **Result**: 10.
+
+### 💡 The Symmetry Property:
+- $C(5, 3) = C(5, 2) = 10$.
+- **PhD Insight**: In statistics, this means the probability of 3 successes in 5 trials is the same as the probability of 2 successes (if $p=0.5$).
+
+### 🧩 Real-world Scenario:
+- If you have 5 variables in your HEOR model and you want to test the interaction between any 3 of them, you have exactly **10** different combinations to investigate.
