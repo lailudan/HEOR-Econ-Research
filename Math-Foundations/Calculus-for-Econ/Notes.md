@@ -606,7 +606,7 @@ $$\lim_{x \to -1} \frac{x+1}{\sqrt{x+5}-2} = \frac{-1+1}{\sqrt{-1+5}-2} = \frac{
 3. **两端求极限**：
    - $\lim_{x \to 0} -x^2 = 0$
    - $\lim_{x \to 0} x^2 = 0$
-4. **结论**：根据 **Squeeze Theorem**，$\lim_{x \to 0} x^2 \sin(1/x) = 0$。
+4. **结论**：根据 **Squeeze Theorem**，$$\lim_{x \to 0} x^2 \sin\left(\frac{1}{x}\right) = 0$$
 
 ### 🧠 认知升级
 - **适用场景**：通常用于处理包含 $\sin$ 或 $\cos$ 的震荡项，且该项前面乘了一个趋于 $0$ 的无穷小量。
