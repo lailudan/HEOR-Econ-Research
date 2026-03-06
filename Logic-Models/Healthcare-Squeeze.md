@@ -32,12 +32,16 @@ $$\lim_{x \to a} g(x) = L$$
 
 ### 1. 中国模式：下界极高，上界受限
 * **特征**：$f(\text{efficiency}) \to \infty$。
+* <img width="328" height="72" alt="08a37ce1-6dd0-4c11-aa98-522e68b5d9cd" src="https://github.com/user-attachments/assets/7dcc8017-4e75-479a-a60c-146fce791ef2" />
+
 * **现象**：挂号、看诊、检查的周转效率举世无双。
 * **挤压点**：若药物创新 $h$ 存在准入滞后，患者获益会被迫向下压缩，无限接近于“高效率但药物平稳”的平衡点。
 * **适用**：急性病、需要高频基础医疗的人群。
 
 ### 2. 美国模式：上界极高，下界坍塌
 * **特征**：$h(\text{innovation}) \to \infty$。
+* <img width="340" height="54" alt="02356096-ceb5-4939-9e1e-c6d1ce5362dc" src="https://github.com/user-attachments/assets/ab2bb219-2073-4c8f-b8da-8bce21590cc3" />
+
 * **现象**：拥有全球最前沿的 PD 药物研发与临床试验。
 * **挤压点**：若下界 $f$ 过低（专科医生预约动辄数月），即使拥有顶级药物，患者也可能错过最佳窗口。
 
