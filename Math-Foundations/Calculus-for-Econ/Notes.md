@@ -619,6 +619,10 @@ $$\lim_{x \to -1} \frac{x+1}{\sqrt{x+5}-2} = \frac{-1+1}{\sqrt{-1+5}-2} = \frac{
 
 
 
+<img width="1990" height="1034" alt="f3429f40-3a3b-4f27-97c1-33ba9ab6c959" src="https://github.com/user-attachments/assets/6ba4fd1a-42b0-4244-981b-a82c3d6acdeb" />
+
+<img width="1156" height="1534" alt="4de630c2-7953-41e4-b0d9-01600f1e27ca" src="https://github.com/user-attachments/assets/25ba086e-f2ae-43b9-ae91-152df31890c3" />
+
 
 
 
