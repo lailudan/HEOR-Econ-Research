@@ -626,5 +626,15 @@ $$\lim_{x \to -1} \frac{x+1}{\sqrt{x+5}-2} = \frac{-1+1}{\sqrt{-1+5}-2} = \frac{
 <img width="1156" height="1534" alt="4de630c2-7953-41e4-b0d9-01600f1e27ca" src="https://github.com/user-attachments/assets/25ba086e-f2ae-43b9-ae91-152df31890c3" />
 
 
+## 3/12 晨练：无穷大的方向性 (Direction of Infinity)
 
+### 📌 核心认知
+$\infty$ 和 $-\infty$ 绝对不是一回事。
+
+1. **同向发散 (Agreement)**：如 $1/x^2$，左右都趋于 $\infty$，极限可视为 $\infty$。
+2. **异向发散 (Disagreement)**：如 $1/x$，一正一负。这种“撕裂感”直接导致极限 **DNE (Does Not Exist)**。
+
+### 💡 决策启示 (Logic Model)
+在评估政策稳定性时，不仅要看平均值，更要看临界点是否会出现 $1/x$ 型的撕裂。如果左右极限不一致，系统在这一点上就是失效的。
+<img width="1692" height="886" alt="c24d0ec3-c2b5-4823-9ac5-7c43734630b7" src="https://github.com/user-attachments/assets/c58f0cb8-6626-4dcf-845f-c2cbddce03b1" />
 
