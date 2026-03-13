@@ -654,3 +654,17 @@ $$\lim_{x \to \infty} \frac{4x^5 - 3x^2 + 3}{6x^5 - 100x^2 - 10} = \frac{4}{6} =
 <img width="1324" height="402" alt="320866c4-eecc-46ad-b219-d7a8df345286" src="https://github.com/user-attachments/assets/c786d650-6cc6-4075-872b-0cb56dcbfbfe" />
 <img width="1530" height="744" alt="9e38f654-c76c-45f9-a7f5-a10786673d54" src="https://github.com/user-attachments/assets/07338ec1-1be6-4855-a6f3-84c04a2fb6ff" />
 
+
+
+## 介值定理 (Intermediate Value Theorem)
+
+### 📌 核心逻辑
+若 $f(x)$ 在 $[a, b]$ 连续，则它必将经过 $f(a)$ 与 $f(b)$ 之间的所有中间值。
+
+### 🛠 判定工具：零点存在性
+- 若 $f(a) < 0$ 且 $f(b) > 0$，则区间内必有 $f(c) = 0$。
+
+### 💡 逻辑模型 (Logic Model)
+在医疗政策或药物定价研究中，IVT 告诉我们：只要系统变量是连续变化的，从“亏损”到“盈利”的过程中，必然存在一个“收支平衡点”。我们虽然有时算不出确切的点，但能锁定它的存在区间。
+
+
