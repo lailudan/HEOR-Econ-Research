@@ -638,3 +638,19 @@ $\infty$ 和 $-\infty$ 绝对不是一回事。
 在评估政策稳定性时，不仅要看平均值，更要看临界点是否会出现 $1/x$ 型的撕裂。如果左右极限不一致，系统在这一点上就是失效的。
 <img width="1692" height="886" alt="c24d0ec3-c2b5-4823-9ac5-7c43734630b7" src="https://github.com/user-attachments/assets/c58f0cb8-6626-4dcf-845f-c2cbddce03b1" />
 
+
+
+## 3/13 晨练：无穷极限的“抓大放小” (Dominant Term Rule)
+
+### 📌 核心技巧
+处理 $\lim_{x \to \infty}$ 的分式函数时，直接无视低阶项，只看最高次项。
+
+### 📝 案例复盘
+$$\lim_{x \to \infty} \frac{4x^5 - 3x^2 + 3}{6x^5 - 100x^2 - 10} = \frac{4}{6} = \frac{2}{3}$$
+
+### 💡 哲学启示 (Logic Model)
+在研究系统长期极限（Infinity）时，**“噪音”（低阶项）会随时间蒸发，唯有“信号”（主导项）决定方向**。这对于建立 HEOR 成本预测模型至关重要，能防止我们在细节中迷失而忽略了大趋势。
+
+<img width="1324" height="402" alt="320866c4-eecc-46ad-b219-d7a8df345286" src="https://github.com/user-attachments/assets/c786d650-6cc6-4075-872b-0cb56dcbfbfe" />
+<img width="1530" height="744" alt="9e38f654-c76c-45f9-a7f5-a10786673d54" src="https://github.com/user-attachments/assets/07338ec1-1be6-4855-a6f3-84c04a2fb6ff" />
+
