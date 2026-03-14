@@ -1686,3 +1686,18 @@ $$N(A) = \text{span} \left\{ \begin{bmatrix} 1 \\ -2 \\ 1 \\ 0 \end{bmatrix}, \b
 <img width="1326" height="808" alt="b3435555-1b34-42b3-9174-526a36dce42f" src="https://github.com/user-attachments/assets/4b596382-8a34-4879-bae6-e2e5c1287644" />
 
 <img width="2088" height="1076" alt="520c37e93b76fc5104cbcc6f4bbfbc01" src="https://github.com/user-attachments/assets/e772d277-3bf0-435d-b4fe-9b25c9c67ff0" />
+
+
+
+# 📘 Relation Between Null Space and Linear Independence 
+
+**日期**: 2026-03-14
+
+**Key Theorem**:
+The columns of an $m \times n$ matrix $A$ are **linearly independent** if and only if the **null space** of $A$ contains **only the zero vector**.
+
+**Logic Chain**:
+1. $Ax = \vec{0}$ is a linear combination of columns: $x_1v_1 + x_2v_2 + \dots + x_nv_n = \vec{0}$.
+2. If columns are linearly independent, the *only* solution is $x_1 = x_2 = \dots = x_n = 0$.
+3. Thus, the Null Space $N(A)$ must be $\{ \vec{0} \}$.
+4. If $N(A)$ has non-zero vectors, columns are linearly dependent (information redundancy).
