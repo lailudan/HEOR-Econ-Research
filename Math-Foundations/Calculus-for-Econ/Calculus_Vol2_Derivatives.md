@@ -13,3 +13,4 @@ $$f'(x) = \lim_{h \to 0} \frac{f(x+h) - f(x)}{h}$$
 - **Derivative (Tangent Line)** 是预测性的（当前状态下，下一单位投入带来的变化）。
 微分课的开始，标志着从“描述系统”进化到了“预测系统变化”的阶段。
 
+https://github.com/lailudan/image/blob/main/Weixin%20Image_20260316073402_11_105.png?raw=true
