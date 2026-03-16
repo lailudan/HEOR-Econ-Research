@@ -16,3 +16,5 @@ $$f'(x) = \lim_{h \to 0} \frac{f(x+h) - f(x)}{h}$$
 ### 举例
 
 ![晨练笔记](https://github.com/lailudan/image/blob/main/Weixin%20Image_20260316073402_11_105.png?raw=true)
+
+![晨练笔记](https://github.com/lailudan/image/blob/main/ffddcb16-2b0e-40ca-b3e5-7e9e49f6219f.png?raw=true）
