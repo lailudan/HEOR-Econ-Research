@@ -21,3 +21,10 @@ $$f'(x) = \lim_{h \to 0} \frac{f(x+h) - f(x)}{h}$$
 
 
 ![晨练笔记](https://github.com/lailudan/image/blob/main/ScreenShot_2026-03-16_081221_244.png?raw=true)
+
+<br>
+<br>
+<br>
+
+这道题很好，找到deltaY和deltaX
+youtube.com/watch?time_continue=259&v=H6ZNLD1AeM8&embeds_referring_euri=https%3A%2F%2Fwww.khanacademy.org%2F&embeds_referring_origin=https%3A%2F%2Fwww.khanacademy.org
