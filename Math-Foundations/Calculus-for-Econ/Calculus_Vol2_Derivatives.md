@@ -27,4 +27,4 @@ $$f'(x) = \lim_{h \to 0} \frac{f(x+h) - f(x)}{h}$$
 <br>
 
 这道题很好，找到deltaY和deltaX
-[点击播放视频](https://www.youtube.com/watch?v=H6ZNLD1AeM8)
+[Slope of a secant line example 3](https://www.youtube.com/watch?v=H6ZNLD1AeM8)
