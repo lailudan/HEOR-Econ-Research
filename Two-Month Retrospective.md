@@ -24,7 +24,7 @@
 | Metric/Tool | Version 1.0 - 2.0 | Version 3.0 (Target) |
 | :--- | :--- | :--- |
 | **Input Ratio** | 80% Video / 20% Problems | **40% Interactive / 60% Active Practice** |
-| **Primary Platform** | Khan Academy / Static Videos | **Brilliant.org (Active/Visual)** |
+| **Primary Platform** | Khan Academy / Static Videos | **Add Brilliant.org (Active/Visual)** |
 | **Cognitive Anchor** | Text-heavy definitions | **Visual Intuition + Logical Deduction** |
 | **Difficulty Response** | Brute-force abstract theory | **Unlock-based learning (Problem-first)** |
 
