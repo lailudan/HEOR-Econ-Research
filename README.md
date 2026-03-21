@@ -1,4 +1,8 @@
 # HEOR-Econ-Research
+
+"If you zip through a page in less than an hour, you are probably going too fast."
+— Sheldon Axler 
+
 In a world of noise, math provides enough certainty. I use GitHub to track the entropy reduction of my own understanding of YOPD/YOAD.
 
 ```text
