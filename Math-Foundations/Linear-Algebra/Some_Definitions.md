@@ -74,5 +74,6 @@ $$\det(Z) = a(a) - (-b)(b) = a^2 + b^2$$
 <img width="1454" height="760" alt="19ea78ff-1b83-429a-9aa0-646bd37b6cd6" src="https://github.com/user-attachments/assets/0beddadd-5609-4dda-aecd-018c77e77de7" />
 
 
+<img width="1084" height="916" alt="0cd97072-cb66-4e24-8689-713d3fa1cd6d" src="https://github.com/user-attachments/assets/a77355a3-2846-46bc-b72a-a4f341dc7dbb" />
 
 
