@@ -283,3 +283,7 @@ $$
 * **相加** = 两个向量头尾相接（平移）。
 * **相乘** = 两个动作叠加（缩放 + 旋转）。
 * **逆元** = “撤销”那个动作的唯一指令。
+
+
+<img width="1102" height="1080" alt="07ac8aae-4e5c-4467-9707-d391efd53af4" src="https://github.com/user-attachments/assets/d2a10bad-8480-4525-9005-cdd5a79ddd14" />
+
