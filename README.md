@@ -3,6 +3,7 @@
 "If you zip through a page in less than an hour, you are probably going too fast."
 — Sheldon Axler 
 
+“可以进展缓慢，但每一步要走得扎实。”
 In a world of noise, math provides enough certainty. I use GitHub to track the entropy reduction of my own understanding of YOPD/YOAD.
 
 ```text
