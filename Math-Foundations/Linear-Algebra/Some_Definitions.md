@@ -67,3 +67,12 @@ $$\det(Z) = a(a) - (-b)(b) = a^2 + b^2$$
 * **复数的模**：对应行列式的开方 $\sqrt{\det(Z)}$。
 
 > 复数不是什么“虚幻”的数字，它只是 $2 \times 2$ 矩阵的一个子集，描述了空间中旋转与缩放的统一。
+
+
+相乘法则：
+
+<img width="1454" height="760" alt="19ea78ff-1b83-429a-9aa0-646bd37b6cd6" src="https://github.com/user-attachments/assets/0beddadd-5609-4dda-aecd-018c77e77de7" />
+
+
+
+
