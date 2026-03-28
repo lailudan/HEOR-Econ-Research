@@ -1,4 +1,24 @@
-### 🎯 研究方向：Precision Patient Finding (PPF)
+## 📄 WP1: 基于 Patient Finding 视角的罕见病就诊困境研究
+
+### 一、 重新定义“就诊难” (Problem Redefinition)
+- **现象层**：长期的诊断奥德赛 (Diagnostic Odyssey)。
+- **逻辑层**：医疗图谱中的连通性失效与路径冗余。
+- **目标**：将“不可见”的患者转化为“可干预”的节点。
+
+### 二、 技术路径 (Methodology)
+1. **数据源**：真实世界数据 (RWD / EHR)。
+2. **工具**：利用 **Graph Neural Networks (GNN)** 捕捉症状间的非线性关联。
+3. **策略**：从传统的“平均值诊断”转向针对离群值 (Outliers) 的精准识别。
+
+### 三、 HEOR 贡献 (Value Proposition)
+- **效率提升**：缩短确诊周期，优化临床试验招募 (Recruitment)。
+- **政策启示**：为医保系统提供关于“早期精准干预”的成本效果证据。
+
+> **PhD 碎碎念**：
+> 去年 9 月的我可能会写“医院排队太长”，现在的我会写“系统缺乏对高维异构数据的筛选能力导致路径坍塌”。这种精细化，就是我的进步。
+
+
+### 🎯 研究方向： Precision Patient Finding (PPF)
 
 **核心痛点：** - 诊断延迟（Diagnostic Delay）导致的社会功能损耗。
 - 传统流行病学对局部/稀缺样本的捕捉无力。
