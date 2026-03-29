@@ -101,6 +101,7 @@ $$f'(x) = \lim_{h \to 0} \frac{f(x+h) - f(x)}{h}$$
 
 
 
+<img width="1422" height="704" alt="c07235bd-0749-4d47-a64d-dcad292c92af" src="https://github.com/user-attachments/assets/9d34d83b-da2b-4bb6-bcbd-7e9b72fb4b5d" />
 
 
 ### 💡 计算意义
