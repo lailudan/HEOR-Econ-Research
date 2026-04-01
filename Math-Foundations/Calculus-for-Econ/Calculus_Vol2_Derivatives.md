@@ -113,3 +113,8 @@ $$f'(x) = \lim_{h \to 0} \frac{f(x+h) - f(x)}{h}$$
 - [ ] 记住：导数的定义式 $\lim_{h \to 0} \frac{f(x+h) - f(x)}{h}$ 本质上是**割线斜率的极限**。
 - [ ] 认知：不要混淆 $h$（割线的跨度）和 $0$（切线的瞬间）。
 
+### 例题
+<img width="1586" height="902" alt="015c5fe5-4b53-47d9-b854-020c23d970b9" src="https://github.com/user-attachments/assets/51141ecf-fc8b-4f13-9d6f-1e23458e4cd2" />
+
+
+
