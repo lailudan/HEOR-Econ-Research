@@ -116,5 +116,6 @@ $$f'(x) = \lim_{h \to 0} \frac{f(x+h) - f(x)}{h}$$
 ### 例题
 <img width="1586" height="902" alt="015c5fe5-4b53-47d9-b854-020c23d970b9" src="https://github.com/user-attachments/assets/51141ecf-fc8b-4f13-9d6f-1e23458e4cd2" />
 
+<img width="1116" height="664" alt="c16bcb21-55d4-40ca-a96e-2495670975c9" src="https://github.com/user-attachments/assets/4aca0827-d20a-4894-b458-0beddcac68cd" />
 
 
