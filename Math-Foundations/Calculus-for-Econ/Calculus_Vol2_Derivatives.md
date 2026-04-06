@@ -119,3 +119,18 @@ $$f'(x) = \lim_{h \to 0} \frac{f(x+h) - f(x)}{h}$$
 <img width="1116" height="664" alt="c16bcb21-55d4-40ca-a96e-2495670975c9" src="https://github.com/user-attachments/assets/4aca0827-d20a-4894-b458-0beddcac68cd" />
 
 
+
+## 4/06 实战补丁：利用定义计算特定点导数
+
+### 🛠 符号替换
+- $h \equiv \Delta x$ （看到 $\Delta x$ 不要慌，它就是那个无限缩小的割线跨度）。
+
+### 🔢 计算实例：$f(x) = x^2$ 在 $x = 3$ 处
+1. **写出割线斜率**：$\frac{f(3+\Delta x) - f(3)}{\Delta x} = \frac{(3+\Delta x)^2 - 9}{\Delta x}$
+2. **代数展开**：$\frac{9 + 6\Delta x + (\Delta x)^2 - 9}{\Delta x} = \frac{6\Delta x + (\Delta x)^2}{\Delta x}$
+3. **约分**：$6 + \Delta x$
+4. **取极限 ($\Delta x \to 0$)**：结果为 **6**。
+
+### 💡 深度感悟
+导数计算的精髓在于：**利用代数展开把分母上的“零”约掉**，从而变出那个隐藏在系统背后的“瞬时变化率”。
+
