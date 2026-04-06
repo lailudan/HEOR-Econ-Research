@@ -122,6 +122,10 @@ $$f'(x) = \lim_{h \to 0} \frac{f(x+h) - f(x)}{h}$$
 
 ## 4/06 实战补丁：利用定义计算特定点导数
 
+<img width="1510" height="910" alt="24da6924-3b54-49c7-832e-b7334ca0c79f" src="https://github.com/user-attachments/assets/8ccbfd99-8ae3-4382-83fc-7a88eef6ccfa" />
+
+
+
 ### 🛠 符号替换
 - $h \equiv \Delta x$ （看到 $\Delta x$ 不要慌，它就是那个无限缩小的割线跨度）。
 
