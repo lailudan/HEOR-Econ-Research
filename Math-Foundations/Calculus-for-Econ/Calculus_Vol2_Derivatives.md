@@ -118,7 +118,12 @@ $$f'(x) = \lim_{h \to 0} \frac{f(x+h) - f(x)}{h}$$
 
 <img width="1116" height="664" alt="c16bcb21-55d4-40ca-a96e-2495670975c9" src="https://github.com/user-attachments/assets/4aca0827-d20a-4894-b458-0beddcac68cd" />
 
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## 4/06 实战补丁：利用定义计算特定点导数
 
@@ -137,4 +142,8 @@ $$f'(x) = \lim_{h \to 0} \frac{f(x+h) - f(x)}{h}$$
 
 ### 💡 深度感悟
 导数计算的精髓在于：**利用代数展开把分母上的“零”约掉**，从而变出那个隐藏在系统背后的“瞬时变化率”。
+
+### 实例2
+<img width="1354" height="730" alt="cb314d4ab494a26f4e504017546492f4" src="https://github.com/user-attachments/assets/b259c524-ed0b-4bcf-a408-b26fe041a750" />
+
 
