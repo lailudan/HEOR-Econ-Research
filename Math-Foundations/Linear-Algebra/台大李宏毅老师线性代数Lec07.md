@@ -64,3 +64,11 @@ $$x_1 a_1 + x_2 a_2 + \dots + x_n a_n = 0$$
 * 包含 $\vec{0}$ = 绝对有冗余 $\rightarrow$ **Linear Dependent**。
 <img width="1866" height="828" alt="8b2aa2da-cd71-405f-8638-f58e63953212" src="https://github.com/user-attachments/assets/e25df2b0-73cb-4fea-9275-8017cb69e216" />
 
+
+### ❓ 谁独立于谁？
+
+线性独立（Linear Independence）不是指某一个向量很酷，而是指**整个集合内部没有任何“套娃”关系**：
+
+1. **个体层面**: 集合里的每一个向量都无法被其他成员“线性组合”出来。
+2. **整体层面**: 每一个向量都为系统贡献了一个**全新的、不可替代**的维度。
+3. **判定逻辑**: 如果 $a_3$ 能被 $a_1, a_2$ 搞定，那 $a_3$ 就是“寄生”的，整个集合就是 Dependent。
