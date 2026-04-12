@@ -72,3 +72,19 @@ $$x_1 a_1 + x_2 a_2 + \dots + x_n a_n = 0$$
 1. **个体层面**: 集合里的每一个向量都无法被其他成员“线性组合”出来。
 2. **整体层面**: 每一个向量都为系统贡献了一个**全新的、不可替代**的维度。
 3. **判定逻辑**: 如果 $a_3$ 能被 $a_1, a_2$ 搞定，那 $a_3$ 就是“寄生”的，整个集合就是 Dependent。
+
+
+
+
+
+
+![30be0313d6ac79640ac95144c0b61f7b](https://github.com/user-attachments/assets/bcb6fe75-f878-42dc-994f-bdccc66e61e7)
+
+
+
+<img width="1942" height="1378" alt="12af204be90e70c776775f4636b622a5" src="https://github.com/user-attachments/assets/954dc3af-f853-43eb-a09a-ffe88923da52" />
+
+<img width="1954" height="1404" alt="fb07c72e2dfb1270d9370c19c9f5fecb" src="https://github.com/user-attachments/assets/ca5078a8-9cc0-45cc-ab4c-f015fc82575d" />
+
+
+
