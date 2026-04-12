@@ -111,3 +111,54 @@ $$x_1 a_1 + x_2 a_2 + \dots + x_n a_n = 0$$
 
 
 
+
+# ⚖️ 系统平衡：Rank 与 Nullity 的博弈
+
+**日期**: 2026-04-12  
+**来源**: 李宏毅 Linear Algebra Lec 7  
+**核心公式**: $\text{Rank}(A) + \text{Nullity}(A) = n$ (总列数)
+
+---
+
+## 1. 概念诊断
+* **Rank**: 矩阵中线性独立的列向量的最大数量。代表系统的“真实维度”。
+* **Nullity**: 齐次方程 $Ax=0$ 的解空间维度。代表系统的“冗余度”。
+
+## 2. 终极判定法则 (Ludan's Insight)
+判定 $Ax=b$ 的解，必须分两步走，不能混为一谈：
+
+| 判定维度 | 考察对象 | 决定了什么？ | 数学表现 |
+| :--- | :--- | :--- | :--- |
+| **存在性** | $b \in \text{Span}(\text{columns of } A)$ | **是否有解** | $b$ 是否在列空间里 |
+| **唯一性** | Columns of $A$ are **Independent** | **解是否唯一** | $\text{Rank}(A) = n$ |
+
+---
+
+## 3. 案例复盘 (来自手写笔记)
+* **Full Rank ($R=n, N=0$)**: 
+    * 状态：精简、高效、无冗余。
+    * 结果：只要有解，绝对唯一。
+* **Low Rank ($R < n, N > 0$)**: 
+    * 状态：臃肿、存在“内鬼”。
+    * 结果：一旦有解，必然陷入“无穷多”的泥潭。
+* **特殊情况 ($R=0$)**: 
+    * 零矩阵。无论你给什么权重，输出永远是零。系统的“黑洞”。
+
+---
+
+## 💡 HEOR 研究直觉：过度识别 (Over-identification)
+在健康经济学建模中：
+* 如果变量太多但独立样本太少，会导致 $Rank < n$。
+* 结果：你无法唯一确定每个医疗干预手段的贡献。
+* **结论**: 追求 $Nullity=0$ 是实证研究中确保参数“可识别”的前提。
+
+
+![ba80c943517cbd0f7ab0932271f1aea6](https://github.com/user-attachments/assets/73e6e7b1-91ea-42ca-a515-762bb35ae5ea)
+
+<img width="1200" height="852" alt="09ba33721e1ae89f17feedca2fba9a47" src="https://github.com/user-attachments/assets/b449e5c5-7cb9-41ae-a309-cca7d9448faf" />
+
+
+
+
+
+
