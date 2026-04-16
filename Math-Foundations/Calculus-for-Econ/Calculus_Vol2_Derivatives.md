@@ -173,3 +173,7 @@ $$f'(x) = \lim_{h \to 0} \frac{f(x+h) - f(x)}{h}$$
 
 ### 💡 逻辑模型 (Logic Model)
 在经济模型中，不可微的点往往意味着“政策断层”或“边际效应的剧烈突变”。研究一个模型的可微性，本质上是在研究该系统在面临微小扰动时的**预测稳定性**。
+
+
+<img width="1622" height="862" alt="32fca29a-f75d-416a-adcb-ca269cf5388c" src="https://github.com/user-attachments/assets/5a79e143-2571-4709-a9f0-f6205a49cf16" />
+
