@@ -147,3 +147,19 @@ $$f'(x) = \lim_{h \to 0} \frac{f(x+h) - f(x)}{h}$$
 <img width="1354" height="730" alt="cb314d4ab494a26f4e504017546492f4" src="https://github.com/user-attachments/assets/b259c524-ed0b-4bcf-a408-b26fe041a750" />
 
 
+## 4/16 晨练： Differentiability (可微性)
+
+### 📌 定义
+函数在某点可微 $\iff$ 该点的导数存在（即极限 $\lim_{h \to 0} \frac{\Delta y}{\Delta x}$ 有确定的有限值）。
+
+### ⚠️ 核心逻辑：连续 vs 可微
+- **Differentiability $\implies$ Continuity** (可微必连续)
+- **Continuity $\nRightarrow$ Differentiability** (连续不一定可微，比如 $|x|$ 的尖角)
+
+### 🚫 不可微的三种情况
+1. **Corners/Cusps (尖角)**：斜率在瞬间发生突变。
+2. **Discontinuity (断裂)**：基础不牢，无法求导。
+3. **Vertical Tangents (垂直切线)**：变化率爆炸 ($\infty$)。
+
+### 💡 逻辑模型 (Logic Model)
+在经济模型中，不可微的点往往意味着“政策断层”或“边际效应的剧烈突变”。研究一个模型的可微性，本质上是在研究该系统在面临微小扰动时的**预测稳定性**。
