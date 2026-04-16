@@ -230,3 +230,4 @@ $$f'(x) = \lim_{h \to 0} \frac{f(x+h) - f(x)}{h}$$
 - **看图识别 $f'$**：不要看 $f'$ 曲线自己的升降，要看它相对于 $x$ 轴的位置。
 - **极值点判定**：看到 $f'(x) = 0$ 且曲线平滑，立即反应出这是原函数的最高点或最低点。
 
+<img width="2880" height="1920" alt="image" src="https://github.com/user-attachments/assets/c66027b4-ef3d-43f5-b38e-9289b93a0303" />
