@@ -249,3 +249,16 @@ $$f'(x) = \lim_{h \to 0} \frac{f(x+h) - f(x)}{h}$$
 
 <img width="2880" height="1920" alt="image" src="https://github.com/user-attachments/assets/9c2375b2-3a06-4de7-85e0-6ed19fe16e6c" />
 
+## 判定流程图：如何科学地判定 Differentiable？
+
+### 1. 连续性测试 (Continuity)
+- [ ] $\lim_{x \to a^-} f(x) = \lim_{x \to a^+} f(x) = f(a)$
+- *不通过？* $\to$ **不可微**（直接判死刑）。
+
+### 2. 顺滑度测试 (Smoothness)
+- [ ] $\lim_{h \to 0^-} \frac{f(a+h)-f(a)}{h} = \lim_{h \to 0^+} \frac{f(a+h)-f(a)}{h}$
+- (简便法：求出两段的导数公式，代入 $a$，看结果是否相等)。
+- *不通过？* $\to$ **连续但不可微**（图像有尖角 Corner）。
+
+### 💡 博士笔记
+不要相信肉眼的“圆润”。只要左右导数（Slope）不完全相等，该点就是系统的“逻辑断层”。
