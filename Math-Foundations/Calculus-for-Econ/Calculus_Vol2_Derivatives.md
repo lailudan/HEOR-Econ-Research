@@ -147,6 +147,16 @@ $$f'(x) = \lim_{h \to 0} \frac{f(x+h) - f(x)}{h}$$
 <img width="1354" height="730" alt="cb314d4ab494a26f4e504017546492f4" src="https://github.com/user-attachments/assets/b259c524-ed0b-4bcf-a408-b26fe041a750" />
 
 
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
 ## 4/16 晨练： Differentiability (可微性)
 
 ### 📌 定义
