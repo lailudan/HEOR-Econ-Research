@@ -160,5 +160,23 @@ $$x_1 a_1 + x_2 a_2 + \dots + x_n a_n = 0$$
 
 
 
+<br>
+<br>
+<br>
+<br>
+
+<img width="2880" height="1920" alt="stn-DjpRrDJUAOxQUGmXxSxNT3mZWsMfG9n2HLBKLhE3" src="https://github.com/user-attachments/assets/ec756492-f000-4174-98d8-97c6c0c59125" />
+
+
+
+
+
+
+
+
+
+
+
+
 
 
