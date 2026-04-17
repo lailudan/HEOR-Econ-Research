@@ -250,6 +250,10 @@ $$x_1 a_1 + x_2 a_2 + \dots + x_n a_n = 0$$
 <img width="2880" height="1920" alt="7" src="https://github.com/user-attachments/assets/7b1031e4-14b2-4de2-8380-efe7eb49b7c7" />
 <img width="2880" height="1920" alt="8" src="https://github.com/user-attachments/assets/c105f1ff-b493-47f9-8063-a937de1633a1" />
 
+
+
+
+
 <img width="2880" height="1920" alt="9" src="https://github.com/user-attachments/assets/186845de-60d1-4559-b2fc-67723e8a046b" />
 
 <img width="2880" height="1920" alt="10" src="https://github.com/user-attachments/assets/431175ec-6225-452b-8809-73e180a35768" />
