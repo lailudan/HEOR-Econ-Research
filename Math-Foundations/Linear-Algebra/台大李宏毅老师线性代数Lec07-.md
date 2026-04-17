@@ -158,13 +158,34 @@ $$x_1 a_1 + x_2 a_2 + \dots + x_n a_n = 0$$
 <img width="1200" height="852" alt="09ba33721e1ae89f17feedca2fba9a47" src="https://github.com/user-attachments/assets/b449e5c5-7cb9-41ae-a309-cca7d9448faf" />
 
 
-
-
 <br>
 <br>
 <br>
 <br>
 
+<br>
+<br>
+<br>
+<br>
+
+
+### 🧹 RREF 判定：为什么这一列不是 Standard Vector？
+
+**判定对象**: 图中第三列 $\begin{bmatrix} 2 & 1 & 0 & 0 & 0 \end{bmatrix}^T$
+
+1. ** Leading Entry (主元)**: 第二行的 $1$ 是这一列的主元。
+2. **冲突点**: 在 RREF 中，主元所在的列必须是标准单位向量。
+3. **失败原因**: 主元 $1$ 的上方出现了一个非零值 $2$。
+4. **修正动作**: 必须执行行运算（Row Operation），用第二行减去第一行的两倍，将那个 $2$ 彻底消灭为 $0$。
+
+**结论**: 只有每一列的主元都“头顶青天，脚踩大地”（上下全是 $0$），矩阵才算真正达到了 **Reduced (简化)** 状态。
+
+
+
+
+
+
+<img width="1278" height="1602" alt="98b0a5a1192307f34704a4484ecaaea3" src="https://github.com/user-attachments/assets/1355eab9-8a76-4a07-8885-6338815960da" />
 <img width="2880" height="1920" alt="stn-DjpRrDJUAOxQUGmXxSxNT3mZWsMfG9n2HLBKLhE3" src="https://github.com/user-attachments/assets/ec756492-f000-4174-98d8-97c6c0c59125" />
 
 
