@@ -1,3 +1,4 @@
+<img width="1079" height="1375" alt="27d9e421a3f1e5c8b1a7ed9af043786c" src="https://github.com/user-attachments/assets/7241d49d-418f-45ea-b244-751e43a60bef" />
 # 🧩 线性独立 (Linear Independence) 的深度诊断
 
 **日期**: 2026-04-11  
@@ -252,6 +253,7 @@ $$x_1 a_1 + x_2 a_2 + \dots + x_n a_n = 0$$
 
 
 
+<img width="1079" height="1375" alt="27d9e421a3f1e5c8b1a7ed9af043786c" src="https://github.com/user-attachments/assets/06f4aff4-7ee3-4d04-bc21-86ec0a592ec1" />
 
 
 <img width="2880" height="1920" alt="9" src="https://github.com/user-attachments/assets/186845de-60d1-4559-b2fc-67723e8a046b" />
