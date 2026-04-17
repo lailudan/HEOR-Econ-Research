@@ -182,16 +182,71 @@ $$x_1 a_1 + x_2 a_2 + \dots + x_n a_n = 0$$
 
 
 
+# 🏛️ 从《九章算术》到 RREF (4/17 晨练)
 
+**日期**: 2026-04-17  
+**核心任务**: 求解线性方程组 ($Solving \ System \ of \ Linear \ Equations$)  
+**历史联思**: 高斯消元法其实在《九章算术·方程章》中就有类似“遍乘直除”的早期记录。
+
+---
+
+## 1. 核心工具：增广矩阵 (Augmented Matrix)
+
+为了提高计算效率，我们将方程组 $Ax = b$ 简化为**增广矩阵 $[A | b]$**。
+* **维度**: 如果 $A$ 是 $m \times n$，则增广矩阵是 $m \times (n+1)$。
+* **目的**: 剥离变量符号，只处理系数，将解方程转化为矩阵的“保真变换”。
+
+
+---
+
+## 2. 等价系统与初等行变换 (Equivalent Systems & ERO)
+
+两个方程组被称为**等价 (Equivalent)**，前提是它们拥有**完全相同的解集 (Same solution set)**。
+
+### 🛠️ 三大初等行变换 (Elementary Row Operations)
+通过以下操作变换矩阵，可以保证产生的系统与原系统等价：
+1.  **Interchange**: 交换任意两行。
+2.  **Scaling**: 将某一行乘以一个**非零**常数。
+3.  **Row Addition**: 将某一行的若干倍加到另一行上。
+
+---
+
+## 3. 目标状态：简化行阶梯形 (RREF)
+
+解方程的过程，就是利用 ERO 将复杂的增广矩阵转化为最简的 **RREF** 形式。
+
+### ✅ RREF 的判定清单 (The Checklist)
+要达到 **Reduced Row Echelon Form**，必须满足以下所有条件：
+
+1.  **零行在底**: 所有的零行（全 0 行）必须位于非零行的下方。
+2.  **主元阶梯 (REF)**: 每一行左数第一个非零项（主元 $Leading \ entry$）必须位于上一行主元的右侧。
+3.  **主元归一**: 每个主元必须是 **1**。
+4.  **列纯净 (Standard Vector)**: 主元所在的列，除了主元 $1$ 之外，**其余所有项（包括主元上方）必须全部为 0**。
+
+
+---
+
+## ⚠️ 易错点拨：REF vs. RREF
+
+* **REF (Row Echelon Form)**: 只要满足“阶梯状”即可，主元上方可以有数字。
+* **RREF**: 主元列必须是**标准单位向量 (Standard Vector)**。如果主元 $1$ 的头顶还有数字（杂质），说明消元还没彻底，需要继续“向上消元”。
+
+---
+
+> **今日感悟**: 
+> “等价系统”就像是建筑物的不同视角，虽然观察的角度变了，但支撑结构的“灵魂（解集）”从未改变。
 
 
 <img width="1278" height="1602" alt="98b0a5a1192307f34704a4484ecaaea3" src="https://github.com/user-attachments/assets/1355eab9-8a76-4a07-8885-6338815960da" />
 <img width="2880" height="1920" alt="stn-DjpRrDJUAOxQUGmXxSxNT3mZWsMfG9n2HLBKLhE3" src="https://github.com/user-attachments/assets/ec756492-f000-4174-98d8-97c6c0c59125" />
 
-
-
-
-
+<img width="2880" height="1920" alt="2" src="https://github.com/user-attachments/assets/0c53395a-b846-43bd-9418-10405aa9541b" />
+<img width="2880" height="1920" alt="3" src="https://github.com/user-attachments/assets/79040d5f-efa6-4097-b982-3dbb55462433" />
+<img width="2880" height="1920" alt="4" src="https://github.com/user-attachments/assets/66ea22a4-cb99-474b-b905-ea0f464b5020" />
+<img width="2880" height="1920" alt="5" src="https://github.com/user-attachments/assets/91395254-4b30-4831-a390-69fa01f6570f" />
+<img width="2880" height="1920" alt="6" src="https://github.com/user-attachments/assets/c1268519-7bcd-4cb5-ae1a-39c557c588c6" />
+<img width="2880" height="1920" alt="7" src="https://github.com/user-attachments/assets/7b1031e4-14b2-4de2-8380-efe7eb49b7c7" />
+<img width="2880" height="1920" alt="8" src="https://github.com/user-attachments/assets/c105f1ff-b493-47f9-8063-a937de1633a1" />
 
 
 
