@@ -1,3 +1,4 @@
+<img width="2880" height="1920" alt="11" src="https://github.com/user-attachments/assets/7df4a500-ff28-45dd-b3c0-03248586d314" />
 <img width="1079" height="1375" alt="27d9e421a3f1e5c8b1a7ed9af043786c" src="https://github.com/user-attachments/assets/7241d49d-418f-45ea-b244-751e43a60bef" />
 # 🧩 线性独立 (Linear Independence) 的深度诊断
 
@@ -329,8 +330,8 @@ $$x_1 a_1 + x_2 a_2 + \dots + x_n a_n = 0$$
 
 <img width="1079" height="1375" alt="27d9e421a3f1e5c8b1a7ed9af043786c" src="https://github.com/user-attachments/assets/f9c89ce8-9c7f-43cd-a27c-c1f7f2f6d133" />
 
+<img width="2880" height="1920" alt="11" src="https://github.com/user-attachments/assets/ccc0bef5-e3c6-4633-9d6d-d997516cef67" />
 
-<img width="2880" height="1920" alt="12" src="https://github.com/user-attachments/assets/976b68ac-da79-459c-94af-c80f827e1348" />
 <img width="2880" height="1920" alt="13" src="https://github.com/user-attachments/assets/aba1f8c5-1ae2-43d9-a7dc-23eabc4da49d" />
 <img width="2880" height="1920" alt="14" src="https://github.com/user-attachments/assets/a2deb9c2-29ba-42ff-a849-db431cf8c077" />
 <img width="2880" height="1920" alt="15" src="https://github.com/user-attachments/assets/c91280a9-528a-45c8-8c22-84229950fd57" />
