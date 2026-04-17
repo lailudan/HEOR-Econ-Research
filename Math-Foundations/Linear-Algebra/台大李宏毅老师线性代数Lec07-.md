@@ -262,8 +262,78 @@ $$x_1 a_1 + x_2 a_2 + \dots + x_n a_n = 0$$
 
 
 
+# 🏛️ 线性代数笔记：方程组解的“三场审判” (RREF 实战篇)
+
+**日期**: 2026-04-17  
+**来源**: 台大李宏毅教授 Linear Algebra - Lec 8  
+**核心思维**: 通过 **RREF (简化行阶梯形)** 彻底看清方程组的底层结构。
+
+---
+
+## 1. 求解策略：高斯消元法 (Gaussian Elimination)
+
+从复杂的增广矩阵到最终答案，算法遵循以下路径：
+`原始增广矩阵` —(初等行变换)—> `REF (行阶梯形)` —(进一步化简)—> `RREF`
+
+> **重要结论**: 对于同一个矩阵，**RREF 是唯一的**。无论你先消哪一行，最后的“最简状态”都长得一模一样。
+
+---
+
+## 2. 判定：方程组的三种命运
+
+化简到 RREF 后，根据主元（Pivot）和变量的分布，方程组会走向三个截然不同的结局：
+
+### ① 唯一解 (Unique Solution)
+* **特征**: RREF 的左侧部分（系数矩阵）恰好是一个**单位矩阵 $I$**。
+* **表现**: 每一列都是主元列，没有多余的自由度。
+* **结果**: 每个变量都有一个确定的常数解，形如 $x_1 = -4, x_2 = -5, x_3 = 3$。
 
 
+### ② 无穷多解 (Infinite Solutions)
+* **特征**: 出现了**自由变量 (Free Variables)**。
+* **表现**: 并非每一列都有主元。那些没有主元的列对应的变量可以取任意值。
+* **参数化表示 (Parametric Representation)**: 
+    * 将“基本变量（Basic Variables）”表达为“自由变量”的函数。
+    * 最终解集表现为一个“基准向量”加上“自由变量”控制的方向向量。
+* **直觉**: 系统存在冗余，你可以有无数种配比方式来达到平衡。
 
+
+### ③ 无解 (No Solution / Inconsistent)
+* **特征**: 出现了“矛盾行”。
+* **表现**: 某一行在左侧系数部分全是 $0$，但在最右侧的 $b$ 列却是一个**非零值**（例如 $0 = 1$）。
+* **逻辑**: 这在数学上是不可能的，意味着你给出的约束条件在空间中根本没有交点。
+
+
+---
+
+## 3. 核心概念：中枢 (Pivot) 与 变量分类
+
+* **Pivot Positions (中枢位置)**: 矩阵 $A$ 中主元所在的坐标。
+* **Pivot Columns (中枢列)**: 包含主元的列。
+* **Basic Variables (基本变量)**: 对应主元列的变量。
+* **Free Variables (自由变量)**: 对应非主元列的变量。
+
+---
+
+## 💡 2026 研究直觉：参数的“自由度”
+
+在 **HEOR (健康经济学)** 或统计建模中：
+* **唯一解**：意味着你的数据能够完美且唯一地确定每一个影响因素（变量）的权重。
+* **自由变量**：意味着你的模型中存在“多重共线性”或变量冗余。你无法分清到底是变量 A 还是变量 B 在起作用，因为它们可以互相替代。
+* **无解**：意味着你的假设（模型）与观测到的现实（数据）之间存在本质冲突。
+
+---
+
+> **总结**: 
+> “RREF 是矩阵的‘卸妆水’。它洗掉了复杂的计算，只留下系统最真实、最精简的骨架。”
+
+<img width="1079" height="1375" alt="27d9e421a3f1e5c8b1a7ed9af043786c" src="https://github.com/user-attachments/assets/f9c89ce8-9c7f-43cd-a27c-c1f7f2f6d133" />
+
+<img width="2880" height="1920" alt="11" src="https://github.com/user-attachments/assets/269570bb-33dd-4bdb-87f2-346307bcc5e1" />
+<img width="2880" height="1920" alt="12" src="https://github.com/user-attachments/assets/976b68ac-da79-459c-94af-c80f827e1348" />
+<img width="2880" height="1920" alt="13" src="https://github.com/user-attachments/assets/aba1f8c5-1ae2-43d9-a7dc-23eabc4da49d" />
+<img width="2880" height="1920" alt="14" src="https://github.com/user-attachments/assets/a2deb9c2-29ba-42ff-a849-db431cf8c077" />
+<img width="2880" height="1920" alt="15" src="https://github.com/user-attachments/assets/c91280a9-528a-45c8-8c22-84229950fd57" />
+<img width="2880" height="1920" alt="16" src="https://github.com/user-attachments/assets/47082938-6960-411d-8038-8c3fe649f0ea" />
 
 
