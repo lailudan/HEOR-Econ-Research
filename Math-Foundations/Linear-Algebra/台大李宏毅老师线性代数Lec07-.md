@@ -238,8 +238,10 @@ $$x_1 a_1 + x_2 a_2 + \dots + x_n a_n = 0$$
 
 
 <img width="1278" height="1602" alt="98b0a5a1192307f34704a4484ecaaea3" src="https://github.com/user-attachments/assets/1355eab9-8a76-4a07-8885-6338815960da" />
-<img width="2880" height="1920" alt="stn-DjpRrDJUAOxQUGmXxSxNT3mZWsMfG9n2HLBKLhE3" src="https://github.com/user-attachments/assets/ec756492-f000-4174-98d8-97c6c0c59125" />
 
+
+
+<img width="2880" height="1920" alt="stn-DjpRrDJUAOxQUGmXxSxNT3mZWsMfG9n2HLBKLhE3" src="https://github.com/user-attachments/assets/ec756492-f000-4174-98d8-97c6c0c59125" />
 <img width="2880" height="1920" alt="2" src="https://github.com/user-attachments/assets/0c53395a-b846-43bd-9418-10405aa9541b" />
 <img width="2880" height="1920" alt="3" src="https://github.com/user-attachments/assets/79040d5f-efa6-4097-b982-3dbb55462433" />
 <img width="2880" height="1920" alt="4" src="https://github.com/user-attachments/assets/66ea22a4-cb99-474b-b905-ea0f464b5020" />
@@ -248,6 +250,9 @@ $$x_1 a_1 + x_2 a_2 + \dots + x_n a_n = 0$$
 <img width="2880" height="1920" alt="7" src="https://github.com/user-attachments/assets/7b1031e4-14b2-4de2-8380-efe7eb49b7c7" />
 <img width="2880" height="1920" alt="8" src="https://github.com/user-attachments/assets/c105f1ff-b493-47f9-8063-a937de1633a1" />
 
+<img width="2880" height="1920" alt="9" src="https://github.com/user-attachments/assets/186845de-60d1-4559-b2fc-67723e8a046b" />
+
+<img width="2880" height="1920" alt="10" src="https://github.com/user-attachments/assets/431175ec-6225-452b-8809-73e180a35768" />
 
 
 
