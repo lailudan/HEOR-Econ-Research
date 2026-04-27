@@ -365,6 +365,9 @@ $$\frac{dy}{dx} = x^n \cdot \frac{n}{x} = n \cdot x^{n-1}$$
 <br>
 <br>
 
+
+<img width="832" height="926" alt="caaba407-6ced-4b0c-a919-546e08e979d3" src="https://github.com/user-attachments/assets/1a7ee965-e073-4d69-8be3-161bee34ed96" />
+
 ### ⚠️ 逻辑警示：关于幂法则证明的循环论证
 - **初级证明 (Binomial)**：利用代数展开。优点：独立、不依赖其他导数；缺点：仅限正整数。
 - **高级证明 (Logarithmic)**：利用 $\ln$ 性质。优点：通用（全体实数）；缺点：逻辑上依赖于 $\ln(x)$ 的求导结果。
