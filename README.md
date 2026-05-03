@@ -6,6 +6,8 @@
 “可以进展缓慢，但每一步要走得扎实。”
 In a world of noise, math provides enough certainty. I use GitHub to track the entropy reduction of my own understanding of YOPD/YOAD.
 
+底层知识构建，数据的获取（DataBase 自主开发App等），模型，产出
+
 ```text
 .
 ├── README.md               # Research vision & site map
