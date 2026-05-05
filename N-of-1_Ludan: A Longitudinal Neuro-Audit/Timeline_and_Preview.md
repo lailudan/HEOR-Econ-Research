@@ -136,11 +136,11 @@ Dr.Tse 建议：开始Rasagiline 1mg
 
 血铜蓝蛋白测试
 时间：May.04,2026
-结果：指标很高，rule out
+结果：指标很高，rule out威尔逊病
 
 
 基因检测
-时间
+时间：
 结果：
 
 医生：Winona Tse, MD
