@@ -42,6 +42,7 @@ A unique record of how high-level cognitive activities (PhD research, complex ma
 
 ## ## 4. Repository Structure
 
+```text
 ├── /Timeline          # Structured event stream (Markdown/CSV)
 ├── /Doctor_Audit      # Reviews of specialists and clinical logic logs
 ├── /Personal_History  # The "Blood and Tears" - Narrative reconstructions
