@@ -108,7 +108,7 @@ Dr.Neil Rosenthal建议：开始Neupro Patch
 
 时间：Feb.23,2026
 Dr.Neil Rosenthal建议：因为我提到off time很长，他建议三颗ER 200，每天三颗，无IR
-结果：蛋白质竞争到了不可思议的程度，患者意识主导的奇迹，我要夺回我的人生！
+结果：蛋白质竞争到了不可思议的程度，患者意识主导的奇迹，我要夺回我的人生！从这一天起每日记录的N-OF-1 trial正式启动
 
 时间：Mar.04,2026
 我在CVS的协作下建议Dr.Neil Rosenthal立马解决：他开了ODT版本的IR
