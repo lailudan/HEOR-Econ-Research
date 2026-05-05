@@ -46,9 +46,9 @@ Follow-Up
 7月感觉从5月的疲劳恢复，很短暂的一段觉得还不错的时段，8月进入发病高峰期，开始整夜睡不着，肌肉紧张，情绪崩溃,脚也非常不适无法走路，社交媒体找到一个口碑不错的机构
 
 Downtown Pain Physicians
-医生： Dr. Metha （忘记last name）
+医生： Dr. Madhuri Mehtha 
 时间：Aug.15,2025
-结果：开了药 Melxoxicam 副作用极大，整夜睡不着，我想到这段日子就心有余悸，并refer给Dr.Raj Raval
+结果：发现我肌肉紧张开了药 Melxoxicam 副作用极大，整夜睡不着，我想到这段日子就心有余悸，并refer给Dr.Raj Raval
 
 Downtown Pain Physicians
 医生： Dr. Raj Raval, M.D.
