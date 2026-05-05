@@ -53,7 +53,7 @@ Downtown Pain Physicians
 Downtown Pain Physicians
 医生： Dr. Raj Raval, M.D.
 时间：Aug.15,2025
-结果：他似乎看出不少hint，还问我先生有没有发现我有认知问题
+结果：他似乎看出不少神经性系统疾病的hint，还问我先生有没有发现我有认知下降问题，当我们说没有，他就松口气
 
 Follow-Up Downtown Pain Physicians
 医生： Dr. Raj Raval, M.D.
