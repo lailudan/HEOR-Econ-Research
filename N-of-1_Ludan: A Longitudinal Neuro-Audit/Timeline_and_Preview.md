@@ -39,7 +39,7 @@ Follow-Up
 3-4月不少真空期，回国准备，强忍不适和颤抖，看了很多pt以为是肌肉问题，没有什么用
 5月回纽约在机场双腿不停颤抖，开始出现步态冻结。
 
-病急乱投医，也没想去找Dr.Lempert复查 以为自己肌肉萎缩或者体重太重尝试glp-1减肥
+病急乱投医，也没想去找Dr.Lempert复查（因为保险不match后续都叫我自己付钱，于是不能再去） 以为自己肌肉萎缩或者体重太重尝试glp-1减肥
 医生：Remedy Meds
 时间：Jun.13,2025 
 
@@ -56,26 +56,36 @@ Downtown Pain Physicians
 
 Follow-Up Downtown Pain Physicians
 医生： Dr. Raj Raval, M.D.
-时间：Aug.19,2025 并再一次order了MRI
+时间：Aug.19,2025 并再一次order了2项MRI
 
 大脑or脊椎MRI
 时间：Aug.26,2025
-结果：Open MRI，第一次有人看出来我得病，操作员小哥在我完成后祝福我feel better
+结果：Open MRI
 
 在表妹的refer下，重新我想多看骨科和神经科医生
 医生：Tariq Alfarra, DO
 时间：Video Chat Aug.26,2025
-结果：医生很明确和我说要看神经科医生，refer了Dr.David Simpson，直接约到2个月后我也是始料未及
+结果：医生很明确和我说要看神经科医生，refer了Dr.David Simpson，直接约到2个月后我也是始料未及，于是预约了Dr.Neil Rosenthal
 
 
 Follow-Up Downtown Pain Physicians
 医生： Dr. Raj Raval, M.D.
 时间：Sep.2,2025 
-结果：他似乎是看出来我可能是帕金森，虽然没说，但是居然跟我科普暗示我是，还告诉我可能需要吃什么药，我很感激她。
+结果：他似乎是看出来我可能是帕金森，虽然没说，但是居然跟我科普暗示我是，还告诉我可能需要吃什么药，我很感激他。
+
 
 大脑or脊椎MRI
 时间：Sep.03,2025
 结果：Open MRI，第一次有人看出来我得病，操作员小哥在我完成后祝福我feel better
+
+
+在和David Simpson见面前我觉得应该有人给我开药（患者管理意识第一次觉醒）
+医生：Dr.Neil Rosenthal
+时间：Sep.08,2025
+结果：开始吃左旋多巴，order DatScan
+
+
+
 
 DatScan
 NYU Langone Radiology-Tisch Hospital
@@ -85,4 +95,23 @@ NYU Langone Radiology-Tisch Hospital
 这时候我已经确诊了
 医生：Dr.David Simpson
 时间：10.30,2025
-结果：医生很明确和我找错人，找Movement Disorder才对
+结果：医生很明确和我找错人，找Movement Disorder才对，约到4月17日😄
+
+
+时间：Nov.25,2025
+Dr.Neil Rosenthal建议：开始吃ER缓释
+
+时间：Jan.05,2026
+Dr.Neil Rosenthal建议：开始Neupro Patch
+
+时间：Feb.23,2026
+Dr.Neil Rosenthal建议：因为我提到off time很长，他建议三颗ER 200，每天三颗，无IR
+结果：蛋白质竞争到了不可思议的程度，患者意识主导的奇迹，我要夺回我的人生！
+
+时间：Mar.04,2026
+我在CVS的写作下建议Dr.Neil Rosenthal立马解决：他开了ODT版本的IR
+结果：我好歹人还能function
+
+医生：Winona Tse, MD
+时间：Apr.17,2026
+结果：终于找对人了！！！！！！！！！！！！！！！！！！！！！！！
