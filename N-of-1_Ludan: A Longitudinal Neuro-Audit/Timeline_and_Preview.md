@@ -58,16 +58,14 @@ Follow-Up Downtown Pain Physicians
 医生： Dr. Raj Raval, M.D.
 时间：Aug.19,2025 并再一次order了MRI
 
-大脑、脊椎MRI
+大脑or脊椎MRI
 时间：Aug.26,2025
 结果：Open MRI，第一次有人看出来我得病，操作员小哥在我完成后祝福我feel better
 
 在表妹的refer下，重新我想多看骨科和神经科医生
 医生：Tariq Alfarra, DO
 时间：Video Chat Aug.26,2025
-结果：医生很明确和我说要看神经科医生，refer了Dr.David Simpson
-
-
+结果：医生很明确和我说要看神经科医生，refer了Dr.David Simpson，直接约到2个月后我也是始料未及
 
 
 Follow-Up Downtown Pain Physicians
@@ -75,7 +73,9 @@ Follow-Up Downtown Pain Physicians
 时间：Sep.2,2025 
 结果：他似乎是看出来我可能是帕金森，虽然没说，但是居然跟我科普暗示我是，还告诉我可能需要吃什么药，我很感激她。
 
-
+大脑or脊椎MRI
+时间：Sep.03,2025
+结果：Open MRI，第一次有人看出来我得病，操作员小哥在我完成后祝福我feel better
 
 DatScan
 NYU Langone Radiology-Tisch Hospital
