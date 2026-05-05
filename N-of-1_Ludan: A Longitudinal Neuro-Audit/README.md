@@ -1,4 +1,4 @@
-# N-of-1_Ludan: Vitals of a 40yo Primate
+# N-of-1_Ludan: Diagnosed YOPD at age of 39
 
 > **"Refusing to 'fuzz' through life. A Bayesian, math-driven audit of a Young-Onset Parkinson's journey, transforming personal history into structural evidence."**
 
