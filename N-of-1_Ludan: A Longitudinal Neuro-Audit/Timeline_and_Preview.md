@@ -74,7 +74,7 @@ Follow-Up Downtown Pain Physicians
 Follow-Up Downtown Pain Physicians
 医生： Dr. Raj Raval, M.D.
 时间：Sep.2,2025 
-结果：他似乎是看出来我可能是帕金森，虽然没说，但是居然跟我科普暗示我是，还告诉我可能需要吃什么药，我很感激他。
+结果：他似乎是看出来我可能是帕金森，虽然没说，但是居然跟我科普暗示我是，还告诉我可能需要吃什么药，我很感激他。（患者发现的金标准！！！！）
 
 
 大脑or脊椎MRI attempt 4
@@ -85,8 +85,7 @@ Follow-Up Downtown Pain Physicians
 在和David Simpson见面前我觉得应该有人给我开药（患者管理意识第一次觉醒）
 医生：Dr.Neil Rosenthal
 时间：Sep.08,2025
-结果：开始吃左旋多巴，order DatScan
-
+结果：开始吃左旋多巴，为我order DatScan
 
 
 DatScan
