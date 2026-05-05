@@ -68,6 +68,8 @@ Follow-Up Downtown Pain Physicians
 结果：医生很明确和我说要看神经科医生，refer了Dr.David Simpson，直接约到2个月后我也是始料未及，于是预约了Dr.Neil Rosenthal
 
 
+这段时间我的记忆力强悍得大脑突然想起来Dr.Lambert order MRI时写下 Parkinson's 情绪爆炸，陷入抑郁情绪不可自拔天天哭
+
 Follow-Up Downtown Pain Physicians
 医生： Dr. Raj Raval, M.D.
 时间：Sep.2,2025 
