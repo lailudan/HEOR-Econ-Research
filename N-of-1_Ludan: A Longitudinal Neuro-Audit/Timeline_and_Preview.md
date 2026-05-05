@@ -23,11 +23,11 @@ Report： 查看001
 时间：Jan.14,2025 
 结果：觉得是脊椎问题，建议照MRI
 
-大脑、脊椎MRI
+大脑、脊椎MRI attempt 1
 时间：Jan.30,2025
 结果：没完成，还trigger了幽闭恐惧症。。。。
 
-脊椎MRI
+脊椎MRI attempt 2
 时间：Feb.03,2025
 结果：勉强完成
 
@@ -58,7 +58,7 @@ Follow-Up Downtown Pain Physicians
 医生： Dr. Raj Raval, M.D.
 时间：Aug.19,2025 并再一次order了2项MRI
 
-大脑or脊椎MRI
+大脑or脊椎MRI attempt 3
 时间：Aug.26,2025
 结果：Open MRI
 
@@ -76,7 +76,7 @@ Follow-Up Downtown Pain Physicians
 结果：他似乎是看出来我可能是帕金森，虽然没说，但是居然跟我科普暗示我是，还告诉我可能需要吃什么药，我很感激他。
 
 
-大脑or脊椎MRI
+大脑or脊椎MRI attempt 4
 时间：Sep.03,2025
 结果：Open MRI，第一次有人看出来我得病，操作员小哥在我完成后祝福我feel better
 
@@ -85,7 +85,6 @@ Follow-Up Downtown Pain Physicians
 医生：Dr.Neil Rosenthal
 时间：Sep.08,2025
 结果：开始吃左旋多巴，order DatScan
-
 
 
 
