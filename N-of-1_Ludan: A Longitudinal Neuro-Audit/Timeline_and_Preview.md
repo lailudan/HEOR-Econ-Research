@@ -1,5 +1,7 @@
 Timeline and Preview:
 
+Human Longitudinal Intelligence
+
 Preview - 我不能忘记作为“正常人”的感觉
 2023年4月右脚足筋膜炎开始的一系列问诊之旅
 砍了无数脚科医生和pt，但是2024年6-9月，开始觉得身体沉重，穿鞋困难，尤其是右脚，以为是肌肉萎缩，被足筋膜炎误导。
