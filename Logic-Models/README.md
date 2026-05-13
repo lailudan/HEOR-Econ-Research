@@ -17,7 +17,7 @@
 * [CATE 与 HTE](./02_Theoretical_Models/heterogeneous_effects.md) - 异质性治疗效果的分类逻辑。
 
 ### III. 同一性与本体论 (Identity & Ontology)
-* [忒修斯之船与模型演化](./03_Philosophical_Foundations/ship_of_theseus.md) - 探讨模型更新后的同一性问题。
+* [忒修斯之船与模型演化]([./03_Philosophical_Foundations/ship_of_theseus.md](https://github.com/lailudan/HEOR-Econ-Research/blob/main/Logic-Models/Ship_of_Theseus%E5%BF%92%E4%BF%AE%E6%96%AF%E4%B9%8B%E8%88%B9.md)) - 探讨模型更新后的同一性问题。
 * [结构主义建模](./03_Philosophical_Foundations/structuralism.md) - 为什么逻辑结构优于参数组件。
 
 ---
