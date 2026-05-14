@@ -82,6 +82,8 @@ Follow-Up Downtown Pain Physicians
 大脑or脊椎MRI attempt 4
 时间：Sep.03,2025
 结果：Open MRI，第一次有人看出来我得病，操作员小哥在我完成后祝福我feel better
+同一天：[9/3/2025 2:44 PM] Forest: Craig blackstone
+[9/3/2025 2:45 PM] Forest: 可以搜一下MGH的neurology的Parkinson’s movement disorder clinic的资源 被我忽略了
 
 
 在和David Simpson见面前我觉得应该有人给我开药（患者管理意识第一次觉醒）
