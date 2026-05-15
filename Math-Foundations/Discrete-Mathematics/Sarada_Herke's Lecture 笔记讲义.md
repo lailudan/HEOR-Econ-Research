@@ -16,3 +16,19 @@
 **3. 跨学科思考**：
 - 纽约确诊 7 个月，是因为我被迫在一个“哈密顿困境”里做“欧拉式”的全量搜索。
 - **目标**：将哈密顿式的难题，通过增加有效的“引导边”，降维成欧拉式的简单路径。
+
+
+
+<br>
+<br>
+<br>
+
+Lec2 :https://www.youtube.com/watch?v=S1Zwhz-MhCs&t=6s
+
+<img width="2813" height="3677" alt="bbf41ba6ae9deee100841ebe0ea155f3" src="https://github.com/user-attachments/assets/3daf7398-349a-46c1-9984-2de8ba8fbe61" />
+
+<img width="3024" height="3972" alt="00a17768661f19f0180f71ae956f9c04" src="https://github.com/user-attachments/assets/3b8e5f75-243b-4c8f-97da-260cb2291c26" />
+
+
+
+
