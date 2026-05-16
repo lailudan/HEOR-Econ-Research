@@ -34,5 +34,13 @@ Lec2 :https://www.youtube.com/watch?v=S1Zwhz-MhCs&t=6s
 <img width="3024" height="3972" alt="00a17768661f19f0180f71ae956f9c04" src="https://github.com/user-attachments/assets/3b8e5f75-243b-4c8f-97da-260cb2291c26" />
 
 
+<br>
+<br>
+<br>
+
+Lec 3.
+
+<img width="2956" height="3762" alt="e77f957955e5b2235631cdb5b8a56d03" src="https://github.com/user-attachments/assets/4c48f73b-dda9-4e64-b7d7-5be65388ea40" />
+
 
 
