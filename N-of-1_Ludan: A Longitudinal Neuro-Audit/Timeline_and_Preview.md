@@ -1,3 +1,6 @@
+这部分记录和豆瓣的文章是我的DoseEgg白皮书：
+
+
 Timeline and Preview:
 
 Human Longitudinal Intelligence
