@@ -1,5 +1,6 @@
 这部分记录和豆瓣的文章是我的DoseEgg白皮书：
 
+“免于翻译的解脱感”与“主权在我的安全感”。
 
 Timeline and Preview:
 
