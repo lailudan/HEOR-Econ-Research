@@ -129,7 +129,6 @@ PA： Elizabeth Matthew
 结果：不敢看神经科的药，refer了Dr.Cheryl Cottrol 
 
 
-
 时间：Mar.12,2026
 医生：Dr.Cheryl Cottrol 
 结果：我第一次展示我的报告，她很认真看了我的report并表示你到底是做什么工作的？我得到了我的旧配方。但在后来和她的沟通中坚持odt和普通ir没有区别，fine.反正我也得到我需要的了。
