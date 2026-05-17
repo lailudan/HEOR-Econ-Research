@@ -132,7 +132,7 @@ Mount Sinai的脚科医生 Dr.Michael T Rutkowski 诊断出我的脚底是是更
 在见Tse医生前我决定找个能跟我更能沟通的医生
 PA： Elizabeth Matthew
 时间: March.2,2026
-结果：不敢看神经科的药，refer了Dr.Cheryl Cottrol 
+结果：她不敢开神经科的药，refer了Dr.Cheryl Cottrol 
 
 
 时间：Mar.12,2026
