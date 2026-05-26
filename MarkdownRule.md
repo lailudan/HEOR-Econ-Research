@@ -65,7 +65,7 @@
 ---
 
 ## 🛠️ Lessons for Kobe University (GSICS) or other resources
-- 在高桥老师的模型里，变量的 **Span** 决定了模型的 [填入一个词，比如：维度/解释力]。
+- 在模型里，变量的 **Span** 决定了模型的 [填入一个词，比如：维度/解释力]。
 
 
 
