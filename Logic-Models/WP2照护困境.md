@@ -58,6 +58,6 @@
 
 ---
 
-## 7. 参考文献与致谢 (References & Acknowledgments)
+## 7. 参考文献(References)
 * 重点引用：Becker (1965), Shingo Takahashi (202x), Menghan Shen (202x)。
-* 致谢：神户大学 GSICS 研究支持，以及所有分享真实碎裂生活的受访者。
+
