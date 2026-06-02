@@ -29,12 +29,8 @@
 * **“参与者中心”伦理框架：** Greshake Tzovaras et al. (2019) *"Open Humans: A platform for participant-centered research"* https://pubmed.ncbi.nlm.nih.gov/31241153/
 
 ### 💻 完善 GitHub 的学术门面
-在我的仓库中明确这份“方法论声明”（Methodology Statement）。我要清晰阐述我的工作如何对应 N-of-1 方法、患者主导研究与 HEOR 的交集。让任何来访的研究者一眼看出：**我呈现的不是日记，而是严谨的科学研究。**
+在我的仓库中明确这份“方法论声明”（Methodology Statement）。我要清晰阐述我的工作如何对应 N-of-1 方法、患者主导研究与 HEOR 的交集。
 
-### 🤝 寻找“方法论导师”
-我接下来的破圈目标不是寻找能治我的临床医生，而是寻找能**把我的实践翻译成规范学术语言**的人。例如：
-* 哥伦比亚大学或 NYU 做 HEOR 的教授。
-* MGH（麻省总医院）运动障碍中心的科研协调员。
 
 ### 🌐 融入开源学术生态
 注册并加入 **Open Humans** 平台。初期先观摩、学习别人是如何在这个温和的社区里开展工作的，不急于立刻上传自己的数据。
