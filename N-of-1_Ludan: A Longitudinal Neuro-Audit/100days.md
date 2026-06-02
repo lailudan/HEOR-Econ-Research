@@ -25,7 +25,7 @@
 
 ### 📚 溯源方法论基础
 精读两篇“祖师爷”级别的论文，作为我方法论的基石：
-* **结构化 PRO 标准：** Wicks et al. (2010) *"Sharing Health Data for Better Outcomes on PatientsLikeMe"* [Click]（https://pmc.ncbi.nlm.nih.gov/articles/PMC2956230/）
+* **结构化 PRO 标准：** Wicks et al. (2010) *"Sharing Health Data for Better Outcomes on PatientsLikeMe"* [https://pmc.ncbi.nlm.nih.gov/articles/PMC2956230/]
 * **“参与者中心”伦理框架：** Greshake Tzovaras et al. (2019) *"Open Humans: A platform for participant-centered research"* [https://pubmed.ncbi.nlm.nih.gov/31241153/]
 
 ### 💻 完善 GitHub 的学术门面
