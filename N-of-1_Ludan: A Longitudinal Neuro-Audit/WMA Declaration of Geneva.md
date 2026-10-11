@@ -10,7 +10,7 @@
 | **作为医疗专业的一员：** | **AS A MEMBER OF THE MEDICAL PROFESSION:** | **いち医療専門職として、** |
 | 我庄严宣誓，将我的生命奉献于为人类服务； | I SOLEMNLY PLEDGE to dedicate my life to the service of humanity; | 人類への奉仕に自らの人生を捧げることを厳粛に誓う |
 | **我将病人的健康和福祉作为我的首要考虑；** | **THE HEALTH AND WELL-BEING OF MY PATIENT will be my first consideration;** | **患者の健康とウェルビーイングを第一に考慮するものとする** |
-| 我将尊重病人的自主权和尊严； | I WILL RESPECT the autonomy and dignity of my patient; | 患者（かんじゃ）の自主（じしゅ）（オートノミー・自己決定権（じこけっていけん））と尊厳（そんげん）は、これを尊重（そんちょう）する |
+| 我将尊重病人的自主权和尊严； | I WILL RESPECT the autonomy and dignity of my patient; | 患者の自主（オートノミー・自己決定権（じこけっていけん））と尊厳は、これを尊重する |
 | 我将对人类生命保持最高的尊重； | I WILL MAINTAIN the utmost respect for human life; | 人間の命に対し最大限の尊敬を維持する |
 | 我将不容许任何因素（如年龄、残障、性别、立场等）介于我的职责和病人之间； | I WILL NOT PERMIT considerations of age, disease, disability, etc. to intervene between my duty and my patient; | 年齢、疾患または障碍、信条、ジェンダー等がいかなる要因も、己の責務と患者の間に介入させない |
 | 我将尊重所托付给我的秘密，即使在病人去世之后； | I WILL RESPECT the secrets that are confided in me, even after the patient has died; | 信頼の上で知り得た患者の秘密は、患者の死後においても尊重する |
